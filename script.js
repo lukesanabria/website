@@ -60,9 +60,20 @@ function formatDate(dateString) {
 }
 
 // Truncate text to specified length
-function truncateText(text, maxLength) {
+function truncateText(text, maxLength, skipToWord = null) {
     // Remove HTML tags
-    const cleanText = text.replace(/<[^>]*>/g, '');
+    let cleanText = text.replace(/<[^>]*>/g, '');
+
+    // If skipToWord is specified, try to start from after that word
+    if (skipToWord) {
+        const wordIndex = cleanText.toLowerCase().indexOf(skipToWord.toLowerCase());
+        if (wordIndex !== -1) {
+            // Start from after the word and any following spaces
+            const afterWord = cleanText.substring(wordIndex + skipToWord.length).trimStart();
+            cleanText = afterWord;
+        }
+    }
+
     if (cleanText.length <= maxLength) return cleanText;
     return cleanText.substring(0, maxLength) + '...';
 }
@@ -133,11 +144,11 @@ async function fetchRSSFeed(feedKey, feedUrl) {
 }
 
 // Create post card HTML
-function createPostCard(post, color) {
+function createPostCard(post, skipToWord = null) {
     const title = post.title;
     const link = post.link;
     const pubDate = formatDate(post.pubDate);
-    const description = truncateText(post.description || post.content || '', 150);
+    const description = truncateText(post.description || post.content || '', 150, skipToWord);
 
     return `
         <article class="post-card bg-ivory dark:bg-charcoal border border-charcoal/10 dark:border-ivory/10 rounded-lg p-6 transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
@@ -148,7 +159,7 @@ function createPostCard(post, color) {
             </h4>
             <time class="text-sm text-warm-gray mb-3 block">${pubDate}</time>
             <p class="text-sm text-warm-gray mb-4 leading-relaxed">${description}</p>
-            <a href="${link}" target="_blank" rel="noopener noreferrer" class="text-sm font-medium inline-flex items-center gap-1 hover:opacity-70 transition-opacity" style="color: ${color}">
+            <a href="${link}" target="_blank" rel="noopener noreferrer" class="text-sm font-medium inline-flex items-center gap-1 hover:opacity-70 transition-opacity text-charcoal dark:text-ivory">
                 Read More →
             </a>
         </article>
@@ -156,7 +167,7 @@ function createPostCard(post, color) {
 }
 
 // Display posts in the container
-function displayPosts(containerId, posts, color) {
+function displayPosts(containerId, posts, skipToWord = null) {
     const container = document.getElementById(containerId);
 
     if (!posts || posts.length === 0) {
@@ -172,7 +183,7 @@ function displayPosts(containerId, posts, color) {
     const recentPosts = posts.slice(0, 3);
 
     // Create HTML for each post
-    const postsHTML = recentPosts.map(post => createPostCard(post, color)).join('');
+    const postsHTML = recentPosts.map(post => createPostCard(post, skipToWord)).join('');
 
     // Fade in animation
     container.style.opacity = '0';
@@ -201,7 +212,7 @@ function displayError(containerId, newsletterName, newsletterUrl) {
 async function loadFantasyFutbolPosts() {
     try {
         const data = await fetchRSSFeed('ff-feed', RSS_FEEDS.ff);
-        displayPosts('ff-posts', data.items, '#39FF14');
+        displayPosts('ff-posts', data.items);
     } catch (error) {
         console.error('Failed to load Fantasy Futbol posts:', error);
         displayError('ff-posts', 'Fantasy Futbol', 'https://fantasyfutbol.substack.com/');
@@ -212,7 +223,8 @@ async function loadFantasyFutbolPosts() {
 async function loadTodayInMenswearPosts() {
     try {
         const data = await fetchRSSFeed('tim-feed', RSS_FEEDS.tim);
-        displayPosts('tim-posts', data.items, '#2C2C2C');
+        // Skip to after the first occurrence of "Note" in the preview text
+        displayPosts('tim-posts', data.items, 'Note');
     } catch (error) {
         console.error('Failed to load Today in Menswear posts:', error);
         displayError('tim-posts', 'Today in Menswear', 'https://www.todayinmenswear.com/');
@@ -250,6 +262,55 @@ function initScrollAnimations() {
 }
 
 // ============================================
+// MOBILE MENU FUNCTIONALITY
+// ============================================
+
+let mobileMenuOpen = false;
+
+function closeMobileMenu() {
+    const mobileMenu = document.getElementById('mobileMenu');
+    const hamburgerIcon = document.getElementById('hamburgerIcon');
+    const closeIcon = document.getElementById('closeIcon');
+
+    mobileMenuOpen = false;
+    mobileMenu.style.maxHeight = '0';
+    hamburgerIcon.classList.remove('hidden');
+    closeIcon.classList.add('hidden');
+}
+
+function initMobileMenu() {
+    const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+    const mobileMenu = document.getElementById('mobileMenu');
+    const hamburgerIcon = document.getElementById('hamburgerIcon');
+    const closeIcon = document.getElementById('closeIcon');
+    const mobileMenuLinks = document.querySelectorAll('.mobile-menu-link');
+
+    // Toggle menu on button click
+    mobileMenuToggle.addEventListener('click', () => {
+        mobileMenuOpen = !mobileMenuOpen;
+
+        if (mobileMenuOpen) {
+            mobileMenu.style.maxHeight = mobileMenu.scrollHeight + 'px';
+            hamburgerIcon.classList.add('hidden');
+            closeIcon.classList.remove('hidden');
+        } else {
+            closeMobileMenu();
+        }
+    });
+
+    // Close menu when a link is clicked (navigation handled by smooth scroll)
+    mobileMenuLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+            // Don't close immediately - let smooth scroll check the state first
+            // This prevents a race condition
+            setTimeout(() => {
+                closeMobileMenu();
+            }, 10);
+        });
+    });
+}
+
+// ============================================
 // SMOOTH SCROLL FOR NAVIGATION
 // ============================================
 
@@ -262,13 +323,23 @@ function initSmoothScroll() {
 
             const targetElement = document.querySelector(targetId);
             if (targetElement) {
-                const navHeight = document.querySelector('nav').offsetHeight;
-                const targetPosition = targetElement.offsetTop - navHeight;
+                // If mobile menu is open, wait for it to close before scrolling
+                const delay = mobileMenuOpen ? 350 : 0; // Match CSS transition duration (300ms) + buffer
 
-                window.scrollTo({
-                    top: targetPosition,
-                    behavior: 'smooth'
-                });
+                setTimeout(() => {
+                    // Get the fixed nav height - the collapsed navbar with padding is around 68-72px
+                    // We'll calculate it from the first child div which contains just the top bar
+                    const navContainer = document.querySelector('nav .max-w-6xl > div:first-child');
+                    const navHeight = navContainer ? navContainer.offsetHeight : 68;
+
+                    // Position the section header at the top of the viewport, just below the nav
+                    const targetPosition = targetElement.offsetTop - navHeight;
+
+                    window.scrollTo({
+                        top: targetPosition,
+                        behavior: 'smooth'
+                    });
+                }, delay);
             }
         });
     });
@@ -305,6 +376,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Initialize features
     initDarkMode();
+    initMobileMenu();
     initSmoothScroll();
     initScrollAnimations();
     initNavScroll();

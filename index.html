@@ -93,10 +93,22 @@
                     Luke Sanabria
                 </a>
                 <div class="flex items-center gap-8">
-                    <a href="#about" class="hidden md:inline-block hover:opacity-70 transition-opacity">About</a>
+                    <a href="#about" class="hidden md:inline-block hover:opacity-70 transition-opacity">Experience</a>
                     <a href="#projects" class="hidden md:inline-block hover:opacity-70 transition-opacity">Projects</a>
                     <a href="#writing" class="hidden md:inline-block hover:opacity-70 transition-opacity">Writing</a>
-                    <a href="#skills" class="hidden md:inline-block hover:opacity-70 transition-opacity">Skills</a>
+                    <a href="#skills" class="hidden md:inline-block hover:opacity-70 transition-opacity">Skills & Interests</a>
+                    <a href="#contact" class="hidden md:inline-block hover:opacity-70 transition-opacity">Get in Touch</a>
+
+                    <!-- Mobile Menu Button -->
+                    <button id="mobileMenuToggle" class="md:hidden p-2 rounded-lg hover:bg-charcoal/5 dark:hover:bg-ivory/5 transition-colors" aria-label="Toggle menu">
+                        <svg id="hamburgerIcon" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                        </svg>
+                        <svg id="closeIcon" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                        </svg>
+                    </button>
+
                     <button id="darkModeToggle" class="p-2 rounded-lg hover:bg-charcoal/5 dark:hover:bg-ivory/5 transition-colors" aria-label="Toggle dark mode">
                         <svg id="sunIcon" class="w-5 h-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
@@ -105,6 +117,17 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path>
                         </svg>
                     </button>
+                </div>
+            </div>
+
+            <!-- Mobile Menu -->
+            <div id="mobileMenu" class="md:hidden overflow-hidden transition-all duration-300 ease-in-out" style="max-height: 0;">
+                <div class="pt-4 pb-2 space-y-3">
+                    <a href="#about" class="block py-2 hover:opacity-70 transition-opacity mobile-menu-link">Experience</a>
+                    <a href="#projects" class="block py-2 hover:opacity-70 transition-opacity mobile-menu-link">Projects</a>
+                    <a href="#writing" class="block py-2 hover:opacity-70 transition-opacity mobile-menu-link">Writing</a>
+                    <a href="#skills" class="block py-2 hover:opacity-70 transition-opacity mobile-menu-link">Skills & Interests</a>
+                    <a href="#contact" class="block py-2 hover:opacity-70 transition-opacity mobile-menu-link">Get in Touch</a>
                 </div>
             </div>
         </div>
@@ -117,7 +140,7 @@
                 Luke Sanabria
             </h1>
             <p class="text-xl md:text-2xl text-warm-gray mb-8 font-light">
-                Ecommerce & Digital Innovation
+                Luxury Consumer Retail, Ecommerce & Technology
             </p>
             <p class="text-lg md:text-xl text-warm-gray max-w-2xl mx-auto mb-12 leading-relaxed">
                 Assistant Manager at Max Mara USA. Co-founder of Fantasy Futbol. Creator of Today in Menswear. Based in New York.
@@ -150,28 +173,125 @@
         </div>
     </section>
 
-    <!-- About Section -->
+    <!-- Experience Section -->
     <section id="about" class="py-20 px-6">
-        <div class="max-w-4xl mx-auto">
-            <h2 class="text-3xl md:text-4xl font-bold mb-12 fade-in">About</h2>
-            <div class="grid md:grid-cols-2 gap-12">
-                <div class="fade-in">
-                    <h3 class="text-xl font-semibold mb-4">Background</h3>
-                    <p class="text-warm-gray leading-relaxed mb-4">
-                        Currently serving as Assistant Manager of Ecommerce & Omnichannel Operations at Max Mara USA, where I focus on luxury fashion operations and digital transformation.
-                    </p>
-                    <p class="text-warm-gray leading-relaxed">
-                        Graduate of Boston College. Based in New York, NY. Age 28.
-                    </p>
-                </div>
+        <div class="max-w-5xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 fade-in">Experience</h2>
 
-                <div class="fade-in">
-                    <h3 class="text-xl font-semibold mb-4">Languages</h3>
-                    <ul class="space-y-2 text-warm-gray">
-                        <li>• English (native)</li>
-                        <li>• Chinese (professionally fluent)</li>
-                        <li>• Spanish (conversational, actively learning)</li>
-                    </ul>
+            <!-- Timeline -->
+            <div class="relative">
+                <!-- Timeline line -->
+                <div class="hidden md:block absolute left-[140px] top-0 bottom-0 w-px bg-charcoal/20 dark:bg-ivory/20"></div>
+
+                <!-- Timeline items -->
+                <div class="space-y-12">
+
+                    <!-- Max Mara - Assistant Manager -->
+                    <div class="timeline-item fade-in flex flex-col md:flex-row gap-6">
+                        <div class="md:w-[120px] flex-shrink-0">
+                            <p class="text-sm font-semibold text-warm-gray">Jan 2025 - Present</p>
+                        </div>
+                        <div class="relative md:pl-12 flex-grow">
+                            <div class="hidden md:flex absolute left-[-32px] top-1 w-6 h-6 rounded-full bg-ivory dark:bg-charcoal border-2 border-charcoal dark:border-ivory items-center justify-center">
+                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-lg font-semibold mb-1">Assistant Manager, E-Commerce Operations & Omnichannel Strategy</h3>
+                            <p class="text-warm-gray text-sm mb-3">Max Mara Fashion Group</p>
+                            <p class="text-warm-gray leading-relaxed">Lead omnichannel operations for seven luxury brands. Manage vendor-direct fulfillment programs across major wholesale partners and oversee customer care team. Own order lifecycle across multiple fulfillment channels.</p>
+                        </div>
+                    </div>
+
+                    <!-- Max Mara - Coordinator -->
+                    <div class="timeline-item fade-in flex flex-col md:flex-row gap-6">
+                        <div class="md:w-[120px] flex-shrink-0">
+                            <p class="text-sm font-semibold text-warm-gray">Feb 2024 - Dec 2024</p>
+                        </div>
+                        <div class="relative md:pl-12 flex-grow">
+                            <div class="hidden md:flex absolute left-[-32px] top-1 w-6 h-6 rounded-full bg-ivory dark:bg-charcoal border-2 border-charcoal dark:border-ivory items-center justify-center">
+                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-lg font-semibold mb-1">E-Commerce Operations Coordinator</h3>
+                            <p class="text-warm-gray text-sm mb-3">Max Mara Fashion Group</p>
+                            <p class="text-warm-gray leading-relaxed">Coordinated omnichannel fulfillment across retail stores and distribution centers. Owned US inventory analysis and built wholesale team's operational tech stack. Supported executive reporting for C-suite leadership.</p>
+                        </div>
+                    </div>
+
+                    <!-- Fantasy Futbol -->
+                    <div class="timeline-item fade-in flex flex-col md:flex-row gap-6">
+                        <div class="md:w-[120px] flex-shrink-0">
+                            <p class="text-sm font-semibold text-warm-gray">Jan 2024 - Present</p>
+                        </div>
+                        <div class="relative md:pl-12 flex-grow">
+                            <div class="hidden md:flex absolute left-[-32px] top-1 w-6 h-6 rounded-full bg-ivory dark:bg-charcoal border-2 border-charcoal dark:border-ivory items-center justify-center">
+                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-lg font-semibold mb-1">Cofounder & Product Lead</h3>
+                            <p class="text-warm-gray text-sm mb-3">Fantasy Futbol</p>
+                            <p class="text-warm-gray leading-relaxed">Building fantasy soccer mobile app covering Big 5 European leagues. Own product management and coordinate engineering team. Currently in beta testing preparing for App Store launch.</p>
+                        </div>
+                    </div>
+
+                    <!-- AlphaSights -->
+                    <div class="timeline-item fade-in flex flex-col md:flex-row gap-6">
+                        <div class="md:w-[120px] flex-shrink-0">
+                            <p class="text-sm font-semibold text-warm-gray">Jan 2021 - Dec 2023</p>
+                        </div>
+                        <div class="relative md:pl-12 flex-grow">
+                            <div class="hidden md:flex absolute left-[-32px] top-1 w-6 h-6 rounded-full bg-ivory dark:bg-charcoal border-2 border-charcoal dark:border-ivory items-center justify-center">
+                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-lg font-semibold mb-1">Associate, Client Services</h3>
+                            <p class="text-warm-gray text-sm mb-3">AlphaSights</p>
+                            <p class="text-warm-gray leading-relaxed">Facilitated industry diligence for institutional investors in PE and credit markets. Recruited industry experts to support client research. Developed and scaled key accounts in capital markets vertical.</p>
+                        </div>
+                    </div>
+
+                    <!-- Boston College -->
+                    <div class="timeline-item fade-in flex flex-col md:flex-row gap-6">
+                        <div class="md:w-[120px] flex-shrink-0">
+                            <p class="text-sm font-semibold text-warm-gray">2016 - 2020</p>
+                        </div>
+                        <div class="relative md:pl-12 flex-grow">
+                            <div class="hidden md:flex absolute left-[-32px] top-1 w-6 h-6 rounded-full bg-ivory dark:bg-charcoal border-2 border-charcoal dark:border-ivory items-center justify-center">
+                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z"></path>
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-lg font-semibold mb-1">Boston College</h3>
+                            <p class="text-warm-gray text-sm mb-3">Bachelor of Arts, Cum Laude</p>
+                            <p class="text-warm-gray leading-relaxed">Major in International Studies, minor in Mandarin Chinese</p>
+                        </div>
+                    </div>
+
+                    <!-- Middlebury -->
+                    <div class="timeline-item fade-in flex flex-col md:flex-row gap-6">
+                        <div class="md:w-[120px] flex-shrink-0">
+                            <p class="text-sm font-semibold text-warm-gray">2018 - 2019</p>
+                        </div>
+                        <div class="relative md:pl-12 flex-grow">
+                            <div class="hidden md:flex absolute left-[-32px] top-1 w-6 h-6 rounded-full bg-ivory dark:bg-charcoal border-2 border-charcoal dark:border-ivory items-center justify-center">
+                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z"></path>
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-lg font-semibold mb-1">Middlebury Language Schools</h3>
+                            <p class="text-warm-gray text-sm mb-3">Full-year Mandarin immersion program</p>
+                            <p class="text-warm-gray leading-relaxed">Semester in Beijing, semester in Hangzhou. Both spent with Chinese roommates and both requiring Mandarin-language thesis</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -184,67 +304,71 @@
 
             <div class="grid md:grid-cols-2 gap-8">
                 <!-- Fantasy Futbol -->
-                <div class="project-card bg-ivory dark:bg-charcoal border border-charcoal/10 dark:border-ivory/10 rounded-xl p-8 fade-in">
-                    <div class="flex items-center justify-between mb-4">
-                        <h3 class="text-2xl font-bold">Fantasy Futbol</h3>
-                        <span class="px-3 py-1 text-xs font-semibold rounded-full bg-ff-green/20 text-ff-green border border-ff-green/30">
-                            In Final Review
-                        </span>
+                <div class="project-card bg-ivory dark:bg-charcoal border border-charcoal/10 dark:border-ivory/10 rounded-xl overflow-hidden fade-in" style="display: flex; flex-direction: column;">
+                    <div class="p-8" style="flex: 1;">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="text-2xl font-bold">Fantasy Futbol</h3>
+                            <span class="px-3 py-1 text-xs font-semibold rounded-full bg-ff-green/20 text-charcoal dark:text-ivory border border-ff-green/30">
+                                In Final Review
+                            </span>
+                        </div>
+
+                        <p class="text-warm-gray mb-6 leading-relaxed">
+                            A fantasy soccer mobile game covering the Big 5 European leagues, domestic cups, and European tournaments. Currently in App Store final review.
+                        </p>
+
+                        <div class="mb-6">
+                            <h4 class="font-semibold mb-2">Coverage</h4>
+                            <p class="text-sm text-warm-gray">Premier League, La Liga, Serie A, Bundesliga, Ligue 1, UEFA Champions League, UEFA Europa League, UEFA Conference League, and all domestic cups</p>
+                        </div>
+
+                        <div>
+                            <h4 class="font-semibold mb-2">Team</h4>
+                            <p class="text-sm text-warm-gray">Co-founded with Sam Bender (Senior Software Engineer, Meta) Engineered by Deepali Gupta (Full-Stack Developer)</p>
+                        </div>
                     </div>
 
-                    <p class="text-warm-gray mb-6 leading-relaxed">
-                        A fantasy soccer mobile game covering the Big 5 European leagues, domestic cups, and European tournaments. Currently in App Store final review.
-                    </p>
-
-                    <div class="mb-6">
-                        <h4 class="font-semibold mb-2">Coverage</h4>
-                        <p class="text-sm text-warm-gray">Premier League, La Liga, Serie A, Bundesliga, Ligue 1</p>
-                    </div>
-
-                    <div class="mb-6">
-                        <h4 class="font-semibold mb-2">Team</h4>
-                        <p class="text-sm text-warm-gray">Co-founded with Sam Bender (Senior Software Engineer, Meta). Engineered by Deepali Gupta (Full-Stack Developer).</p>
-                    </div>
-
-                    <div class="flex gap-4">
-                        <a href="https://forms.gle/UqPpqSu6ahEJbJtS9" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
-                            Join Waitlist →
+                    <div class="border-t border-charcoal/10 dark:border-ivory/10 p-6 bg-charcoal/5 dark:bg-ivory/5 flex gap-3">
+                        <a href="https://forms.gle/UqPpqSu6ahEJbJtS9" target="_blank" rel="noopener noreferrer" class="flex-1 text-center px-4 py-3 text-sm font-semibold border-2 border-charcoal dark:border-ivory rounded-lg hover:bg-charcoal hover:text-ivory dark:hover:bg-ivory dark:hover:text-charcoal transition-all duration-200">
+                            Join Waitlist
                         </a>
-                        <a href="https://fantasyfutbol.notion.site/" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
-                            Knowledge Hub →
+                        <a href="https://fantasyfutbol.notion.site/" target="_blank" rel="noopener noreferrer" class="flex-1 text-center px-4 py-3 text-sm font-semibold border-2 border-charcoal dark:border-ivory rounded-lg hover:bg-charcoal hover:text-ivory dark:hover:bg-ivory dark:hover:text-charcoal transition-all duration-200">
+                            Knowledge Hub
                         </a>
                     </div>
                 </div>
 
                 <!-- Today in Menswear -->
-                <div class="project-card bg-ivory dark:bg-charcoal border border-charcoal/10 dark:border-ivory/10 rounded-xl p-8 fade-in">
-                    <div class="flex items-center justify-between mb-4">
-                        <h3 class="text-2xl font-bold">Today in Menswear</h3>
-                        <span class="px-3 py-1 text-xs font-semibold rounded-full bg-charcoal/10 dark:bg-ivory/10 text-charcoal dark:text-ivory border border-charcoal/20 dark:border-ivory/20">
-                            Active
-                        </span>
+                <div class="project-card bg-ivory dark:bg-charcoal border border-charcoal/10 dark:border-ivory/10 rounded-xl overflow-hidden fade-in" style="display: flex; flex-direction: column;">
+                    <div class="p-8" style="flex: 1;">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="text-2xl font-bold">Today in Menswear</h3>
+                            <span class="px-3 py-1 text-xs font-semibold rounded-full bg-charcoal/10 dark:bg-ivory/10 text-charcoal dark:text-ivory border border-charcoal/20 dark:border-ivory/20">
+                                Active
+                            </span>
+                        </div>
+
+                        <p class="text-warm-gray mb-6 leading-relaxed">
+                            A menswear newsletter covering exclusively menswear product across price and style spectrums. Distributed via email, YouTube Shorts, TikTok, X/Twitter, and Instagram Reels.
+                        </p>
+
+                        <div class="mb-6">
+                            <h4 class="font-semibold mb-2">Distribution</h4>
+                            <p class="text-sm text-warm-gray">Email (beehiiv), YouTube Shorts, TikTok, X/Twitter, Instagram Reels</p>
+                        </div>
+
+                        <div>
+                            <h4 class="font-semibold mb-2">Monetization</h4>
+                            <p class="text-sm text-warm-gray">Affiliate marketing through ShopMy</p>
+                        </div>
                     </div>
 
-                    <p class="text-warm-gray mb-6 leading-relaxed">
-                        A menswear newsletter covering exclusively menswear product across price and style spectrums. Distributed via email, YouTube Shorts, TikTok, X/Twitter, and Instagram Reels.
-                    </p>
-
-                    <div class="mb-6">
-                        <h4 class="font-semibold mb-2">Distribution</h4>
-                        <p class="text-sm text-warm-gray">Email (beehiiv), YouTube Shorts, TikTok, X/Twitter, Instagram Reels</p>
-                    </div>
-
-                    <div class="mb-6">
-                        <h4 class="font-semibold mb-2">Monetization</h4>
-                        <p class="text-sm text-warm-gray">Affiliate marketing through ShopMy</p>
-                    </div>
-
-                    <div class="flex gap-4">
-                        <a href="https://www.todayinmenswear.com/subscribe" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
-                            Subscribe →
+                    <div class="border-t border-charcoal/10 dark:border-ivory/10 p-6 bg-charcoal/5 dark:bg-ivory/5 flex gap-3">
+                        <a href="https://www.todayinmenswear.com/subscribe" target="_blank" rel="noopener noreferrer" class="flex-1 text-center px-4 py-3 text-sm font-semibold border-2 border-charcoal dark:border-ivory rounded-lg hover:bg-charcoal hover:text-ivory dark:hover:bg-ivory dark:hover:text-charcoal transition-all duration-200">
+                            Subscribe
                         </a>
-                        <a href="https://shopmy.us/shop/todayinmenswear" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
-                            Shop Styles →
+                        <a href="https://shopmy.us/shop/todayinmenswear" target="_blank" rel="noopener noreferrer" class="flex-1 text-center px-4 py-3 text-sm font-semibold border-2 border-charcoal dark:border-ivory rounded-lg hover:bg-charcoal hover:text-ivory dark:hover:bg-ivory dark:hover:text-charcoal transition-all duration-200">
+                            Shop Styles
                         </a>
                     </div>
                 </div>
@@ -259,10 +383,14 @@
 
             <!-- Fantasy Futbol Posts -->
             <div class="mb-16">
-                <div class="flex items-center gap-3 mb-6">
+                <div class="flex items-center gap-3 mb-4">
                     <div class="w-3 h-3 rounded-full bg-ff-green"></div>
                     <h3 class="text-2xl font-bold">Fantasy Futbol Updates</h3>
                 </div>
+
+                <p class="text-warm-gray leading-relaxed mb-8">
+                    As the founder and therefore Commissioner of Fantasy Futbol, I write monthly building-in-public updates on how app development, strategy and community building is progressing.
+                </p>
 
                 <div id="ff-posts" class="grid md:grid-cols-3 gap-6 mb-6">
                     <!-- Skeleton loaders -->
@@ -295,10 +423,14 @@
 
             <!-- Today in Menswear Posts -->
             <div>
-                <div class="flex items-center gap-3 mb-6">
+                <div class="flex items-center gap-3 mb-4">
                     <div class="w-3 h-3 rounded-full bg-charcoal dark:bg-ivory"></div>
                     <h3 class="text-2xl font-bold">Today in Menswear</h3>
                 </div>
+
+                <p class="text-warm-gray leading-relaxed mb-8">
+                    Once a week on Friday afternoons, I share menswear products across five categories: luxury, workwear, streetwear, office attire and formal wear. Tap in.
+                </p>
 
                 <div id="tim-posts" class="grid md:grid-cols-3 gap-6 mb-6">
                     <!-- Skeleton loaders -->
@@ -336,31 +468,61 @@
         <div class="max-w-6xl mx-auto">
             <h2 class="text-3xl md:text-4xl font-bold mb-12 fade-in">Skills & Interests</h2>
 
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <!-- Professional Interests -->
-                <div class="fade-in">
-                    <h3 class="text-xl font-semibold mb-4">Professional Interests</h3>
-                    <ul class="space-y-2 text-warm-gray">
-                        <li>• Ecommerce and omnichannel operations</li>
-                        <li>• Luxury fashion and high-end consumer markets</li>
-                        <li>• Digital marketing and product management</li>
-                    </ul>
-                </div>
+            <!-- Professional Skills -->
+            <div class="mb-12">
+                <h3 class="text-2xl font-semibold mb-8 fade-in">Professional</h3>
+                <div class="grid md:grid-cols-3 gap-8">
+                    <!-- Languages -->
+                    <div class="fade-in">
+                        <h4 class="text-lg font-semibold mb-4">Languages</h4>
+                        <ul class="space-y-2 text-warm-gray">
+                            <li>• Mandarin Chinese (8 years, full-year immersion in China)</li>
+                        </ul>
+                    </div>
 
+                    <!-- Technical -->
+                    <div class="fade-in">
+                        <h4 class="text-lg font-semibold mb-4">Technical</h4>
+                        <ul class="space-y-2 text-warm-gray text-sm">
+                            <li>• Salesforce Service Cloud & Marketing Cloud</li>
+                            <li>• Google Analytics</li>
+                            <li>• Looker Studio</li>
+                            <li>• Tableau</li>
+                            <li>• Excel</li>
+                        </ul>
+                    </div>
+
+                    <!-- Operations -->
+                    <div class="fade-in">
+                        <h4 class="text-lg font-semibold mb-4">Operations</h4>
+                        <ul class="space-y-2 text-warm-gray text-sm">
+                            <li>• Omnichannel fulfillment</li>
+                            <li>• Marketplace integrations (EDI/API)</li>
+                            <li>• Vendor-direct programs</li>
+                            <li>• Dropship conversion</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Personal & Technology -->
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Personal Interests -->
                 <div class="fade-in">
                     <h3 class="text-xl font-semibold mb-4">Personal Interests</h3>
                     <ul class="space-y-2 text-warm-gray">
-                        <li>• Digital hygiene and niche personal software</li>
+                        <li>• Digital hygiene</li>
                         <li>• Arsenal FC and Boston sports</li>
+                        <li>• Men's fashion and style</li>
                         <li>• Skateboarding</li>
+                        <li>• Niche consumer software</li>
                     </ul>
                 </div>
 
                 <!-- Technology Stack -->
-                <div class="fade-in md:col-span-2 lg:col-span-1">
+                <div class="fade-in md:col-span-1 lg:col-span-2">
                     <h3 class="text-xl font-semibold mb-4">Technology Stack</h3>
-                    <div class="space-y-3 text-sm text-warm-gray">
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-warm-gray">
                         <div>
                             <p class="font-medium text-charcoal dark:text-ivory mb-1">Productivity</p>
                             <p>Notion, Claude, Fantastical, Flighty</p>
@@ -384,6 +546,22 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <!-- Get in Touch Section -->
+    <section id="contact" class="py-20 px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h2 class="text-3xl md:text-4xl font-bold mb-6 fade-in">Get in Touch</h2>
+            <p class="text-lg text-warm-gray mb-6 fade-in">
+                Want to connect? Feel free to reach out for any reason.
+            </p>
+            <a href="mailto:hello@lukesanabria.com" class="inline-flex items-center gap-2 text-xl font-medium hover:opacity-70 transition-opacity fade-in">
+                hello@lukesanabria.com
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                </svg>
+            </a>
         </div>
     </section>
 
