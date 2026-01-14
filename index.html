@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Luke Sanabria - Assistant Manager at Max Mara USA, co-founder of Fantasy Futbol, and creator of Today in Menswear newsletter.">
+    <meta name="keywords" content="Luke Sanabria, ecommerce, luxury fashion, Fantasy Futbol, Today in Menswear, digital marketing">
+    <meta name="author" content="Luke Sanabria">
+
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://lukesanabria.com">
+    <meta property="og:title" content="Luke Sanabria - Ecommerce & Digital Innovation">
+    <meta property="og:description" content="Assistant Manager at Max Mara USA, co-founder of Fantasy Futbol, and creator of Today in Menswear newsletter.">
+    <meta property="og:image" content="https://lukesanabria.com/og-image.jpg">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://lukesanabria.com">
+    <meta name="twitter:title" content="Luke Sanabria - Ecommerce & Digital Innovation">
+    <meta name="twitter:description" content="Assistant Manager at Max Mara USA, co-founder of Fantasy Futbol, and creator of Today in Menswear newsletter.">
+    <meta name="twitter:image" content="https://lukesanabria.com/og-image.jpg">
+
+    <!-- Schema.org Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Luke Sanabria",
+      "jobTitle": "Assistant Manager, Ecommerce & Omnichannel Operations",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Max Mara USA"
+      },
+      "alumniOf": "Boston College",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "New York",
+        "addressRegion": "NY"
+      },
+      "email": "hello@lukesanabria.com",
+      "url": "https://lukesanabria.com",
+      "sameAs": [
+        "https://www.linkedin.com/in/lukesanabria/",
+        "https://github.com/lukesanabria"
+      ]
+    }
+    </script>
+
+    <title>Luke Sanabria - Ecommerce & Digital Innovation</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        ivory: '#FAFAF9',
+                        charcoal: '#2C2C2C',
+                        'warm-gray': '#8B8B8B',
+                        'ff-green': '#39FF14'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-ivory dark:bg-charcoal text-charcoal dark:text-ivory transition-colors duration-300">
+
+    <!-- Navigation -->
+    <nav class="fixed top-0 left-0 right-0 z-50 bg-ivory/90 dark:bg-charcoal/90 backdrop-blur-sm border-b border-charcoal/10 dark:border-ivory/10">
+        <div class="max-w-6xl mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <a href="#home" class="text-xl font-semibold tracking-tight hover:opacity-70 transition-opacity">
+                    Luke Sanabria
+                </a>
+                <div class="flex items-center gap-8">
+                    <a href="#about" class="hidden md:inline-block hover:opacity-70 transition-opacity">About</a>
+                    <a href="#projects" class="hidden md:inline-block hover:opacity-70 transition-opacity">Projects</a>
+                    <a href="#writing" class="hidden md:inline-block hover:opacity-70 transition-opacity">Writing</a>
+                    <a href="#skills" class="hidden md:inline-block hover:opacity-70 transition-opacity">Skills</a>
+                    <button id="darkModeToggle" class="p-2 rounded-lg hover:bg-charcoal/5 dark:hover:bg-ivory/5 transition-colors" aria-label="Toggle dark mode">
+                        <svg id="sunIcon" class="w-5 h-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+                        </svg>
+                        <svg id="moonIcon" class="w-5 h-5 block dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="min-h-screen flex items-center justify-center px-6 pt-20">
+        <div class="max-w-4xl mx-auto text-center fade-in">
+            <h1 class="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
+                Luke Sanabria
+            </h1>
+            <p class="text-xl md:text-2xl text-warm-gray mb-8 font-light">
+                Ecommerce & Digital Innovation
+            </p>
+            <p class="text-lg md:text-xl text-warm-gray max-w-2xl mx-auto mb-12 leading-relaxed">
+                Assistant Manager at Max Mara USA. Co-founder of Fantasy Futbol. Creator of Today in Menswear. Based in New York.
+            </p>
+
+            <!-- Social Links -->
+            <div class="flex items-center justify-center gap-6 mb-12">
+                <a href="https://www.linkedin.com/in/lukesanabria/" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="LinkedIn">
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                    </svg>
+                </a>
+                <a href="https://github.com/lukesanabria" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="GitHub">
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                        <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd"/>
+                    </svg>
+                </a>
+                <a href="mailto:hello@lukesanabria.com" class="social-link" aria-label="Email">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                    </svg>
+                </a>
+            </div>
+
+            <a href="#about" class="inline-block text-warm-gray hover:text-charcoal dark:hover:text-ivory transition-colors">
+                <svg class="w-6 h-6 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/>
+                </svg>
+            </a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-20 px-6">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 fade-in">About</h2>
+            <div class="grid md:grid-cols-2 gap-12">
+                <div class="fade-in">
+                    <h3 class="text-xl font-semibold mb-4">Background</h3>
+                    <p class="text-warm-gray leading-relaxed mb-4">
+                        Currently serving as Assistant Manager of Ecommerce & Omnichannel Operations at Max Mara USA, where I focus on luxury fashion operations and digital transformation.
+                    </p>
+                    <p class="text-warm-gray leading-relaxed">
+                        Graduate of Boston College. Based in New York, NY. Age 28.
+                    </p>
+                </div>
+
+                <div class="fade-in">
+                    <h3 class="text-xl font-semibold mb-4">Languages</h3>
+                    <ul class="space-y-2 text-warm-gray">
+                        <li>• English (native)</li>
+                        <li>• Chinese (professionally fluent)</li>
+                        <li>• Spanish (conversational, actively learning)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="py-20 px-6 bg-charcoal/5 dark:bg-ivory/5">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 fade-in">Projects</h2>
+
+            <div class="grid md:grid-cols-2 gap-8">
+                <!-- Fantasy Futbol -->
+                <div class="project-card bg-ivory dark:bg-charcoal border border-charcoal/10 dark:border-ivory/10 rounded-xl p-8 fade-in">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="text-2xl font-bold">Fantasy Futbol</h3>
+                        <span class="px-3 py-1 text-xs font-semibold rounded-full bg-ff-green/20 text-ff-green border border-ff-green/30">
+                            In Final Review
+                        </span>
+                    </div>
+
+                    <p class="text-warm-gray mb-6 leading-relaxed">
+                        A fantasy soccer mobile game covering the Big 5 European leagues, domestic cups, and European tournaments. Currently in App Store final review.
+                    </p>
+
+                    <div class="mb-6">
+                        <h4 class="font-semibold mb-2">Coverage</h4>
+                        <p class="text-sm text-warm-gray">Premier League, La Liga, Serie A, Bundesliga, Ligue 1</p>
+                    </div>
+
+                    <div class="mb-6">
+                        <h4 class="font-semibold mb-2">Team</h4>
+                        <p class="text-sm text-warm-gray">Co-founded with Sam Bender (Senior Software Engineer, Meta). Engineered by Deepali Gupta (Full-Stack Developer).</p>
+                    </div>
+
+                    <div class="flex gap-4">
+                        <a href="https://forms.gle/UqPpqSu6ahEJbJtS9" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
+                            Join Waitlist →
+                        </a>
+                        <a href="https://fantasyfutbol.notion.site/" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
+                            Knowledge Hub →
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Today in Menswear -->
+                <div class="project-card bg-ivory dark:bg-charcoal border border-charcoal/10 dark:border-ivory/10 rounded-xl p-8 fade-in">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="text-2xl font-bold">Today in Menswear</h3>
+                        <span class="px-3 py-1 text-xs font-semibold rounded-full bg-charcoal/10 dark:bg-ivory/10 text-charcoal dark:text-ivory border border-charcoal/20 dark:border-ivory/20">
+                            Active
+                        </span>
+                    </div>
+
+                    <p class="text-warm-gray mb-6 leading-relaxed">
+                        A menswear newsletter covering exclusively menswear product across price and style spectrums. Distributed via email, YouTube Shorts, TikTok, X/Twitter, and Instagram Reels.
+                    </p>
+
+                    <div class="mb-6">
+                        <h4 class="font-semibold mb-2">Distribution</h4>
+                        <p class="text-sm text-warm-gray">Email (beehiiv), YouTube Shorts, TikTok, X/Twitter, Instagram Reels</p>
+                    </div>
+
+                    <div class="mb-6">
+                        <h4 class="font-semibold mb-2">Monetization</h4>
+                        <p class="text-sm text-warm-gray">Affiliate marketing through ShopMy</p>
+                    </div>
+
+                    <div class="flex gap-4">
+                        <a href="https://www.todayinmenswear.com/subscribe" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
+                            Subscribe →
+                        </a>
+                        <a href="https://shopmy.us/shop/todayinmenswear" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
+                            Shop Styles →
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Writing Section -->
+    <section id="writing" class="py-20 px-6">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 fade-in">Writing</h2>
+
+            <!-- Fantasy Futbol Posts -->
+            <div class="mb-16">
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="w-3 h-3 rounded-full bg-ff-green"></div>
+                    <h3 class="text-2xl font-bold">Fantasy Futbol Updates</h3>
+                </div>
+
+                <div id="ff-posts" class="grid md:grid-cols-3 gap-6 mb-6">
+                    <!-- Skeleton loaders -->
+                    <div class="post-skeleton">
+                        <div class="h-6 bg-charcoal/10 dark:bg-ivory/10 rounded mb-3 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-2 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-4 animate-pulse w-3/4"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded animate-pulse w-1/2"></div>
+                    </div>
+                    <div class="post-skeleton">
+                        <div class="h-6 bg-charcoal/10 dark:bg-ivory/10 rounded mb-3 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-2 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-4 animate-pulse w-3/4"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded animate-pulse w-1/2"></div>
+                    </div>
+                    <div class="post-skeleton">
+                        <div class="h-6 bg-charcoal/10 dark:bg-ivory/10 rounded mb-3 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-2 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-4 animate-pulse w-3/4"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded animate-pulse w-1/2"></div>
+                    </div>
+                </div>
+
+                <div class="text-center">
+                    <a href="https://fantasyfutbol.substack.com/" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
+                        View all Fantasy Futbol posts →
+                    </a>
+                </div>
+            </div>
+
+            <!-- Today in Menswear Posts -->
+            <div>
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="w-3 h-3 rounded-full bg-charcoal dark:bg-ivory"></div>
+                    <h3 class="text-2xl font-bold">Today in Menswear</h3>
+                </div>
+
+                <div id="tim-posts" class="grid md:grid-cols-3 gap-6 mb-6">
+                    <!-- Skeleton loaders -->
+                    <div class="post-skeleton">
+                        <div class="h-6 bg-charcoal/10 dark:bg-ivory/10 rounded mb-3 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-2 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-4 animate-pulse w-3/4"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded animate-pulse w-1/2"></div>
+                    </div>
+                    <div class="post-skeleton">
+                        <div class="h-6 bg-charcoal/10 dark:bg-ivory/10 rounded mb-3 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-2 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-4 animate-pulse w-3/4"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded animate-pulse w-1/2"></div>
+                    </div>
+                    <div class="post-skeleton">
+                        <div class="h-6 bg-charcoal/10 dark:bg-ivory/10 rounded mb-3 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-2 animate-pulse"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded mb-4 animate-pulse w-3/4"></div>
+                        <div class="h-4 bg-charcoal/10 dark:bg-ivory/10 rounded animate-pulse w-1/2"></div>
+                    </div>
+                </div>
+
+                <div class="text-center">
+                    <a href="https://www.todayinmenswear.com/" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-sm font-medium hover:opacity-70 transition-opacity">
+                        View all Today in Menswear posts →
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills & Interests Section -->
+    <section id="skills" class="py-20 px-6 bg-charcoal/5 dark:bg-ivory/5">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 fade-in">Skills & Interests</h2>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Professional Interests -->
+                <div class="fade-in">
+                    <h3 class="text-xl font-semibold mb-4">Professional Interests</h3>
+                    <ul class="space-y-2 text-warm-gray">
+                        <li>• Ecommerce and omnichannel operations</li>
+                        <li>• Luxury fashion and high-end consumer markets</li>
+                        <li>• Digital marketing and product management</li>
+                    </ul>
+                </div>
+
+                <!-- Personal Interests -->
+                <div class="fade-in">
+                    <h3 class="text-xl font-semibold mb-4">Personal Interests</h3>
+                    <ul class="space-y-2 text-warm-gray">
+                        <li>• Digital hygiene and niche personal software</li>
+                        <li>• Arsenal FC and Boston sports</li>
+                        <li>• Skateboarding</li>
+                    </ul>
+                </div>
+
+                <!-- Technology Stack -->
+                <div class="fade-in md:col-span-2 lg:col-span-1">
+                    <h3 class="text-xl font-semibold mb-4">Technology Stack</h3>
+                    <div class="space-y-3 text-sm text-warm-gray">
+                        <div>
+                            <p class="font-medium text-charcoal dark:text-ivory mb-1">Productivity</p>
+                            <p>Notion, Claude, Fantastical, Flighty</p>
+                        </div>
+                        <div>
+                            <p class="font-medium text-charcoal dark:text-ivory mb-1">Media</p>
+                            <p>Readwise Reader, Calibre, Overcast, Unwatched</p>
+                        </div>
+                        <div>
+                            <p class="font-medium text-charcoal dark:text-ivory mb-1">Privacy</p>
+                            <p>Proton Pass, Proton Mail, Brave, Signal</p>
+                        </div>
+                        <div>
+                            <p class="font-medium text-charcoal dark:text-ivory mb-1">Finance</p>
+                            <p>Copilot Money, Fidelity</p>
+                        </div>
+                        <div>
+                            <p class="font-medium text-charcoal dark:text-ivory mb-1">Development</p>
+                            <p>Claude Code, GitHub, Vercel</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="py-12 px-6 border-t border-charcoal/10 dark:border-ivory/10">
+        <div class="max-w-6xl mx-auto text-center">
+            <p class="text-warm-gray text-sm mb-4">
+                © 2026 Luke Sanabria. Built with HTML, Tailwind CSS, and Vanilla JavaScript.
+            </p>
+            <div class="flex items-center justify-center gap-6">
+                <a href="https://www.linkedin.com/in/lukesanabria/" target="_blank" rel="noopener noreferrer" class="text-warm-gray hover:text-charcoal dark:hover:text-ivory transition-colors text-sm">
+                    LinkedIn
+                </a>
+                <a href="https://github.com/lukesanabria" target="_blank" rel="noopener noreferrer" class="text-warm-gray hover:text-charcoal dark:hover:text-ivory transition-colors text-sm">
+                    GitHub
+                </a>
+                <a href="mailto:hello@lukesanabria.com" class="text-warm-gray hover:text-charcoal dark:hover:text-ivory transition-colors text-sm">
+                    Email
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>

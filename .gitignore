@@ -1,0 +1,86 @@
+# ============================================
+# Git Ignore for Luke Sanabria Website
+# ============================================
+
+# macOS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Node modules (if added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Build outputs (if build process added later)
+dist/
+build/
+*.log
+
+# Vercel
+.vercel
+
+# Netlify
+.netlify/
+
+# Cache directories
+.cache/
+.parcel-cache/
+.npm/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# OS generated files
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python (if using local server)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Personal notes
+notes.txt
+TODO.txt
+NOTES.md
+
+# Large media files (add specific ones if needed)
+# *.mp4
+# *.mov
+# *.avi
