@@ -1,4 +1,4 @@
-// Pulls visited NYC places from the Notion "Directory" database and writes places.json.
+// Pulls all visited places from the Notion "Directory" database and writes places.json.
 // Usage: node --env-file=.env scripts/sync-places.js
 // Requires NOTION_API_KEY (create an internal integration at notion.so/my-integrations,
 // then share the "📍 Places" page with it).
@@ -49,12 +49,7 @@ async function queryAllPages(apiKey) {
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify({
-                filter: {
-                    and: [
-                        { property: 'City/Town', select: { equals: 'NYC' } },
-                        { property: 'Been?', checkbox: { equals: true } }
-                    ]
-                },
+                filter: { property: 'Been?', checkbox: { equals: true } },
                 page_size: 100,
                 ...(cursor ? { start_cursor: cursor } : {})
             })

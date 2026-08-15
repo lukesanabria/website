@@ -48,7 +48,7 @@ Displays the 3 most recent posts from both newsletters using RSS feeds:
 Professional interests, personal hobbies, and technology stack.
 
 ### Places
-A hidden page (linked quietly from the footer) showing a map of NYC places I've actually visited, built with Apple MapKit JS. Sourced from a personal Notion database and synced manually:
+A hidden page (linked quietly from the footer) showing a map of every place I've actually visited, built with Apple MapKit JS. Sourced from a personal Notion database and synced manually:
 
 ```bash
 node --env-file=.env scripts/sync-places.js
