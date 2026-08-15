@@ -25,7 +25,7 @@ const RESTAURANT_CAFE_OVERRIDES = {
     "Edith's Sandwich Counter ": 'Cafe',
     'Dolce Delight': 'Cafe',
     'Hutch + Waldo': 'Cafe',
-    'Win Son Bakery': 'Cafe'
+    'Win Son Bakery': 'Restaurants'
 };
 
 function bucketsForTags(tags, name) {
