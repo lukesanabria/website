@@ -1,0 +1,2603 @@
+[
+  {
+    "name": "Nenes Taqueria",
+    "lat": 40.678516,
+    "lng": -73.982032,
+    "neighborhoods": [
+      "Brooklyn",
+      "Park Slope"
+    ],
+    "tags": [
+      "Restaurants",
+      "Mexican"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=660%20Degraw%20St,%20Brooklyn,%20NY%2011217,%20United%20States&coordinate=40.678516,-73.982032&name=Nenes%20Taqueria&place-id=I9B410DB69277A784&map=transit"
+  },
+  {
+    "name": "Los Burritos de Juarez ",
+    "lat": 40.693085,
+    "lng": -73.972158,
+    "neighborhoods": [
+      "Brooklyn",
+      "Fort Greene"
+    ],
+    "tags": [
+      "Restaurants",
+      "Mexican"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=354%20Myrtle%20Ave,%20Brooklyn,%20NY%20%2011205,%20United%20States&coordinate=40.693085,-73.972158&name=Los%20Burritos%20Ju%C3%A1rez&place-id=IAE7F2B4CC27292DC&map=transit"
+  },
+  {
+    "name": "Frita Batidos",
+    "lat": 40.713187,
+    "lng": -73.967702,
+    "neighborhoods": [
+      "Brooklyn",
+      "Williamsburg"
+    ],
+    "tags": [
+      "Restaurants",
+      "Cuban",
+      "Burgers",
+      "Lunch",
+      "Drinks"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=334%20Kent%20Ave%0ABrooklyn,%20NY%20%2011249%0AUnited%20States&coordinate=40.713187,-73.967702&name=Frita%20Batidos%20Brooklyn&place-id=IF65FF5C84BF6F1F&map=transit"
+  },
+  {
+    "name": "Vato ",
+    "lat": 40.670247,
+    "lng": -73.979017,
+    "neighborhoods": [
+      "Brooklyn",
+      "South Slope",
+      "Park Slope"
+    ],
+    "tags": [
+      "Restaurants",
+      "Mexican"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=226%207th%20Ave,%20Brooklyn,%20NY%20%2011215,%20United%20States&coordinate=40.670247,-73.979017&name=Vato&place-id=I4509D38DFC8272B7&map=transit"
+  },
+  {
+    "name": "Cubana Cafe",
+    "lat": 40.682619684262356,
+    "lng": -73.99337958544493,
+    "neighborhoods": [
+      "Brooklyn",
+      "Cobble Hill"
+    ],
+    "tags": [
+      "Restaurants",
+      "Cuban"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=IF5BC048AD996D80&address=272+Smith+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.682619684262356%2C-73.99337958544493&name=Cubana+Cafe&_provider=9902"
+  },
+  {
+    "name": "Union Grounds",
+    "lat": 40.68266951737175,
+    "lng": -73.99334572255611,
+    "neighborhoods": [
+      "Brooklyn",
+      "Cobble Hill"
+    ],
+    "tags": [
+      "Sports Bar",
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=ICDD50029FD893063&address=270+Smith+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.68266951737175%2C-73.99334572255611&name=Union+Grounds&_provider=9902"
+  },
+  {
+    "name": "Wing Bar",
+    "lat": 40.68252281469312,
+    "lng": -73.99318613111973,
+    "neighborhoods": [
+      "Brooklyn",
+      "Cobble Hill"
+    ],
+    "tags": [
+      "Bar",
+      "Quick food",
+      "Wings",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=I1B3BE9C217199446&address=275+Smith+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.68252281469312%2C-73.99318613111973&name=WingBar&_provider=9902"
+  },
+  {
+    "name": "Zombie Hut",
+    "lat": 40.682546,
+    "lng": -73.9930648,
+    "neighborhoods": [
+      "Brooklyn",
+      "Cobble Hill"
+    ],
+    "tags": [
+      "Bar",
+      "Outdoor"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=I53A01904B47F3550&address=273+Smith+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.682546%2C-73.9930648&name=Zombie+Hut&_provider=9902"
+  },
+  {
+    "name": "Briciola Pizza Bar",
+    "lat": 40.7291417,
+    "lng": -74.0033785,
+    "neighborhoods": [
+      "West Village",
+      "South Village",
+      "Manhattan"
+    ],
+    "tags": [
+      "Restaurants",
+      "Pizza",
+      "Italian",
+      "Dinner"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=I41B0BC7D376758AF&address=14+Bedford+St%2C+New+York%2C+NY++10014%2C+United+States&coordinate=40.7291417%2C-74.0033785&name=Briciola+Pizza+Bar&_provider=9902"
+  },
+  {
+    "name": "Leon’s Bagels",
+    "lat": 40.7276965,
+    "lng": -74.0004375,
+    "neighborhoods": [
+      "Greenwich Village",
+      "West Side",
+      "Noho",
+      "Manhattan"
+    ],
+    "tags": [
+      "Breakfast",
+      "Breakfast Sandwich",
+      "Takeout",
+      "Coffee",
+      "Bagels",
+      "Quick food"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=IF30BE25E6EC5371A&address=169+Thompson+St%2C+Ste+B%2C+New+York%2C+NY++10012%2C+United+States&coordinate=40.7276965%2C-74.0004375&name=Leon%27s+Bagels&_provider=9902"
+  },
+  {
+    "name": "The Django",
+    "lat": 40.719289,
+    "lng": -74.0049212,
+    "neighborhoods": [
+      "Manhattan",
+      "Tribeca",
+      "West Side"
+    ],
+    "tags": [
+      "Jazz Bar",
+      "Bar",
+      "Cocktail Bar",
+      "Small plates",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=IE3249EDD0C973DF0&address=2+Sixth+Avenue%2C+New+York%2C+NY++10013%2C+United+States&coordinate=40.719289%2C-74.0049212&name=The+Django&_provider=9902"
+  },
+  {
+    "name": "Resilko",
+    "lat": 40.6779405,
+    "lng": -74.017671,
+    "neighborhoods": [
+      "Brooklyn",
+      "Red Hook"
+    ],
+    "tags": [
+      "Shopping",
+      "Furniture",
+      "Antiques"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=I69CD54C3900C41C9&address=106+Ferris+St%2C+Ste+B10%2C+Brooklyn%2C+NY++11231%2C+United+States&coordinate=40.6779405%2C-74.017671&name=Resiklo&_provider=9902"
+  },
+  {
+    "name": "Valentino Pier",
+    "lat": 40.6783319,
+    "lng": -74.0180375,
+    "neighborhoods": [
+      "Brooklyn",
+      "Red Hook"
+    ],
+    "tags": [
+      "Outdoor",
+      "Park",
+      "Waterfront"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=I1B325F6E1B3DD0BD&address=104+Ferris+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.6783319%2C-74.0180375&name=Valentino+Pier&_provider=9902"
+  },
+  {
+    "name": "Steve's Authentic Key Lime Pie",
+    "lat": 40.677723,
+    "lng": -74.018303,
+    "neighborhoods": [
+      "Brooklyn",
+      "Red Hook"
+    ],
+    "tags": [
+      "Desserts",
+      "Takeout"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=IA940A78846DBAE64&address=185+Van+Dyke+St%2C+Brooklyn%2C+NY++11231%2C+United+States&coordinate=40.677723%2C-74.018303&name=Steve%E2%80%99s+Authentic+Key+Lime+Pie&_provider=9902"
+  },
+  {
+    "name": "Brooklyn Crab",
+    "lat": 40.6753849,
+    "lng": -74.0165324,
+    "neighborhoods": [
+      "Brooklyn",
+      "Red Hook"
+    ],
+    "tags": [
+      "Restaurants",
+      "Dinner",
+      "Lunch",
+      "Outdoor",
+      "Bar",
+      "Seafood"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?place-id=I4A200B0E1F85953C&address=24+Reed+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.6753849%2C-74.0165324&name=Brooklyn+Crab&_provider=9902"
+  },
+  {
+    "name": "Rains Law Room",
+    "lat": 40.738713,
+    "lng": -73.994601,
+    "neighborhoods": [
+      "Chelsea",
+      "Manhattan",
+      "Downtown"
+    ],
+    "tags": [
+      "Bar",
+      "Cocktail Bar",
+      "Speak easy"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=48%20W%2017th%20St,%20New%20York,%20NY%20%2010011,%20United%20States&coordinate=40.738713,-73.994601&name=Raines%20Law%20Room&place-id=IB17E11274C7EFCE&map=transit"
+  },
+  {
+    "name": "Mimi Cheng’s",
+    "lat": 40.730706,
+    "lng": -73.986407,
+    "neighborhoods": [
+      "Manhattan",
+      "Downtown",
+      "East Village"
+    ],
+    "tags": [
+      "Dinner",
+      "Restaurants",
+      "Chinese",
+      "Fusion",
+      "Takeout"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=179%202nd%20Ave,%20New%20York,%20NY%20%2010003,%20United%20States&coordinate=40.730706,-73.986407&name=Mimi%20Cheng's&place-id=I6D4970F73B65C8E1&map=transit"
+  },
+  {
+    "name": "S&P Diner",
+    "lat": 40.741104,
+    "lng": -73.990157,
+    "neighborhoods": [
+      "Manhattan",
+      "Flatiron",
+      "Gramercy"
+    ],
+    "tags": [
+      "Breakfast",
+      "Diner",
+      "Lunch",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=174%20Fifth%20Ave,%20New%20York,%20NY%2010010,%20United%20States&coordinate=40.741104,-73.990157&name=S%26P&place-id=I5A913CC09000A531&map=transit"
+  },
+  {
+    "name": "Salt & Pepper Deli",
+    "lat": 40.740781,
+    "lng": -73.988512,
+    "neighborhoods": [
+      "Manhattan",
+      "Gramercy",
+      "Flatiron"
+    ],
+    "tags": [
+      "Bodega",
+      "Breakfast Sandwich",
+      "Deli",
+      "Convenience Store"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=10%20E%2023rd%20St,%20Ste%2012,%20New%20York,%20NY%20%2010010,%20United%20States&coordinate=40.740781,-73.988512&name=Salt%20%26%20Pepper&place-id=I2DB3B8A9EECC43F3&map=transit"
+  },
+  {
+    "name": "Crompton Ale House",
+    "lat": 40.745753,
+    "lng": -73.993322,
+    "neighborhoods": [
+      "Flatiron",
+      "Manhattan",
+      "Gramercy",
+      "Chelsea"
+    ],
+    "tags": [
+      "Bar",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=159%20W%2026th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&coordinate=40.745753,-73.993322&name=Crompton%20Ale%20House&place-id=IB1B2146F235673F7&map=transit"
+  },
+  {
+    "name": "Smithfield Hall",
+    "lat": 40.744762,
+    "lng": -73.993526,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea",
+      "Flatiron",
+      "Gramercy"
+    ],
+    "tags": [
+      "Bar",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=138%20W%2025th%20St,%20New%20York,%20NY%2010001,%20United%20States&coordinate=40.744762,-73.993526&name=Smithfield%20Hall&place-id=IA67CDFACE86BBDFA&map=transit"
+  },
+  {
+    "name": "DSW",
+    "lat": 40.734977,
+    "lng": -73.991562,
+    "neighborhoods": [
+      "Manhattan",
+      "Union Square",
+      "Downtown"
+    ],
+    "tags": [
+      "Shopping",
+      "Shoes"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=40%20E%2014th%20St,%20New%20York,%20NY%2010003,%20United%20States&coordinate=40.734977,-73.991562&name=DSW%20Designer%20Shoe%20Warehouse&place-id=I18372DF86AA89073&map=transit"
+  },
+  {
+    "name": "Comme des Garcon",
+    "lat": 40.747287,
+    "lng": -74.005527,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea"
+    ],
+    "tags": [
+      "Shopping",
+      "Menswear",
+      "Multi-brand"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=520%20W%2022nd%20St,%20New%20York,%20NY%20%2010011,%20United%20States&coordinate=40.747287,-74.005527&name=Comme%20des%20Gar%C3%A7ons&place-id=IE4C0A81A9CBCCF63&map=h"
+  },
+  {
+    "name": "Guggenheim Chelsea",
+    "lat": 40.749386,
+    "lng": -74.005555,
+    "neighborhoods": [
+      "Chelsea",
+      "Manhattan"
+    ],
+    "tags": [
+      "Museum",
+      "Gallery",
+      "Art"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=541%20W%2024th%20St,%20New%20York,%20NY%20%2010011,%20United%20States&coordinate=40.749386,-74.005555&name=Gagosian&place-id=I69490916EA68B2D6&map=h"
+  },
+  {
+    "name": "Edith's Sandwich Counter ",
+    "lat": 40.711693,
+    "lng": -73.949119,
+    "neighborhoods": [
+      "Manhattan",
+      "West Side",
+      "West Village"
+    ],
+    "tags": [
+      "Breakfast",
+      "Breakfast Sandwich",
+      "Coffee",
+      "Quick food"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=495 Lorimer St, Brooklyn, NY 11211, United States&auid=6844793949261892624&ll=40.711693,-73.949119&lsp=9902&q=Edith’s Sandwich Counter"
+  },
+  {
+    "name": "Roscioli",
+    "lat": 40.727737,
+    "lng": -74.002601,
+    "neighborhoods": [
+      "Manhattan",
+      "West Side",
+      "Greenwich Village"
+    ],
+    "tags": [
+      "Italian",
+      "Dinner",
+      "Wine",
+      "Prefix",
+      "Restaurants"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=43%20MacDougal%20St,%20New%20York,%20NY%20%2010012,%20United%20States&coordinate=40.727737,-74.002601&name=Roscioli&place-id=ID2B3581F20422221&map=transit"
+  },
+  {
+    "name": "Pisillo’s",
+    "lat": 40.74333,
+    "lng": -73.996478,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea"
+    ],
+    "tags": [
+      "Sandwiches",
+      "Italian",
+      "Takeout"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=202%207th%20Ave,%20New%20York,%20NY%20%2010011,%20United%20States&coordinate=40.743330,-73.996478&name=Pisillo%20Italian%20Panini%20Chelsea&place-id=IF6F6C6D28C006F05&map=transit"
+  },
+  {
+    "name": "Court Pastry Shop",
+    "lat": 40.684052,
+    "lng": -73.995353,
+    "neighborhoods": [
+      "Brooklyn",
+      "Cobble Hill"
+    ],
+    "tags": [
+      "Pastries",
+      "Bakery"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=298%20Court%20St,%20Brooklyn,%20NY%2011231,%20United%20States&coordinate=40.684052,-73.995353&name=Court%20Pastry%20Shop&place-id=I8C888199193941BA&map=transit"
+  },
+  {
+    "name": "Baby Luc’s",
+    "lat": 40.680042,
+    "lng": -73.996829,
+    "neighborhoods": [
+      "Brooklyn",
+      "Carroll Gardens"
+    ],
+    "tags": [
+      "Quick food",
+      "Restaurants",
+      "Pizza",
+      "Italian"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=387%20Court%20St,%20Brooklyn,%20NY%2011231,%20United%20States&coordinate=40.680042,-73.996829&name=Baby%20Luc%E2%80%99s&place-id=I4E6A89FC0ED5F771&map=transit"
+  },
+  {
+    "name": "F&F Restaurant & Bar",
+    "lat": 40.677157,
+    "lng": -73.998178,
+    "neighborhoods": [
+      "Brooklyn",
+      "Carroll Gardens"
+    ],
+    "tags": [
+      "Restaurants",
+      "Italian",
+      "Dinner",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=465%20Court%20St,%20Brooklyn,%20NY%20%2011231,%20United%20States&coordinate=40.677157,-73.998178&name=F%26F%20Restaurant%20and%20Bar&place-id=IBCFFBD66C428ED5D&map=transit"
+  },
+  {
+    "name": "Mezcal’s Mexican",
+    "lat": 40.676071,
+    "lng": -73.999069,
+    "neighborhoods": [
+      "Brooklyn",
+      "Carroll Gardens"
+    ],
+    "tags": [
+      "Restaurants",
+      "Mexican",
+      "Bar"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=522%20Court%20St,%20Brooklyn,%20NY%20%2011231,%20United%20States&coordinate=40.676071,-73.999069&name=Mezcal's%20Mexican%20Restaurant-%20Carroll%20Gardens&place-id=IA744724131859B0B&map=transit"
+  },
+  {
+    "name": "Wythe",
+    "lat": 40.716896,
+    "lng": -73.991125,
+    "neighborhoods": [
+      "Manhattan",
+      "LES"
+    ],
+    "tags": [
+      "Clothes",
+      "Shopping",
+      "Menswear"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=59%20Orchard%20St,%20New%20York,%20NY%20%2010002,%20United%20States&coordinate=40.716896,-73.991125&name=Wythe&place-id=I1D7208F458A6C953&map=transit"
+  },
+  {
+    "name": "Kartik Research",
+    "lat": 40.716864,
+    "lng": -73.990987,
+    "neighborhoods": [
+      "Manhattan",
+      "LES"
+    ],
+    "tags": [
+      "Menswear",
+      "Clothes",
+      "Shopping"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=61%20Orchard%20St,%20New%20York,%20NY%20%2010002,%20United%20States&coordinate=40.716864,-73.990987&name=Kartik%20Research&place-id=I736F7B7A9742F390&map=transit"
+  },
+  {
+    "name": "Gotham Burger Social Club",
+    "lat": 40.720038,
+    "lng": -73.987601,
+    "neighborhoods": [
+      "Manhattan",
+      "LES"
+    ],
+    "tags": [
+      "Burgers",
+      "Dinner",
+      "Takeout",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=131%20Essex%20St,%20New%20York,%20NY%20%2010002,%20United%20States&coordinate=40.720038,-73.987601&name=Gotham%20Burger%20Social%20Club&place-id=I8B177DECECB3787D&map=transit"
+  },
+  {
+    "name": "North Dumpling",
+    "lat": 40.715829,
+    "lng": -73.989845,
+    "neighborhoods": [
+      "Manhattan",
+      "LES",
+      "China Town"
+    ],
+    "tags": [
+      "Dinner",
+      "Chinese",
+      "Takeout",
+      "Lunch"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=27%20Essex%20St,%20New%20York,%20NY%2010002,%20United%20States&coordinate=40.715829,-73.989845&name=China%20North%20Dumpling&place-id=I4DFA0218D8FADC81&map=transit"
+  },
+  {
+    "name": "Denim Surgeon ",
+    "lat": 40.751699,
+    "lng": -73.988838,
+    "neighborhoods": [
+      "Chelsea",
+      "MSG"
+    ],
+    "tags": [
+      "Repair",
+      "Tailor",
+      "Denim"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/place?address=150%20W%2036th%20St,%20FL%203,%20New%20York,%20NY%20%2010018,%20United%20States&coordinate=40.751699,-73.988838&name=Denim%20Surgeon&place-id=IFA47AB5356E01D67&map=transit"
+  },
+  {
+    "name": "The Quarter Club",
+    "lat": 40.712727,
+    "lng": -73.957089,
+    "neighborhoods": [
+      "Brooklyn",
+      "Williamsburg"
+    ],
+    "tags": [
+      "Bar",
+      "Restaurants",
+      "American",
+      "Burgers",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=312%20Grand%20St,%20Brooklyn,%20NY%20%2011211,%20United%20States&auid=11441624483621496438&ll=40.712727,-73.957089&lsp=9902&q=The%20Quarter%20Club&t=r"
+  },
+  {
+    "name": "The Emerson",
+    "lat": 40.69414,
+    "lng": -73.961817,
+    "neighborhoods": [
+      "Brooklyn",
+      "Clinton Hill"
+    ],
+    "tags": [
+      "Bar",
+      "Pool Table"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=561%20Myrtle%20Ave,%20Brooklyn,%20NY%20%2011205,%20United%20States&auid=5478571243283671265&ll=40.694140,-73.961817&lsp=9902&q=The%20Emerson&t=r"
+  },
+  {
+    "name": "Rocka Rolla",
+    "lat": 40.713945,
+    "lng": -73.952801,
+    "neighborhoods": [
+      "Brooklyn",
+      "Williamsburg"
+    ],
+    "tags": [
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=486%20Metropolitan%20Ave,%20Brooklyn,%20NY%2011211,%20United%20States&auid=7747860666218249302&ll=40.713945,-73.952801&lsp=9902&q=Rocka%20Rolla&t=r"
+  },
+  {
+    "name": "SANT AMBROEUS Coffee Bar",
+    "lat": 40.764563,
+    "lng": -73.969162,
+    "neighborhoods": [
+      "Manhattan",
+      "Midtown",
+      "UES"
+    ],
+    "tags": [
+      "Coffee",
+      "Pastries",
+      "Cafe"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=540 Park Ave, New York, NY 10021, United States&auid=18066894040254917962&ll=40.764563,-73.969162&lsp=9902&q=Sant Ambroeus Coffee Bar at Loews Regency Hotel&t=r"
+  },
+  {
+    "name": "Caffe Panna",
+    "lat": 40.736994,
+    "lng": -73.986791,
+    "neighborhoods": [
+      "Gramercy",
+      "Flatiron",
+      "Manhattan"
+    ],
+    "tags": [
+      "Ice Cream"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=77 Irving Pl, New York, NY  10003, United States&auid=11676972622472163041&ll=40.736994,-73.986791&lsp=9902&q=Caffè Panna&t=r"
+  },
+  {
+    "name": "Hani",
+    "lat": 40.729141,
+    "lng": -73.989937,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village",
+      "Astor Place"
+    ],
+    "tags": [
+      "Pastries",
+      "Cafe",
+      "Coffee"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=67%20Cooper%20Square,%20New%20York,%20NY%20%2010003,%20United%20States&auid=915282337298529642&ll=40.729141,-73.989937&lsp=9902&q=Hani%E2%80%99s&t=r"
+  },
+  {
+    "name": "Emmets on Grove",
+    "lat": 40.732915,
+    "lng": -74.004522,
+    "neighborhoods": [
+      "Manhattan",
+      "West Side",
+      "Greenwich Village"
+    ],
+    "tags": [
+      "Restaurants",
+      "Pizza"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=39%20Grove%20St,%20New%20York,%20NY%2010014,%20United%20States&auid=10735738698491014515&ll=40.732915,-74.004522&lsp=9902&q=Emmett's%20on%20Grove&t=r"
+  },
+  {
+    "name": "Al Badawi",
+    "lat": 40.690655,
+    "lng": -73.994944,
+    "neighborhoods": [
+      "Brooklyn",
+      "Cobble Hill",
+      "Brooklyn Heights"
+    ],
+    "tags": [
+      "Restaurants",
+      "Mediterranean",
+      "Takeout"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=151%20Atlantic%20Ave,%20Brooklyn,%20NY%20%2011201,%20United%20States&auid=14597705685427646969&ll=40.690655,-73.994944&lsp=9902&q=Al%20Badawi&t=r"
+  },
+  {
+    "name": "Porto Rico Importing Co.",
+    "lat": 40.729492,
+    "lng": -74.001639,
+    "neighborhoods": [
+      "West Side",
+      "Manhattan"
+    ],
+    "tags": [
+      "Coffee"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=201%20Bleecker%20St,%20New%20York,%20NY%20%2010012,%20United%20States&auid=2091107839309993771&ll=40.729492,-74.001639&lsp=9902&q=Porto%20Rico%20Importing%20Co&t=r"
+  },
+  {
+    "name": "June Wine Bar",
+    "lat": 40.68611,
+    "lng": -73.993948,
+    "neighborhoods": [
+      "Cobble Hill",
+      "Brooklyn"
+    ],
+    "tags": [
+      "Restaurants",
+      "Wine Bar"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=231%20Court%20St,%20Brooklyn,%20NY%2011201,%20United%20States&auid=8449348547809637188&ll=40.686110,-73.993948&lsp=9902&q=June%20Wine%20Bar&t=r"
+  },
+  {
+    "name": "Mama’s TOO!",
+    "lat": 40.800849,
+    "lng": -73.967609,
+    "neighborhoods": [
+      "Manhattan",
+      "UWS"
+    ],
+    "tags": [
+      "Restaurants",
+      "Pizza"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=2750%20Broadway,%20New%20York,%20NY%2010025,%20United%20States&auid=5875421153905271626&ll=40.800849,-73.967609&lsp=9902&q=MAMA'S%20TOO!&t=m"
+  },
+  {
+    "name": "Scarrs Pizza",
+    "lat": 40.715704,
+    "lng": -73.991606,
+    "neighborhoods": [
+      "Manhattan",
+      "LES",
+      "China Town"
+    ],
+    "tags": [
+      "Restaurants",
+      "Pizza"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=35%20Orchard%20St,%20New%20York,%20NY%2010002,%20United%20States&auid=17756203544332657888&ll=40.715704,-73.991606&lsp=9902&q=Scarr%E2%80%99s%20Pizza&t=m"
+  },
+  {
+    "name": "Potluck Club",
+    "lat": 40.719574,
+    "lng": -73.993518,
+    "neighborhoods": [
+      "LES",
+      "Manhattan"
+    ],
+    "tags": [
+      "Restaurants",
+      "Chinese"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=133%20Chrystie%20St,%20New%20York,%20NY%20%2010002,%20United%20States&auid=16105808995246083781&ll=40.719574,-73.993518&lsp=9902&q=Potluck%20Club&t=m"
+  },
+  {
+    "name": "Kazu Nori",
+    "lat": 40.745184,
+    "lng": -73.988239,
+    "neighborhoods": [
+      "Manhattan",
+      "Gramercy",
+      "Flatiron"
+    ],
+    "tags": [
+      "Restaurants",
+      "Japanese"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=15%20W%2028th%20St,%20New%20York,%20NY%2010001,%20United%20States&auid=854781196321177585&ll=40.745184,-73.988239&lsp=9902&q=KazuNori&t=m"
+  },
+  {
+    "name": "Los Tacos No. 1",
+    "lat": 40.726242,
+    "lng": -73.994698,
+    "neighborhoods": [
+      "Noho",
+      "Manhattan"
+    ],
+    "tags": [
+      "Restaurants",
+      "Quick food",
+      "Mexican",
+      "Tacos",
+      "Breakfast"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=340%20Lafayette%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=3640782004528911873&ll=40.726242,-73.994698&lsp=9902&q=Los%20Tacos%20No.%201&t=m"
+  },
+  {
+    "name": "Los Tacos No. 1",
+    "lat": 40.751562,
+    "lng": -73.977426,
+    "neighborhoods": [
+      "Midtown",
+      "Manhattan"
+    ],
+    "tags": [
+      "Restaurants",
+      "Quick food",
+      "Mexican",
+      "Tacos",
+      "Breakfast"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=125%20Park%20Ave,%20New%20York,%20NY%2010017,%20United%20States&auid=12578472570728013046&ll=40.751562,-73.977426&lsp=9902&q=Los%20Tacos%20No.%201&t=m"
+  },
+  {
+    "name": "Powerhouse Books",
+    "lat": 40.702915,
+    "lng": -73.988731,
+    "neighborhoods": [
+      "Brooklyn",
+      "DUMBO"
+    ],
+    "tags": [
+      "Bookstore"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=32%20Adams%20St,%20Brooklyn,%20NY%20%2011201,%20United%20States&auid=17565214513547330976&ll=40.702915,-73.988731&lsp=9902&q=Powerhouse%20Books&t=m"
+  },
+  {
+    "name": "Almar",
+    "lat": 40.702636,
+    "lng": -73.989076,
+    "neighborhoods": [
+      "Brooklyn",
+      "DUMBO"
+    ],
+    "tags": [
+      "Restaurants",
+      "Italian",
+      "Bar"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=111%20Front%20St,%20Brooklyn,%20NY%2011201,%20United%20States&auid=14356344157806872338&ll=40.702636,-73.989076&lsp=9902&q=AlMar&t=m"
+  },
+  {
+    "name": "Angelika East",
+    "lat": 40.730957,
+    "lng": -73.98621,
+    "neighborhoods": [
+      "East Village",
+      "Manhattan"
+    ],
+    "tags": [
+      "Movie Theater"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=181-189%20Second%20Ave,%20New%20York,%20NY%2010003,%20United%20States&auid=17672057693257225311&ll=40.730957,-73.986210&lsp=9902&q=Village%20East%20by%20Angelika&t=m"
+  },
+  {
+    "name": "Beer Run",
+    "lat": 40.741938,
+    "lng": -73.997762,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea"
+    ],
+    "tags": [
+      "Bar",
+      "Beer"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=203%20West%2019th%20Street,%20New%20York,%20NY%2010011,%20United%20States&auid=18058400434597194589&ll=40.741938,-73.997762&lsp=9902&q=Beer%20Run%20NYC&t=m"
+  },
+  {
+    "name": "Craft + Carry",
+    "lat": 40.742039,
+    "lng": -73.997511,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea"
+    ],
+    "tags": [
+      "Beer",
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=158%20Seventh%20Ave,%20New%20York,%20NY%2010011,%20United%20States&auid=12808089877482565350&ll=40.742039,-73.997511&lsp=9902&q=Craft+Carry&t=m"
+  },
+  {
+    "name": "Craft + Carry",
+    "lat": 40.726891,
+    "lng": -73.984176,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village",
+      "Alphabet City"
+    ],
+    "tags": [
+      "Beer",
+      "Bar",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=116%20St%20Marks%20Pl,%20New%20York,%20NY%20%2010009,%20United%20States&auid=14110949869914164409&ll=40.726891,-73.984176&lsp=9902&q=Craft+Carry&t=m"
+  },
+  {
+    "name": "City Vineyard",
+    "lat": 40.721153,
+    "lng": -74.012841,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea",
+      "WSH"
+    ],
+    "tags": [
+      "Wine",
+      "Outdoor",
+      "Bar",
+      "Cocktail Bar",
+      "Rooftop"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=233%20West%20St,%20New%20York,%20NY%2010013,%20United%20States&auid=12574558530645995954&ll=40.721153,-74.012841&lsp=9902&q=City%20Vineyard&t=m"
+  },
+  {
+    "name": "Zizi",
+    "lat": 40.742946,
+    "lng": -73.999965,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea"
+    ],
+    "tags": [
+      "Restaurants",
+      "Mediterranean"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=182%20Eighth%20Ave,%20New%20York,%20NY%2010011,%20United%20States&auid=2890595334483605103&ll=40.742946,-73.999965&lsp=9902&q=ZIZI&t=m"
+  },
+  {
+    "name": "Bella Union",
+    "lat": 40.742368,
+    "lng": -73.98019,
+    "neighborhoods": [
+      "Manhattan",
+      "Murray Hill"
+    ],
+    "tags": [
+      "Bar",
+      "Restaurants",
+      "Rooftop",
+      "American",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=411%20Third%20Ave,%20New%20York,%20NY%2010016,%20United%20States&auid=14155240247117532309&ll=40.742368,-73.980190&lsp=9902&q=Bella%20Union&t=m"
+  },
+  {
+    "name": "Public Hotel",
+    "lat": 40.723015,
+    "lng": -73.991966,
+    "neighborhoods": [
+      "Nolita",
+      "Manhattan"
+    ],
+    "tags": [
+      "Bar",
+      "Cocktail Bar",
+      "Rooftop"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=215%20Chrystie%20St,%20New%20York,%20NY%2010002,%20United%20States&auid=3569303447551196100&ll=40.723015,-73.991966&lsp=9902&q=Public%20Hotel&t=m"
+  },
+  {
+    "name": "Whitby Hotel",
+    "lat": 40.762718,
+    "lng": -73.975736,
+    "neighborhoods": [
+      "Midtown"
+    ],
+    "tags": [
+      "Hotel",
+      "Restaurants",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=18%20W%2056th%20St,%20New%20York,%20NY%20%2010019,%20United%20States&auid=10169477570288954680&ll=40.762718,-73.975736&lsp=9902&q=The%20Whitby%20Hotel"
+  },
+  {
+    "name": "Avra",
+    "lat": 40.764227,
+    "lng": -73.971731,
+    "neighborhoods": [
+      "Midtown"
+    ],
+    "tags": [
+      "Restaurants",
+      "Greek",
+      "Seafood"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=14%20E%2060th%20St,%20New%20York,%20NY%2010022,%20United%20States&auid=3078599772238151721&ll=40.764227,-73.971731&lsp=9902&q=Avra"
+  },
+  {
+    "name": "Kellari ",
+    "lat": 40.755451,
+    "lng": -73.981041,
+    "neighborhoods": [
+      "Midtown"
+    ],
+    "tags": [
+      "Restaurants",
+      "Greek"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=19%20W%2044th%20St,%20New%20York,%20NY%2010036,%20United%20States&auid=14248408021927678160&ll=40.755451,-73.981041&lsp=9902&q=Kellari%20Taverna"
+  },
+  {
+    "name": "Kent Ale House",
+    "lat": 40.722368,
+    "lng": -73.959317,
+    "neighborhoods": [
+      "Williamsburg",
+      "Brooklyn"
+    ],
+    "tags": [
+      "Bar",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=51%20Kent%20Ave,%20Brooklyn,%20NY%2011249,%20United%20States&auid=13344316613014263568&ll=40.722368,-73.959317&lsp=9902&q=The%20Kent%20Ale%20House"
+  },
+  {
+    "name": "Beyond the Pale",
+    "lat": 40.722238,
+    "lng": -73.996578,
+    "neighborhoods": [
+      "Soho ",
+      "Nolita"
+    ],
+    "tags": [
+      "Bar",
+      "Cocktail Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=53%20Spring%20St,%20New%20York,%20NY%20%2010012,%20United%20States&auid=4342061074734895994&ll=40.722238,-73.996578&lsp=9902&q=Beyond%20The%20Pale"
+  },
+  {
+    "name": "169 Bar",
+    "lat": 40.71387,
+    "lng": -73.989728,
+    "neighborhoods": [
+      "LES",
+      "China Town"
+    ],
+    "tags": [
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=169%20E%20Broadway,%20New%20York,%20NY%2010002,%20United%20States&auid=4507862490602204806&ll=40.713870,-73.989728&lsp=9902&q=169%20Bar"
+  },
+  {
+    "name": "Local",
+    "lat": 40.72711,
+    "lng": -74.001966,
+    "neighborhoods": [
+      "South Village",
+      "Soho ",
+      "West Side"
+    ],
+    "tags": [
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=144%20Sullivan%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=16579579237439259712&ll=40.727110,-74.001966&lsp=9902&q=Local"
+  },
+  {
+    "name": "Antithesis",
+    "lat": 40.721432,
+    "lng": -73.99321,
+    "neighborhoods": [
+      "LES",
+      "Bowery"
+    ],
+    "tags": [
+      "Multi-brand",
+      "Fashion",
+      "Menswear"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=1%20Rivington%20St,%20New%20York,%20NY%20%2010002,%20United%20States&auid=1483402040864645605&ll=40.721432,-73.993210&lsp=9902&q=Antithesis"
+  },
+  {
+    "name": "& Son",
+    "lat": 40.726982,
+    "lng": -74.002198,
+    "neighborhoods": [
+      "West Side",
+      "South Village",
+      "Soho "
+    ],
+    "tags": [
+      "Multi-brand",
+      "Vintage",
+      "Menswear",
+      "Fashion",
+      "Shopping"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=138%20Sullivan%20St,%20New%20York,%20NY%20%2010012,%20United%20States&auid=14001183336440349351&ll=40.726982,-74.002198&lsp=9902&q=%26%20Son"
+  },
+  {
+    "name": "Ven. Space",
+    "lat": 40.680764,
+    "lng": -73.996493,
+    "neighborhoods": [
+      "Brooklyn",
+      "Cobble Hill",
+      "Carroll Gardens"
+    ],
+    "tags": [
+      "Multi-brand",
+      "Fashion",
+      "Menswear"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=369%20Court%20St,%20Brooklyn,%20NY%20%2011231,%20United%20States&auid=14492003252203683321&ll=40.680764,-73.996493&lsp=9902&q=Ven.%20Space"
+  },
+  {
+    "name": "Best Pizza",
+    "lat": 40.715632,
+    "lng": -73.953485,
+    "neighborhoods": [
+      "Brooklyn",
+      "Williamsburg"
+    ],
+    "tags": [
+      "Restaurants",
+      "Pizza"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=33%20Havemeyer%20St,%20Brooklyn,%20NY%2011211,%20United%20States&auid=18305424197331202852&ll=40.715632,-73.953485&lsp=9902&q=Best%20Pizza"
+  },
+  {
+    "name": "Hometown BBQ",
+    "lat": 40.674921,
+    "lng": -74.016132,
+    "neighborhoods": [
+      "Brooklyn",
+      "Red Hook"
+    ],
+    "tags": [
+      "Restaurants",
+      "BBQ",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=454%20Van%20Brunt%20St,%20Brooklyn,%20NY%2011231,%20United%20States&auid=9761175323088100852&ll=40.674921,-74.016132&lsp=9902&q=Hometown%20Bar-B-Que"
+  },
+  {
+    "name": "Red Hook Tavern",
+    "lat": 40.677879,
+    "lng": -74.012094,
+    "neighborhoods": [
+      "Brooklyn",
+      "Red Hook"
+    ],
+    "tags": [
+      "Restaurants",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=329%20Van%20Brunt%20St,%20Brooklyn,%20NY%2011231,%20United%20States&auid=8427991908074135356&ll=40.677879,-74.012094&lsp=9902&q=Red%20Hook%20Tavern"
+  },
+  {
+    "name": "Strong Rope Brewery",
+    "lat": 40.677195,
+    "lng": -74.018832,
+    "neighborhoods": [
+      "Brooklyn",
+      "Red Hook"
+    ],
+    "tags": [
+      "Brewery"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=185%20Van%20Dyke%20St,%20Brooklyn,%20NY%2011231,%20United%20States&auid=6878728245204586038&ll=40.677195,-74.018832&lsp=9902&q=Strong%20Rope%20Brewery"
+  },
+  {
+    "name": "Clandestino",
+    "lat": 40.714815,
+    "lng": -73.990881,
+    "neighborhoods": [
+      "LES",
+      "China Town"
+    ],
+    "tags": [
+      "Bar",
+      "Cocktail Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=35%20Canal%20St,%20New%20York,%20NY%2010002,%20United%20States&auid=5842724913338238716&ll=40.714815,-73.990881&lsp=9902&q=Clandestino"
+  },
+  {
+    "name": "Cafe Select",
+    "lat": 40.72177,
+    "lng": -73.997807,
+    "neighborhoods": [
+      "Soho "
+    ],
+    "tags": [
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=212%20Lafayette%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=11785002340486916529&ll=40.721770,-73.997807&lsp=9902&q=Caf%C3%A9%20Select"
+  },
+  {
+    "name": "Cafe Wha?",
+    "lat": 40.730149,
+    "lng": -74.000661,
+    "neighborhoods": [
+      "West Side",
+      "West Village"
+    ],
+    "tags": [
+      "Entertainment",
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=115%20MacDougal%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=6962895407583357731&ll=40.730149,-74.000661&lsp=9902&q=Cafe%20Wha?"
+  },
+  {
+    "name": "Off the Wagon",
+    "lat": 40.729902,
+    "lng": -74.000746,
+    "neighborhoods": [
+      "West Side",
+      "West Village"
+    ],
+    "tags": [
+      "Bar",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=109%20MacDougal%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=10331383468855301483&ll=40.729902,-74.000746&lsp=9902&q=Off%20The%20Wagon"
+  },
+  {
+    "name": "L’artusi",
+    "lat": 40.733779,
+    "lng": -74.005108,
+    "neighborhoods": [
+      "West Side",
+      "West Village",
+      "Greenwich Village"
+    ],
+    "tags": [
+      "Restaurants",
+      "Italian"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=228%20W%2010th%20St,%20New%20York,%20NY%2010014,%20United%20States&auid=17280865865220956473&ll=40.733779,-74.005108&lsp=9902&q=L'Artusi"
+  },
+  {
+    "name": "McSorley’s Old Ale House",
+    "lat": 40.728751,
+    "lng": -73.989711,
+    "neighborhoods": [
+      "East Village"
+    ],
+    "tags": [
+      "Bar",
+      "Restaurants"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=15%20E%20Seventh%20St,%20New%20York,%20NY%2010003,%20United%20States&auid=16899197548382341695&ll=40.728751,-73.989711&lsp=9902&q=McSorley%E2%80%99s%20Old%20Ale%20House"
+  },
+  {
+    "name": "Standings",
+    "lat": 40.728279,
+    "lng": -73.988579,
+    "neighborhoods": [
+      "East Village"
+    ],
+    "tags": [
+      "Bar",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=43%20E%207th%20St,%20New%20York,%20NY%20%2010003,%20United%20States&auid=7406586740730334701&ll=40.728279,-73.988579&lsp=9902&q=Standings"
+  },
+  {
+    "name": "Mabel’s Smokehouse",
+    "lat": 40.721234,
+    "lng": -73.95686,
+    "neighborhoods": [
+      "Brooklyn",
+      "Williamsburg"
+    ],
+    "tags": [
+      "Restaurants",
+      "BBQ",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=44%20Berry%20St,%20Brooklyn,%20NY%2011249,%20United%20States&auid=1323871320559900145&ll=40.721234,-73.956860&lsp=9902&q=Mable's%20Smokehouse"
+  },
+  {
+    "name": "Miss Ada",
+    "lat": 40.689435,
+    "lng": -73.972358,
+    "neighborhoods": [
+      "Brooklyn",
+      "Fort Greene",
+      "Clinton Hill"
+    ],
+    "tags": [
+      "Restaurants",
+      "Mediterranean",
+      "Israeli"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=184%20Dekalb%20Ave,%20Brooklyn,%20NY%2011205,%20United%20States&auid=16912246226587035525&ll=40.689435,-73.972358&lsp=9902&q=Miss%20Ada"
+  },
+  {
+    "name": "Theodora",
+    "lat": 40.686099,
+    "lng": -73.973055,
+    "neighborhoods": [
+      "Brooklyn",
+      "Fort Greene"
+    ],
+    "tags": [
+      "Restaurants",
+      "Mediterranean"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=7%20Greene%20Ave,%20Brooklyn,%20NY%20%2011238,%20United%20States&auid=4616838717047778751&ll=40.686099,-73.973055&lsp=9902&q=Theodora"
+  },
+  {
+    "name": "La Colombe Warehouse",
+    "lat": 40.751646,
+    "lng": -74.005365,
+    "neighborhoods": [
+      "Chelsea",
+      "Manhattan"
+    ],
+    "tags": [
+      "Coffee"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=601%20W%2027th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&auid=14883019982148870155&ll=40.751646,-74.005365&lsp=9902&q=La%20Colombe%20Coffee%20Roasters&t=m"
+  },
+  {
+    "name": "I Sodi",
+    "lat": 40.732791,
+    "lng": -74.004038,
+    "neighborhoods": [
+      "Manhattan",
+      "Greenwich Village",
+      "West Side"
+    ],
+    "tags": [
+      "Restaurants",
+      "Dinner",
+      "Italian"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=314 Bleecker St, New York, NY 10014, United States&auid=2187296566589451376&ll=40.732791,-74.004038&lsp=9902&q=I Sodi"
+  },
+  {
+    "name": "Via Carota",
+    "lat": 40.733111,
+    "lng": -74.003672,
+    "neighborhoods": [
+      "West Side",
+      "Greenwich Village",
+      "Manhattan"
+    ],
+    "tags": [
+      "Restaurants",
+      "Dinner",
+      "Lunch",
+      "Italian"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=51 Grove St, New York, NY  10014, United States&auid=9447966867050921217&ll=40.733111,-74.003672&lsp=9902&q=Via Carota"
+  },
+  {
+    "name": "O’Hanlon’s ",
+    "lat": 40.731694,
+    "lng": -73.98291,
+    "neighborhoods": [
+      "Manhattan",
+      "West Side",
+      "Chelsea"
+    ],
+    "tags": [
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=349 E 14th St, New York, NY 10003, United States&auid=8236821760756699827&ll=40.731694,-73.982910&lsp=9902&q=O'Hanlon's Bar NYC"
+  },
+  {
+    "name": "Jungle Bird",
+    "lat": 40.742601,
+    "lng": -74.000175,
+    "neighborhoods": [
+      "Chelsea",
+      "Manhattan",
+      "West Side"
+    ],
+    "tags": [
+      "Bar",
+      "Drinks"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=174 Eighth Ave, New York, NY 10011, United States&auid=15429727626936612198&ll=40.742601,-74.000175&lsp=9902&q=Jungle Bird"
+  },
+  {
+    "name": "Loulou",
+    "lat": 40.742659,
+    "lng": -74.000131,
+    "neighborhoods": [
+      "West Side",
+      "Chelsea",
+      "Manhattan"
+    ],
+    "tags": [
+      "Restaurants",
+      "French",
+      "Dinner",
+      "Lunch",
+      "Drinks"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=176 Eighth Ave, New York, NY  10011, United States&auid=7185153374651817395&ll=40.742659,-74.000131&lsp=9902&q=Loulou"
+  },
+  {
+    "name": "Casa Della Mozzarella",
+    "lat": 40.855245,
+    "lng": -73.887472,
+    "neighborhoods": [
+      "Bronx",
+      "Arthur Ave"
+    ],
+    "tags": [
+      "Lunch",
+      "Italian",
+      "Quick food",
+      "Sandwiches"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=604 E 187th St %26 Street Arthur Ave, New York, NY 10458, United States&auid=7749236357872823203&ll=40.855245,-73.887472&lsp=9902&q=Casa Della Mozzarella"
+  },
+  {
+    "name": "Automatic Slims",
+    "lat": 40.736323,
+    "lng": -74.008206,
+    "neighborhoods": [
+      "Manhattan",
+      "West Side"
+    ],
+    "tags": [
+      "Bar",
+      "Drinks"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=733 Washington St, New York, NY 10014, United States&auid=8134765950454156791&ll=40.736323,-74.008206&lsp=9902&q=Automatic Slims"
+  },
+  {
+    "name": "Jeffrey’s Grocery",
+    "lat": 40.73392,
+    "lng": -74.001348,
+    "neighborhoods": [
+      "Manhattan",
+      "West Side",
+      "Greenwich Village"
+    ],
+    "tags": [
+      "Brunch",
+      "Dinner",
+      "Restaurants",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=172%20Waverly%20Pl,%20New%20York,%20NY%2010014,%20United%20States&auid=2686552720119663329&ll=40.733920,-74.001348&lsp=9902&q=Jeffrey's%20Grocery"
+  },
+  {
+    "name": "L Train Vintage",
+    "lat": 40.730186,
+    "lng": -73.983049,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Shopping",
+      "Thrift"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=204 First Ave, New York, NY 10009, United States&auid=15673792248683931679&ll=40.730186,-73.983049&lsp=9902&q=L Train Vintage"
+  },
+  {
+    "name": "Sam’s",
+    "lat": 40.685892,
+    "lng": -73.994428,
+    "neighborhoods": [
+      "Brooklyn",
+      "Carroll Gardens"
+    ],
+    "tags": [
+      "Dinner",
+      "Pizza",
+      "Italian",
+      "Restaurants"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=238 Court St, Brooklyn, NY 11201, United States&auid=1444816966678888309&ll=40.685892,-73.994428&lsp=9902&q=Sam's Restaurant and Pizzeria"
+  },
+  {
+    "name": "Monkey Bar",
+    "lat": 40.75989,
+    "lng": -73.97323,
+    "neighborhoods": [
+      "Midtown",
+      "Manhattan"
+    ],
+    "tags": [
+      "Restaurants",
+      "Dinner",
+      "American",
+      "Bar",
+      "Drinks"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=60 E 54th St, New York, NY  10022, United States&auid=14216877014744494891&ll=40.759890,-73.973230&lsp=9902&q=Monkey Bar"
+  },
+  {
+    "name": "Hutch + Waldo",
+    "lat": 40.774862,
+    "lng": -73.954292,
+    "neighborhoods": [
+      "Manhattan",
+      "UES",
+      "Uptown"
+    ],
+    "tags": [
+      "Coffee",
+      "Quick food",
+      "Breakfast",
+      "Lunch",
+      "Cafe"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=247 E 81st St, New York, NY 10028, United States&auid=1431923523212566535&ll=40.774862,-73.954292&lsp=9902&q=Hutch and Waldo"
+  },
+  {
+    "name": "Devoción",
+    "lat": 40.715973,
+    "lng": -73.964725,
+    "neighborhoods": [
+      "Brooklyn",
+      "Williamsburg"
+    ],
+    "tags": [
+      "Coffee",
+      "Cafe"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=69%20Grand%20St,%20Brooklyn,%20NY%20%2011249,%20United%20States&auid=12496924000123765580&ll=40.715973,-73.964725&lsp=9902&q=Devoci%C3%B3n"
+  },
+  {
+    "name": "Devoción",
+    "lat": 40.701952,
+    "lng": -73.98645,
+    "neighborhoods": [
+      "Brooklyn",
+      "DUMBO"
+    ],
+    "tags": [
+      "Coffee",
+      "Cafe"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=105%20York%20St,%20Brooklyn,%20NY%20%2011201,%20United%20States&auid=18340703680679998117&ll=40.701952,-73.986450&lsp=9902&q=Devoci%C3%B3n"
+  },
+  {
+    "name": "Devoción",
+    "lat": 40.75806,
+    "lng": -73.971581,
+    "neighborhoods": [
+      "Midtown",
+      "Manhattan"
+    ],
+    "tags": [
+      "Coffee",
+      "Cafe"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=600%20Lexington%20Ave,%20New%20York,%20NY%20%2010022,%20United%20States&auid=11793727103946193618&ll=40.758060,-73.971581&lsp=9902&q=Devoci%C3%B3n"
+  },
+  {
+    "name": "Tokyo Record Bar",
+    "lat": 40.730596,
+    "lng": -74.000221,
+    "neighborhoods": [
+      "Manhattan",
+      "Greenwich Village"
+    ],
+    "tags": [
+      "Restaurants",
+      "Dinner",
+      "Japanese",
+      "Speak easy"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=127%20MacDougal%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=10581442838781717210&ll=40.730596,-74.000221&lsp=9902&q=Tokyo%20Record%20Bar"
+  },
+  {
+    "name": "Sake Bar Satsko",
+    "lat": 40.724446,
+    "lng": -73.980378,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Small plates",
+      "Japanese",
+      "Sake",
+      "Drinks"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=202%20E%20Seventh%20St,%20New%20York,%20NY%2010009,%20United%20States&auid=10393213560814497915&ll=40.724446,-73.980378&lsp=9902&q=Sake%20Bar%20Satsko"
+  },
+  {
+    "name": "Colbo",
+    "lat": 40.716555,
+    "lng": -73.99115,
+    "neighborhoods": [
+      "Manhattan",
+      "LES"
+    ],
+    "tags": [
+      "Shopping",
+      "Menswear",
+      "Cafe",
+      "Coffee"
+    ],
+    "buckets": [
+      "Coffee/Cafe",
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=51%20Orchard%20St,%20New%20York,%20NY%20%2010002,%20United%20States&auid=14788471862394896391&ll=40.716555,-73.991150&lsp=9902&q=colbo"
+  },
+  {
+    "name": "Sake Bar Decibel",
+    "lat": 40.729292,
+    "lng": -73.987771,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Japanese",
+      "Small plates",
+      "Drinks",
+      "Sake",
+      "Speak easy"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=240%20E%209th%20St,%20New%20York,%20NY%20%2010003,%20United%20States&auid=11696355955446163880&ll=40.729292,-73.987771&lsp=9902&q=Sake%20Bar%20Decibel"
+  },
+  {
+    "name": "Librae Bakery",
+    "lat": 40.728077,
+    "lng": -73.990639,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Bakery",
+      "Cafe",
+      "Coffee"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=35 Cooper Square, New York, NY 10003, United States&auid=977418046949114302&ll=40.728077,-73.990639&lsp=9902&q=Librae Bakery"
+  },
+  {
+    "name": "Cervo’s",
+    "lat": 40.714903,
+    "lng": -73.99132,
+    "neighborhoods": [
+      "Manhattan",
+      "LES"
+    ],
+    "tags": [
+      "Restaurants",
+      "Spanish",
+      "Tapas",
+      "Seafood",
+      "Dinner",
+      "Drinks",
+      "Bar"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=43 Canal St, New York, NY  10002, United States&auid=8435367028495241158&ll=40.714903,-73.991320&lsp=9902&q=Cervo's"
+  },
+  {
+    "name": "Sunny & Annie's Deli",
+    "lat": 40.724675,
+    "lng": -73.981744,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Bodega",
+      "Breakfast Sandwich"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=94 Avenue B, New York, NY 10009, United States&auid=2226892760355318823&ll=40.724675,-73.981744&lsp=9902&q=Sunny %26 Annie’s"
+  },
+  {
+    "name": "C&B cafe",
+    "lat": 40.725111,
+    "lng": -73.981613,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Cafe",
+      "Coffee",
+      "Breakfast Sandwich"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=178 E Seventh St, New York, NY  10009, United States&auid=13232823673987354303&ll=40.725111,-73.981613&lsp=9902&q=C%26B"
+  },
+  {
+    "name": "ATLA",
+    "lat": 40.727251,
+    "lng": -73.993955,
+    "neighborhoods": [
+      "Manhattan",
+      "Noho"
+    ],
+    "tags": [
+      "Restaurants",
+      "Mexican",
+      "Dinner",
+      "Drinks"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=372 Lafayette St, New York, NY  10012, United States&auid=11150496598432238252&ll=40.727251,-73.993955&lsp=9902&q=Atla Noho"
+  },
+  {
+    "name": "OCAFE",
+    "lat": 40.735843,
+    "lng": -73.997687,
+    "neighborhoods": [
+      "Manhattan",
+      "Greenwich Village"
+    ],
+    "tags": [
+      "Cafe",
+      "Coffee"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=482 Sixth Ave, New York, NY 10011, United States&auid=17435230358159921839&ll=40.735843,-73.997687&lsp=9902&q=O Cafe"
+  },
+  {
+    "name": "Everyman Espresso",
+    "lat": 40.732733,
+    "lng": -73.98825,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Coffee",
+      "Cafe"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=136 E 13th St, New York, NY 10003, United States&auid=10067013919956937003&ll=40.732733,-73.988250&lsp=9902&q=Everyman Espresso"
+  },
+  {
+    "name": "EJ’s Luncheonette",
+    "lat": 40.770451,
+    "lng": -73.959785,
+    "neighborhoods": [
+      "Manhattan",
+      "UES"
+    ],
+    "tags": [
+      "Breakfast",
+      "Diner",
+      "Restaurants"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=1271 Third Ave, New York, NY 10021, United States&auid=17072955711380862690&ll=40.770451,-73.959785&lsp=9902&q=EJ's Luncheonette"
+  },
+  {
+    "name": "Lula Mae",
+    "lat": 40.693205,
+    "lng": -73.966374,
+    "neighborhoods": [
+      "Brooklyn",
+      "Clinton Hill"
+    ],
+    "tags": [
+      "Restaurants",
+      "Dinner",
+      "Cambodian"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=472 Myrtle Ave, Brooklyn, NY  11205, United States&auid=11775623212507782503&ll=40.693205,-73.966374&lsp=9902&q=Lula Mae"
+  },
+  {
+    "name": "45R New York",
+    "lat": 40.725615,
+    "lng": -73.99807,
+    "neighborhoods": [
+      "Soho ",
+      "Manhattan"
+    ],
+    "tags": [
+      "Shopping",
+      "$$$",
+      "Denim",
+      "Fashion"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=169 Mercer St, New York, NY 10012, United States&auid=13697266484581750619&ll=40.725615,-73.998070&lsp=9902&q=45R - New York"
+  },
+  {
+    "name": "Red Flame",
+    "lat": 40.756065,
+    "lng": -73.982684,
+    "neighborhoods": [
+      "Midtown",
+      "Manhattan"
+    ],
+    "tags": [
+      "Diner",
+      "Restaurants",
+      "Breakfast"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=67 W 44th St, New York, NY 10036, United States&auid=9303833641167069315&ll=40.756065,-73.982684&lsp=9902&q=Red Flame Coffee Shop"
+  },
+  {
+    "name": "Edith's Sandwich Counter",
+    "lat": 40.711693,
+    "lng": -73.949119,
+    "neighborhoods": [
+      "Brooklyn",
+      "East Williamsburg"
+    ],
+    "tags": [
+      "Breakfast",
+      "Breakfast Sandwich",
+      "Coffee",
+      "Quick food"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=495 Lorimer St, Brooklyn, NY 11211, United States&auid=6844793949261892624&ll=40.711693,-73.949119&lsp=9902&q=Edith’s Sandwich Counter"
+  },
+  {
+    "name": "Win Son Bakery",
+    "lat": 40.707218,
+    "lng": -73.94294,
+    "neighborhoods": [
+      "Brooklyn",
+      "East Williamsburg"
+    ],
+    "tags": [
+      "Pastries",
+      "Coffee",
+      "Breakfast",
+      "Quick food",
+      "Breakfast Sandwich",
+      "Cafe"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=164 Graham Ave, Brooklyn, NY 11206, United States&auid=14601874938145892961&ll=40.707218,-73.942940&lsp=9902&q=Win Son Bakery"
+  },
+  {
+    "name": "Casa Della Mozzarella",
+    "lat": 40.855245,
+    "lng": -73.887472,
+    "neighborhoods": [
+      "Bronx",
+      "Arthur Ave"
+    ],
+    "tags": [
+      "Deli",
+      "Italian",
+      "Quick food",
+      "Sandwiches"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=604 E 187th St %26 Street Arthur Ave, New York, NY 10458, United States&auid=7749236357872823203&ll=40.855245,-73.887472&lsp=9902&q=Casa Della Mozzarella"
+  },
+  {
+    "name": "Garden City Hotel",
+    "lat": 40.724485,
+    "lng": -73.640529,
+    "neighborhoods": [
+      "Long Island"
+    ],
+    "tags": [
+      "Hotel"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=45 Seventh St, Garden City, NY 11530, United States&auid=5442190242912767180&ll=40.724485,-73.640529&lsp=9902&q=The Garden City Hotel"
+  },
+  {
+    "name": "The French Workshop",
+    "lat": 40.725568,
+    "lng": -73.634432,
+    "neighborhoods": [
+      "Long Island",
+      "Garden City"
+    ],
+    "tags": [
+      "Coffee",
+      "Pastries",
+      "Cafe"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=191 Seventh St, Garden City, NY 11530, United States&auid=16018843946475442483&ll=40.725568,-73.634432&lsp=9902&q=The French Workshop"
+  },
+  {
+    "name": "John’s of Bleeker",
+    "lat": 40.731637,
+    "lng": -74.003443,
+    "neighborhoods": [
+      "Manhattan",
+      "Greenwich Village"
+    ],
+    "tags": [
+      "Lunch",
+      "Dinner",
+      "Restaurants",
+      "Italian",
+      "Pizza"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=278 Bleecker St, New York, NY 10014, United States&auid=1535928768538509042&ll=40.731637,-74.003443&lsp=9902&q=John's of Bleecker Street"
+  },
+  {
+    "name": "Faicco's Italian Specialties",
+    "lat": 40.729397,
+    "lng": -73.986821,
+    "neighborhoods": [
+      "Greenwich Village",
+      "Manhattan"
+    ],
+    "tags": [
+      "Lunch",
+      "Italian",
+      "Quick food",
+      "Sandwiches"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=152 2nd Ave, New York, NY 10003, United States&auid=1390060615924806993&ll=40.729397,-73.986821&lsp=9902&q=La Cabra"
+  },
+  {
+    "name": "Irish Exit ",
+    "lat": 40.751146,
+    "lng": -73.995077,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea"
+    ],
+    "tags": [
+      "Bar",
+      "Drinks"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=421 Eighth Ave, New York, NY  10001, United States&auid=863312702219089251&ll=40.751146,-73.995077&lsp=9902&q=The Irish Exit"
+  },
+  {
+    "name": "Gardenia Deli",
+    "lat": 40.749725,
+    "lng": -73.994965,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea"
+    ],
+    "tags": [
+      "Quick food",
+      "Bodega",
+      "Breakfast Sandwich",
+      "Sandwiches"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=404 Eighth Ave, New York, NY 10001, United States&auid=9652501442521757534&ll=40.749725,-73.994965&lsp=9902&q=Gardenia Deli"
+  },
+  {
+    "name": "Raising Canes",
+    "lat": 40.729796,
+    "lng": -73.991999,
+    "neighborhoods": [
+      "East Village"
+    ],
+    "tags": [
+      "Quick food"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=20 Astor Pl, New York, NY  10003, United States&auid=7086690699300992706&ll=40.729796,-73.991999&lsp=9902&q=Raising Cane's"
+  },
+  {
+    "name": "Schmoné",
+    "lat": 40.733513,
+    "lng": -73.999043,
+    "neighborhoods": [
+      "Manhattan",
+      "Greenwich Village"
+    ],
+    "tags": [
+      "Restaurants",
+      "Dinner",
+      "Israeli"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=61 W Eighth St, New York, NY  10011, United States&auid=8374138926142333027&ll=40.733513,-73.999043&lsp=9902&q=Shmoné"
+  },
+  {
+    "name": "Hutch + Waldo",
+    "lat": 40.737007,
+    "lng": -73.986853,
+    "neighborhoods": [
+      "Gramercy",
+      "Manhattan"
+    ],
+    "tags": [
+      "Coffee",
+      "Quick food",
+      "Breakfast",
+      "Lunch",
+      "Cafe"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=77 Irving Pl, New York, NY 10003, United States&auid=4470870147021778418&ll=40.737007,-73.986853&lsp=9902&q=Hutch + Waldo"
+  },
+  {
+    "name": "La Cabra (OG)",
+    "lat": 40.729397,
+    "lng": -73.986821,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Coffee",
+      "Pastries",
+      "Cafe"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=152 2nd Ave, New York, NY 10003, United States&auid=1390060615924806993&ll=40.729397,-73.986821&lsp=9902&q=La Cabra"
+  },
+  {
+    "name": "REVMPD",
+    "lat": 40.729149,
+    "lng": -73.98387,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Fashion",
+      "Consignment",
+      "Shopping"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=178 1st Avenue, New York, NY 10009, United States&auid=4340575766222274504&ll=40.729149,-73.983870&lsp=9902&q=REVMPD"
+  },
+  {
+    "name": "Benoit",
+    "lat": 40.762508,
+    "lng": -73.977283,
+    "neighborhoods": [
+      "Midtown",
+      "456"
+    ],
+    "tags": [
+      "Drinks",
+      "French",
+      "Martinis"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=60 W 55th St, New York, NY 10019, United States&auid=14421895422853732207&ll=40.762508,-73.977283&lsp=9902&q=Benoit"
+  },
+  {
+    "name": "Dover Street Market",
+    "lat": 40.744124,
+    "lng": -73.981762,
+    "neighborhoods": [
+      "Manhattan",
+      "Gramercy"
+    ],
+    "tags": [
+      "Multi-brand",
+      "Shopping",
+      "Fashion"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=160 Lexington Ave, New York, NY 10016, United States&auid=570135870939797183&ll=40.744124,-73.981762&lsp=9902&q=Dover Street Market"
+  },
+  {
+    "name": "Brooklyn Social",
+    "lat": 40.6805,
+    "lng": -73.994556,
+    "neighborhoods": [
+      "Brooklyn",
+      "Carroll Gardens"
+    ],
+    "tags": [
+      "Bar",
+      "Pool Table"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=335 Smith St, Brooklyn, NY 11231, United States&auid=11076986536842434407&ll=40.680500,-73.994556&lsp=9902&q=Brooklyn Social"
+  },
+  {
+    "name": "Devoción",
+    "lat": 40.739077,
+    "lng": -73.989127,
+    "neighborhoods": [
+      "Manhattan",
+      "Gramercy",
+      "Flatiron"
+    ],
+    "tags": [
+      "Coffee",
+      "Cafe"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=25 E 20th St, New York, NY  10003, United States&auid=10392020385583311291&ll=40.739077,-73.989127&lsp=9902&q=Devoción"
+  },
+  {
+    "name": "Abraço",
+    "lat": 40.727425,
+    "lng": -73.986123,
+    "neighborhoods": [
+      "Midtown",
+      "East Village"
+    ],
+    "tags": [
+      "Coffee",
+      "Reading",
+      "Cafe"
+    ],
+    "buckets": [
+      "Coffee/Cafe"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=81 E Seventh St, New York, NY 10003, United States&auid=5452936772443023715&ll=40.727425,-73.986123&lsp=9902&q=Abraço"
+  },
+  {
+    "name": "Tokio 7",
+    "lat": 40.727279,
+    "lng": -73.986104,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Fashion",
+      "Consignment",
+      "Shopping"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=83 E 7th St, New York, NY  10003, United States&auid=3550862174094918250&ll=40.727279,-73.986104&lsp=9902&q=Tokio7"
+  },
+  {
+    "name": "Lucali",
+    "lat": 40.681818,
+    "lng": -74.00036,
+    "neighborhoods": [
+      "Brooklyn",
+      "Carroll Gardens"
+    ],
+    "tags": [
+      "Restaurants",
+      "Italian",
+      "Pizza"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=575 Henry St, Brooklyn, NY 11231, United States&auid=5231570280289323978&ll=40.681818,-74.000360&lsp=9902&q=Lucali"
+  },
+  {
+    "name": "Good Room",
+    "lat": 40.726885,
+    "lng": -73.952832,
+    "neighborhoods": [
+      "Brooklyn",
+      "Greenpoint"
+    ],
+    "tags": [
+      "Club",
+      "House"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=98 Meserole Ave, Brooklyn, NY 11222, United States&auid=12079861238232834135&ll=40.726885,-73.952832&lsp=9902&q=Good Room"
+  },
+  {
+    "name": "Cucina Alba",
+    "lat": 40.745079,
+    "lng": -74.006959,
+    "neighborhoods": [
+      "Manhattan",
+      "West Side"
+    ],
+    "tags": [
+      "Restaurants"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=511 W 18th St, New York, NY 10011, United States&auid=4350042102285915503&ll=40.745079,-74.006959&lsp=9902&q=Cucina Alba"
+  },
+  {
+    "name": "Superbueno",
+    "lat": 40.723452,
+    "lng": -73.988551,
+    "neighborhoods": [
+      "Manhattan",
+      "East Village"
+    ],
+    "tags": [
+      "Restaurants",
+      "Drinks"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=13 First Ave, New York, NY  10003, United States&auid=624401298588406004&ll=40.723452,-73.988551&lsp=9902&q=Superbueno"
+  },
+  {
+    "name": "Song'E Napule Pizzeria & Trattoria",
+    "lat": 40.727978,
+    "lng": -74.001359,
+    "neighborhoods": [
+      "West Side",
+      "Manhattan"
+    ],
+    "tags": [
+      "Restaurants"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple.com/?address=132 W Houston St, New York, NY  10012, United States&auid=11814286171068293673&ll=40.727978,-74.001359&lsp=9902&q=Song’E Napule"
+  }
+]

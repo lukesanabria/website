@@ -47,6 +47,21 @@ Displays the 3 most recent posts from both newsletters using RSS feeds:
 ### Skills & Interests
 Professional interests, personal hobbies, and technology stack.
 
+### Places
+A hidden page (linked quietly from the footer) showing a map of NYC places I've actually visited, built with Apple MapKit JS. Sourced from a personal Notion database and synced manually:
+
+```bash
+node --env-file=.env scripts/sync-places.js
+```
+
+This queries Notion, writes `places.json`, and needs `NOTION_API_KEY` set (see `.env.example`) — create an internal integration at [notion.so/my-integrations](https://www.notion.so/my-integrations) and share the source Notion page with it. Run this whenever the Notion database changes, then commit `places.json`.
+
+The MapKit JS auth token in `places.js` is long-lived and regenerated occasionally with:
+
+```bash
+node scripts/generate-mapkit-token.js <path-to-AuthKey.p8> <KEY_ID> <TEAM_ID>
+```
+
 ## Local Development
 
 1. **Clone the repository**
@@ -114,10 +129,13 @@ Professional interests, personal hobbies, and technology stack.
 
 ## Environment Variables
 
-This project does not require any environment variables or API keys. All external services are accessed via public APIs:
+The deployed site itself needs no environment variables or API keys — all external services are accessed via public APIs:
 - RSS2JSON (free tier: 10,000 requests/day)
 - Google Fonts
 - Tailwind CSS CDN
+- Apple MapKit JS (auth token is embedded in `places.js`, domain-restricted rather than secret — see "Places" above)
+
+The Notion sync script (`scripts/sync-places.js`) is run locally, not deployed, and needs `NOTION_API_KEY` in a gitignored `.env` file (see `.env.example`).
 
 ## RSS Feed Caching
 

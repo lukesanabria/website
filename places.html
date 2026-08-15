@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+
+    <title>Places — Luke Sanabria</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/favicon.png">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        ivory: '#FAFAF9',
+                        charcoal: '#2C2C2C',
+                        'warm-gray': '#8B8B8B',
+                        'ff-green': '#39FF14'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-ivory dark:bg-charcoal text-charcoal dark:text-ivory transition-colors duration-300">
+
+    <header class="px-6 py-4 flex items-center justify-between border-b border-charcoal/10 dark:border-ivory/10">
+        <a href="index.html" class="text-sm text-warm-gray hover:text-charcoal dark:hover:text-ivory transition-colors">
+            ← Back to Home
+        </a>
+        <h1 class="text-lg font-semibold">Places</h1>
+        <button id="darkModeToggle" class="p-2 rounded-lg hover:bg-charcoal/5 dark:hover:bg-ivory/5 transition-colors" aria-label="Toggle dark mode">
+            <svg id="sunIcon" class="w-5 h-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+            </svg>
+            <svg id="moonIcon" class="w-5 h-5 block dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path>
+            </svg>
+        </button>
+    </header>
+
+    <div id="chip-bar" class="px-6 py-4 flex flex-wrap gap-2"></div>
+
+    <div id="map-container" class="w-full h-[calc(100vh-140px)]"></div>
+
+    <script src="https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js" crossorigin async></script>
+    <script src="places.js"></script>
+</body>
+</html>
