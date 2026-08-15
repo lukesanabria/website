@@ -1,5 +1,67 @@
 [
   {
+    "name": "Cocovail Beer Hall",
+    "lat": 41.3925159,
+    "lng": 2.1659845,
+    "neighborhoods": [
+      "Eixample"
+    ],
+    "tags": [
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple/p/p.2PA~_9qJWu1x"
+  },
+  {
+    "name": "Bar Salts",
+    "lat": 41.369151,
+    "lng": 2.1654581,
+    "neighborhoods": [
+      "Montjuic"
+    ],
+    "tags": [
+      "Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple/p/Ik8kp_eF0n3F.3"
+  },
+  {
+    "name": "Bar el Pepino ",
+    "lat": 41.4016517,
+    "lng": 2.1614104,
+    "neighborhoods": [
+      "Gràcia"
+    ],
+    "tags": [
+      "Restaurants",
+      "Tapas"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/VQ9fMMXBEQcIRM"
+  },
+  {
+    "name": "Bar Cañete",
+    "lat": 41.3791311,
+    "lng": 2.1731365,
+    "neighborhoods": [
+      "Old Town"
+    ],
+    "tags": [
+      "Restaurants",
+      "Tapas"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/~S2yP40V6~MWZo"
+  },
+  {
     "name": "The Village Porch",
     "lat": 35.6414552,
     "lng": -82.5762999,

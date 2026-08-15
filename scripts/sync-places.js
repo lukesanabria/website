@@ -88,6 +88,16 @@ function titleText(page) {
     return (prop?.title || []).map((t) => t.plain_text).join('');
 }
 
+// Fetches every row unfiltered (Notion's server-side "Been?" filter was observed
+// silently excluding rows whose checkbox reads true in every direct fetch — a
+// stale-index quirk on Notion's end) and filters for Been?=true client-side.
+//
+// page_size is deliberately well under Notion's max of 100 — at 100, its cursor
+// pagination was reproducibly dropping specific rows at page boundaries
+// (confirmed by re-querying at several page sizes: the drop was consistent at
+// 100 and consistently absent at 50/25/10). More requests, but reliable.
+const PAGE_SIZE = 25;
+
 async function queryAllPages(apiKey) {
     const results = [];
     let cursor;
@@ -101,8 +111,7 @@ async function queryAllPages(apiKey) {
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify({
-                filter: { property: 'Been?', checkbox: { equals: true } },
-                page_size: 100,
+                page_size: PAGE_SIZE,
                 ...(cursor ? { start_cursor: cursor } : {})
             })
         });
@@ -117,7 +126,7 @@ async function queryAllPages(apiKey) {
         cursor = data.has_more ? data.next_cursor : undefined;
     } while (cursor);
 
-    return results;
+    return results.filter((page) => page.properties['Been?']?.checkbox === true);
 }
 
 async function main() {
