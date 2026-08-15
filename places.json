@@ -1,5 +1,53 @@
 [
   {
+    "name": "Bocanariz Wine Bar",
+    "lat": 41.402881,
+    "lng": 2.157317,
+    "neighborhoods": [
+      "Gràcia"
+    ],
+    "tags": [
+      "Wine Bar",
+      "Restaurants"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple/p/pvpR-M-GbEcb1c"
+  },
+  {
+    "name": "Colmado Wilmot",
+    "lat": 41.3941494,
+    "lng": 2.1443493,
+    "neighborhoods": [
+      "Sant Gervasi"
+    ],
+    "tags": [
+      "Restaurants",
+      "Breakfast"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/qk2_1GZGxxZLWb"
+  },
+  {
+    "name": "Raw Studio",
+    "lat": 41.3946915,
+    "lng": 2.1446504,
+    "neighborhoods": [
+      "Sant Gervasi"
+    ],
+    "tags": [
+      "Cafe"
+    ],
+    "buckets": [
+      "Cafe"
+    ],
+    "mapsUrl": "https://maps.apple/p/HIZXcp3YMyzDF3"
+  },
+  {
     "name": "Cocovail Beer Hall",
     "lat": 41.3925159,
     "lng": 2.1659845,
@@ -30,7 +78,7 @@
     "mapsUrl": "https://maps.apple/p/Ik8kp_eF0n3F.3"
   },
   {
-    "name": "Bar el Pepino ",
+    "name": "Bar el Pepino",
     "lat": 41.4016517,
     "lng": 2.1614104,
     "neighborhoods": [
@@ -235,9 +283,9 @@
     "mapsUrl": "https://maps.apple.com/place?address=660%20Degraw%20St,%20Brooklyn,%20NY%2011217,%20United%20States&coordinate=40.678516,-73.982032&name=Nenes%20Taqueria&place-id=I9B410DB69277A784&map=transit"
   },
   {
-    "name": "Los Burritos de Juarez ",
-    "lat": 40.693085,
-    "lng": -73.972158,
+    "name": "Los Burritos de Juarez",
+    "lat": 40.6930854,
+    "lng": -73.9721581,
     "neighborhoods": [
       "Brooklyn",
       "Fort Greene"
@@ -249,7 +297,7 @@
     "buckets": [
       "Restaurants"
     ],
-    "mapsUrl": "https://maps.apple.com/place?address=354%20Myrtle%20Ave,%20Brooklyn,%20NY%20%2011205,%20United%20States&coordinate=40.693085,-73.972158&name=Los%20Burritos%20Ju%C3%A1rez&place-id=IAE7F2B4CC27292DC&map=transit"
+    "mapsUrl": "https://maps.apple/p/cW0H~pShC-ay~J"
   },
   {
     "name": "Frita Batidos",
@@ -273,9 +321,9 @@
     "mapsUrl": "https://maps.apple.com/place?address=334%20Kent%20Ave%0ABrooklyn,%20NY%20%2011249%0AUnited%20States&coordinate=40.713187,-73.967702&name=Frita%20Batidos%20Brooklyn&place-id=IF65FF5C84BF6F1F&map=transit"
   },
   {
-    "name": "Vato ",
-    "lat": 40.670247,
-    "lng": -73.979017,
+    "name": "Vato",
+    "lat": 40.6702466,
+    "lng": -73.9790168,
     "neighborhoods": [
       "Brooklyn",
       "South Slope",
@@ -288,7 +336,7 @@
     "buckets": [
       "Restaurants"
     ],
-    "mapsUrl": "https://maps.apple.com/place?address=226%207th%20Ave,%20Brooklyn,%20NY%20%2011215,%20United%20States&coordinate=40.670247,-73.979017&name=Vato&place-id=I4509D38DFC8272B7&map=transit"
+    "mapsUrl": "https://maps.apple/p/8trFFbVKiMhRS0"
   },
   {
     "name": "The Emerson Hotel",
@@ -920,7 +968,7 @@
     "mapsUrl": "https://maps.apple.com/place?address=541%20W%2024th%20St,%20New%20York,%20NY%20%2010011,%20United%20States&coordinate=40.749386,-74.005555&name=Gagosian&place-id=I69490916EA68B2D6&map=h"
   },
   {
-    "name": "Edith's Sandwich Counter ",
+    "name": "Edith's Sandwich Counter",
     "lat": 40.711693,
     "lng": -73.949119,
     "neighborhoods": [
@@ -1178,7 +1226,7 @@
     "mapsUrl": "https://maps.apple.com/place?address=27%20Essex%20St,%20New%20York,%20NY%2010002,%20United%20States&coordinate=40.715829,-73.989845&name=China%20North%20Dumpling&place-id=I4DFA0218D8FADC81&map=transit"
   },
   {
-    "name": "Denim Surgeon ",
+    "name": "Denim Surgeon",
     "lat": 40.751699,
     "lng": -73.988838,
     "neighborhoods": [
@@ -1714,7 +1762,7 @@
     "mapsUrl": "https://maps.apple.com/?address=125%20Park%20Ave,%20New%20York,%20NY%2010017,%20United%20States&auid=12578472570728013046&ll=40.751562,-73.977426&lsp=9902&q=Los%20Tacos%20No.%201&t=m"
   },
   {
-    "name": "Ithaca Beer Co. ",
+    "name": "Ithaca Beer Co.",
     "lat": 42.416624,
     "lng": -76.535186,
     "neighborhoods": [],
@@ -2083,7 +2131,7 @@
     "mapsUrl": "https://maps.apple.com/?address=14%20E%2060th%20St,%20New%20York,%20NY%2010022,%20United%20States&auid=3078599772238151721&ll=40.764227,-73.971731&lsp=9902&q=Avra"
   },
   {
-    "name": "Kellari ",
+    "name": "Kellari",
     "lat": 40.755451,
     "lng": -73.981041,
     "neighborhoods": [
@@ -2527,7 +2575,7 @@
     "mapsUrl": "https://maps.apple.com/?address=601%20W%2027th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&auid=14883019982148870155&ll=40.751646,-74.005365&lsp=9902&q=La%20Colombe%20Coffee%20Roasters&t=m"
   },
   {
-    "name": "San Gimignano ",
+    "name": "San Gimignano",
     "lat": 43.468473,
     "lng": 11.042845,
     "neighborhoods": [],
@@ -2636,11 +2684,9 @@
     "neighborhoods": [],
     "tags": [
       "Hotel",
-      "Breakfast",
       "Drinks"
     ],
     "buckets": [
-      "Restaurants",
       "Bar"
     ],
     "mapsUrl": "https://maps.apple.com/?address=Lungarno degli Acciaiuoli 4, 50123 Florence, Italy&auid=8394797979588657737&ll=43.768802,11.252706&lsp=9902&q=Portrait Firenze"
@@ -2685,7 +2731,7 @@
     "mapsUrl": "https://maps.apple.com/?address=51 Grove St, New York, NY  10014, United States&auid=9447966867050921217&ll=40.733111,-74.003672&lsp=9902&q=Via Carota"
   },
   {
-    "name": "O’Hanlon’s ",
+    "name": "O’Hanlon’s",
     "lat": 40.731694,
     "lng": -73.98291,
     "neighborhoods": [
@@ -3526,7 +3572,7 @@
     "mapsUrl": "https://maps.apple.com/?address=152 2nd Ave, New York, NY 10003, United States&auid=1390060615924806993&ll=40.729397,-73.986821&lsp=9902&q=La Cabra"
   },
   {
-    "name": "Irish Exit ",
+    "name": "Irish Exit",
     "lat": 40.751146,
     "lng": -73.995077,
     "neighborhoods": [

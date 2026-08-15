@@ -22,7 +22,6 @@ const RESTAURANT_CAFE_OVERRIDES = {
     'Stratford Court Cafe': 'Restaurants',
     'Leon’s Bagels': 'Cafe',
     "Edith's Sandwich Counter": 'Cafe',
-    "Edith's Sandwich Counter ": 'Cafe',
     'Dolce Delight': 'Cafe',
     'Hutch + Waldo': 'Cafe',
     'Win Son Bakery': 'Restaurants',
@@ -85,7 +84,7 @@ async function extractLatLng(mapsUrl) {
 
 function titleText(page) {
     const prop = page.properties['Name'];
-    return (prop?.title || []).map((t) => t.plain_text).join('');
+    return (prop?.title || []).map((t) => t.plain_text).join('').trim();
 }
 
 // Fetches every row unfiltered (Notion's server-side "Been?" filter was observed
