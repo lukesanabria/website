@@ -1351,6 +1351,27 @@
     "mapsUrl": "https://maps.apple.com/?address=77 Irving Pl, New York, NY  10003, United States&auid=11676972622472163041&ll=40.736994,-73.986791&lsp=9902&q=Caffè Panna&t=r"
   },
   {
+    "name": "Steven Alan",
+    "lat": 40.7462821,
+    "lng": -74.0060706,
+    "neighborhoods": [
+      "Chelsea",
+      "West Side",
+      "Manhattan"
+    ],
+    "tags": [
+      "Menswear",
+      "Shopping",
+      "Fashion",
+      "Multi-brand",
+      "Vintage"
+    ],
+    "buckets": [
+      "Shopping"
+    ],
+    "mapsUrl": "https://maps.apple/p/Qr6pUdJ5tY3v04"
+  },
+  {
     "name": "Wilbur Theater",
     "lat": 42.350737,
     "lng": -71.064866,
@@ -2640,6 +2661,23 @@
       "Restaurants"
     ],
     "mapsUrl": "https://maps.apple.com/?address=Corso Giuseppe Garibaldi 24, 42121 Reggio Emilia, Italy&auid=4962469904611985720&ll=44.696617,10.627209&lsp=9902&q=Pizzium - Reggio Emilia"
+  },
+  {
+    "name": "Palazzina Grassi",
+    "lat": 45.4337823,
+    "lng": 12.3279744,
+    "neighborhoods": [
+      "San Marco",
+      "Grand Canal"
+    ],
+    "tags": [
+      "Hotel",
+      "Drinks"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple/p/iJbjX4_W7_QN2P"
   },
   {
     "name": "Aman Venice",
