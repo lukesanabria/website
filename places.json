@@ -1,5 +1,72 @@
 [
   {
+    "name": "Congress Bar",
+    "lat": 40.6869271,
+    "lng": -73.9939231,
+    "neighborhoods": [
+      "Cobble Hill"
+    ],
+    "tags": [
+      "Bar",
+      "Cocktail Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "emoji": "🍸",
+    "mapsUrl": "https://maps.apple/p/J-rjkim5sMFXTy"
+  },
+  {
+    "name": "Saturn Road",
+    "lat": 40.6847352,
+    "lng": -73.9949916,
+    "neighborhoods": [
+      "Cobble Hill"
+    ],
+    "tags": [
+      "Cafe"
+    ],
+    "buckets": [
+      "Cafe"
+    ],
+    "emoji": "☕",
+    "mapsUrl": "https://maps.apple/p/v_sD84j5KPdrP5"
+  },
+  {
+    "name": "Brooklyn Farmacy & Soda Fountain",
+    "lat": 40.6840112,
+    "lng": -73.9993199,
+    "neighborhoods": [
+      "Brooklyn",
+      "Carroll Gardens"
+    ],
+    "tags": [
+      "Ice Cream"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "emoji": "🍨",
+    "mapsUrl": "https://maps.apple/p/-Vyp1HIBAi0ar~"
+  },
+  {
+    "name": "Bar Bete",
+    "lat": 40.6829463,
+    "lng": -73.9928558,
+    "neighborhoods": [
+      "Brooklyn",
+      "Cobble Hill"
+    ],
+    "tags": [
+      "Restaurants"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "emoji": "🍽️",
+    "mapsUrl": "https://maps.apple/p/-qSY5HngVo2Y9e"
+  },
+  {
     "name": "Cafe Lyria",
     "lat": 40.7258,
     "lng": -73.9955,
@@ -2192,6 +2259,24 @@
     "mapsUrl": "https://maps.apple.com/?address=233%20West%20St,%20New%20York,%20NY%2010013,%20United%20States&auid=12574558530645995954&ll=40.721153,-74.012841&lsp=9902&q=City%20Vineyard&t=m"
   },
   {
+    "name": "Bar Bonobo",
+    "lat": 40.742944,
+    "lng": -73.999819,
+    "neighborhoods": [
+      "Manhattan",
+      "Chelsea"
+    ],
+    "tags": [
+      "Bar",
+      "Cocktail Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "emoji": "🍸",
+    "mapsUrl": "https://maps.apple.com/?address=184%20Eighth%20Avenue,%20New%20York,%20NY%20%2010011,%20United%20States&auid=3647673182574772708&ll=40.742944,-73.999819&lsp=9902&q=Bar%20Bonobo&t=m"
+  },
+  {
     "name": "Zizi",
     "lat": 40.742946,
     "lng": -73.999965,
@@ -3776,26 +3861,6 @@
     "mapsUrl": "https://maps.apple.com/?address=67 W 44th St, New York, NY 10036, United States&auid=9303833641167069315&ll=40.756065,-73.982684&lsp=9902&q=Red Flame Coffee Shop"
   },
   {
-    "name": "Edith's Sandwich Counter",
-    "lat": 40.711693,
-    "lng": -73.949119,
-    "neighborhoods": [
-      "Brooklyn",
-      "East Williamsburg"
-    ],
-    "tags": [
-      "Breakfast",
-      "Breakfast Sandwich",
-      "Coffee",
-      "Quick food"
-    ],
-    "buckets": [
-      "Cafe"
-    ],
-    "emoji": "🥪",
-    "mapsUrl": "https://maps.apple.com/?address=495 Lorimer St, Brooklyn, NY 11211, United States&auid=6844793949261892624&ll=40.711693,-73.949119&lsp=9902&q=Edith’s Sandwich Counter"
-  },
-  {
     "name": "Win Son Bakery",
     "lat": 40.707218,
     "lng": -73.94294,
@@ -3816,26 +3881,6 @@
     ],
     "emoji": "🥐",
     "mapsUrl": "https://maps.apple.com/?address=164 Graham Ave, Brooklyn, NY 11206, United States&auid=14601874938145892961&ll=40.707218,-73.942940&lsp=9902&q=Win Son Bakery"
-  },
-  {
-    "name": "Casa Della Mozzarella",
-    "lat": 40.855245,
-    "lng": -73.887472,
-    "neighborhoods": [
-      "Bronx",
-      "Arthur Ave"
-    ],
-    "tags": [
-      "Deli",
-      "Italian",
-      "Quick food",
-      "Sandwiches"
-    ],
-    "buckets": [
-      "Restaurants"
-    ],
-    "emoji": "🥪",
-    "mapsUrl": "https://maps.apple.com/?address=604 E 187th St %26 Street Arthur Ave, New York, NY 10458, United States&auid=7749236357872823203&ll=40.855245,-73.887472&lsp=9902&q=Casa Della Mozzarella"
   },
   {
     "name": "Garden City Hotel",
