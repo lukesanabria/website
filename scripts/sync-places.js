@@ -87,6 +87,11 @@ function titleText(page) {
     return (prop?.title || []).map((t) => t.plain_text).join('').trim();
 }
 
+function richText(page, propName) {
+    const prop = page.properties[propName];
+    return (prop?.rich_text || []).map((t) => t.plain_text).join('').trim();
+}
+
 // Fetches every row unfiltered (Notion's server-side "Been?" filter was observed
 // silently excluding rows whose checkbox reads true in every direct fetch — a
 // stale-index quirk on Notion's end) and filters for Been?=true client-side.
@@ -146,6 +151,7 @@ async function main() {
         const mapsUrl = page.properties['Maps']?.url || null;
         const neighborhoods = (page.properties['Neighborhood']?.multi_select || []).map((o) => o.name);
         const tags = (page.properties['Tags']?.multi_select || []).map((o) => o.name);
+        const emoji = richText(page, 'Emoji') || null;
 
         const coords = await extractLatLng(mapsUrl);
         if (coords.error) {
@@ -155,6 +161,10 @@ async function main() {
 
         tags.forEach((t) => tagCounts.set(t, (tagCounts.get(t) || 0) + 1));
 
+        if (!emoji) {
+            console.warn(`  ⚠ "${name}" has no Emoji set in Notion — map marker will fall back to its category icon.`);
+        }
+
         places.push({
             name,
             lat: coords.lat,
@@ -162,6 +172,7 @@ async function main() {
             neighborhoods,
             tags,
             buckets: bucketsForTags(tags, name),
+            emoji,
             mapsUrl
         });
     }

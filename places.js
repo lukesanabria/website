@@ -71,6 +71,7 @@ const BUCKET_EMOJI = {
 const BUCKET_PRIORITY = ['Restaurants', 'Cafe', 'Bar', 'Shopping', 'Other'];
 
 function glyphForPlace(place) {
+    if (place.emoji) return place.emoji;
     const bucket = BUCKET_PRIORITY.find((b) => place.buckets.includes(b)) || 'Other';
     return BUCKET_EMOJI[bucket];
 }

@@ -1,5 +1,34 @@
 [
   {
+    "name": "Lucibello’s Italian Pastry Shop",
+    "lat": 41.3075317,
+    "lng": -72.9190096,
+    "neighborhoods": [],
+    "tags": [
+      "Bakery"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "emoji": "🥐",
+    "mapsUrl": "https://maps.apple/p/0z7xGR84GsASi~"
+  },
+  {
+    "name": "Frank Pepe’s",
+    "lat": 41.302958,
+    "lng": -72.9169303,
+    "neighborhoods": [],
+    "tags": [
+      "Restaurants",
+      "Pizza"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "emoji": "🍕",
+    "mapsUrl": "https://maps.apple/p/dEWjB8dX3v3d6T"
+  },
+  {
     "name": "Bocanariz Wine Bar",
     "lat": 41.402881,
     "lng": 2.157317,
@@ -14,6 +43,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍷",
     "mapsUrl": "https://maps.apple/p/pvpR-M-GbEcb1c"
   },
   {
@@ -30,6 +60,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍽️",
     "mapsUrl": "https://maps.apple/p/qk2_1GZGxxZLWb"
   },
   {
@@ -45,6 +76,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple/p/HIZXcp3YMyzDF3"
   },
   {
@@ -60,6 +92,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple/p/p.2PA~_9qJWu1x"
   },
   {
@@ -75,6 +108,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple/p/Ik8kp_eF0n3F.3"
   },
   {
@@ -91,6 +125,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍽️",
     "mapsUrl": "https://maps.apple/p/VQ9fMMXBEQcIRM"
   },
   {
@@ -107,6 +142,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥘",
     "mapsUrl": "https://maps.apple/p/~S2yP40V6~MWZo"
   },
   {
@@ -121,6 +157,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple/p/b_XCZgG0PHn~u0"
   },
   {
@@ -135,6 +172,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple/p/fTPMCbf8JMvatj"
   },
   {
@@ -149,6 +187,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🐟",
     "mapsUrl": "https://maps.apple/p/tTTvxQkh~vfiDn"
   },
   {
@@ -165,6 +204,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple/p/7bsesxZLr.p84G"
   },
   {
@@ -180,6 +220,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple/p/~mnd3-SnPdI5gw"
   },
   {
@@ -197,6 +238,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌴",
     "mapsUrl": "https://maps.apple/p/zrsynTqeDoWnDA"
   },
   {
@@ -215,6 +257,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍣",
     "mapsUrl": "https://maps.apple/p/8HDT1IohpcVuHS"
   },
   {
@@ -231,6 +274,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍔",
     "mapsUrl": "https://maps.apple/p/S66XMFRk3Lmw8u"
   },
   {
@@ -247,6 +291,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌊",
     "mapsUrl": "https://maps.apple/p/1LFUbbN0YA~owE"
   },
   {
@@ -263,6 +308,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple/p/5uC3zJ.q2dce3X"
   },
   {
@@ -280,6 +326,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌮",
     "mapsUrl": "https://maps.apple.com/place?address=660%20Degraw%20St,%20Brooklyn,%20NY%2011217,%20United%20States&coordinate=40.678516,-73.982032&name=Nenes%20Taqueria&place-id=I9B410DB69277A784&map=transit"
   },
   {
@@ -297,6 +344,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌯",
     "mapsUrl": "https://maps.apple/p/cW0H~pShC-ay~J"
   },
   {
@@ -318,6 +366,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍔",
     "mapsUrl": "https://maps.apple.com/place?address=334%20Kent%20Ave%0ABrooklyn,%20NY%20%2011249%0AUnited%20States&coordinate=40.713187,-73.967702&name=Frita%20Batidos%20Brooklyn&place-id=IF65FF5C84BF6F1F&map=transit"
   },
   {
@@ -336,6 +385,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌮",
     "mapsUrl": "https://maps.apple/p/8trFFbVKiMhRS0"
   },
   {
@@ -350,6 +400,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple/p/XG8u~WEf7Fq.3K"
   },
   {
@@ -368,6 +419,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "🛒",
     "mapsUrl": "https://maps.apple/p/7yAroTV4J7UKx6"
   },
   {
@@ -384,6 +436,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥯",
     "mapsUrl": "https://maps.apple/p/5ZAFcTYdqir~jm"
   },
   {
@@ -400,6 +453,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥞",
     "mapsUrl": "https://maps.apple/p/gSWSwQqTt-u-~Y"
   },
   {
@@ -417,6 +471,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🇨🇺",
     "mapsUrl": "https://maps.apple.com/place?place-id=IF5BC048AD996D80&address=272+Smith+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.682619684262356%2C-73.99337958544493&name=Cubana+Cafe&_provider=9902"
   },
   {
@@ -434,6 +489,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple.com/place?place-id=ICDD50029FD893063&address=270+Smith+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.68266951737175%2C-73.99334572255611&name=Union+Grounds&_provider=9902"
   },
   {
@@ -454,6 +510,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍗",
     "mapsUrl": "https://maps.apple.com/place?place-id=I1B3BE9C217199446&address=275+Smith+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.68252281469312%2C-73.99318613111973&name=WingBar&_provider=9902"
   },
   {
@@ -471,6 +528,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🧟",
     "mapsUrl": "https://maps.apple.com/place?place-id=I53A01904B47F3550&address=273+Smith+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.682546%2C-73.9930648&name=Zombie+Hut&_provider=9902"
   },
   {
@@ -491,6 +549,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/place?place-id=I41B0BC7D376758AF&address=14+Bedford+St%2C+New+York%2C+NY++10014%2C+United+States&coordinate=40.7291417%2C-74.0033785&name=Briciola+Pizza+Bar&_provider=9902"
   },
   {
@@ -514,6 +573,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "🥯",
     "mapsUrl": "https://maps.apple.com/place?place-id=IF30BE25E6EC5371A&address=169+Thompson+St%2C+Ste+B%2C+New+York%2C+NY++10012%2C+United+States&coordinate=40.7276965%2C-74.0004375&name=Leon%27s+Bagels&_provider=9902"
   },
   {
@@ -536,6 +596,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🎷",
     "mapsUrl": "https://maps.apple.com/place?place-id=IE3249EDD0C973DF0&address=2+Sixth+Avenue%2C+New+York%2C+NY++10013%2C+United+States&coordinate=40.719289%2C-74.0049212&name=The+Django&_provider=9902"
   },
   {
@@ -554,6 +615,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "🪑",
     "mapsUrl": "https://maps.apple.com/place?place-id=I69CD54C3900C41C9&address=106+Ferris+St%2C+Ste+B10%2C+Brooklyn%2C+NY++11231%2C+United+States&coordinate=40.6779405%2C-74.017671&name=Resiklo&_provider=9902"
   },
   {
@@ -572,6 +634,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🌊",
     "mapsUrl": "https://maps.apple.com/place?place-id=I1B325F6E1B3DD0BD&address=104+Ferris+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.6783319%2C-74.0180375&name=Valentino+Pier&_provider=9902"
   },
   {
@@ -589,6 +652,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥧",
     "mapsUrl": "https://maps.apple.com/place?place-id=IA940A78846DBAE64&address=185+Van+Dyke+St%2C+Brooklyn%2C+NY++11231%2C+United+States&coordinate=40.677723%2C-74.018303&name=Steve%E2%80%99s+Authentic+Key+Lime+Pie&_provider=9902"
   },
   {
@@ -611,6 +675,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🦀",
     "mapsUrl": "https://maps.apple.com/place?place-id=I4A200B0E1F85953C&address=24+Reed+St%2C+Brooklyn%2C+NY+11231%2C+United+States&coordinate=40.6753849%2C-74.0165324&name=Brooklyn+Crab&_provider=9902"
   },
   {
@@ -630,6 +695,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/place?address=48%20W%2017th%20St,%20New%20York,%20NY%20%2010011,%20United%20States&coordinate=40.738713,-73.994601&name=Raines%20Law%20Room&place-id=IB17E11274C7EFCE&map=transit"
   },
   {
@@ -651,6 +717,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥟",
     "mapsUrl": "https://maps.apple.com/place?address=179%202nd%20Ave,%20New%20York,%20NY%20%2010003,%20United%20States&coordinate=40.730706,-73.986407&name=Mimi%20Cheng's&place-id=I6D4970F73B65C8E1&map=transit"
   },
   {
@@ -671,6 +738,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥞",
     "mapsUrl": "https://maps.apple.com/place?address=174%20Fifth%20Ave,%20New%20York,%20NY%2010010,%20United%20States&coordinate=40.741104,-73.990157&name=S%26P&place-id=I5A913CC09000A531&map=transit"
   },
   {
@@ -691,6 +759,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/place?address=10%20E%2023rd%20St,%20Ste%2012,%20New%20York,%20NY%20%2010010,%20United%20States&coordinate=40.740781,-73.988512&name=Salt%20%26%20Pepper&place-id=I2DB3B8A9EECC43F3&map=transit"
   },
   {
@@ -710,6 +779,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple.com/place?address=159%20W%2026th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&coordinate=40.745753,-73.993322&name=Crompton%20Ale%20House&place-id=IB1B2146F235673F7&map=transit"
   },
   {
@@ -729,6 +799,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple.com/place?address=138%20W%2025th%20St,%20New%20York,%20NY%2010001,%20United%20States&coordinate=40.744762,-73.993526&name=Smithfield%20Hall&place-id=IA67CDFACE86BBDFA&map=transit"
   },
   {
@@ -749,6 +820,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌮",
     "mapsUrl": "https://maps.apple.com/place?address=139%20S%20Franklin%20St,%20Juneau,%20AK%2099801,%20United%20States&coordinate=58.300771,-134.405412&name=Deckhand%20Dave's%20Fish%20Tacos&place-id=I91A5D853882042F0&map=transit"
   },
   {
@@ -765,6 +837,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/place?address=134%20N%20Franklin%20St,%20Juneau,%20AK%20%2099801,%20United%20States&coordinate=58.301293,-134.407135&name=Amalga%20Distillery&place-id=I2EAE7C4793B609A6&map=transit"
   },
   {
@@ -781,6 +854,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/place?address=210%20Admiral%20Way,%20Juneau,%20AK%20%2099801,%20United%20States&coordinate=58.298802,-134.404416&name=Griz%20Bar&place-id=I2244B0710A32E2DD&map=transit"
   },
   {
@@ -797,6 +871,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/place?address=204%20Fourth%20Ave,%20Skagway,%20AK%2099840,%20United%20States&coordinate=59.454632,-135.315566&name=Skagway%20Brewing%20Company&place-id=IBA1D548BF2009683&map=transit"
   },
   {
@@ -816,6 +891,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🌮",
     "mapsUrl": "https://maps.apple.com/place?address=55%20Schoenbar%20Ct,%20Ketchikan,%20AK%20%2099901,%20United%20States&coordinate=55.344332,-131.654465&name=Timber%20and%20Tide%20&place-id=IF3F7DD9AC8CC06B&map=transit"
   },
   {
@@ -837,6 +913,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍳",
     "mapsUrl": "https://maps.apple.com/place?address=20%20S%2033rd%20St,%20Philadelphia,%20PA%20%2019104,%20United%20States&coordinate=39.954228,-75.190056&name=CO-OP%20Restaurant%20%26%20Lounge&place-id=IF9C61AD85E9DC999&map=transit"
   },
   {
@@ -852,6 +929,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple.com/place?address=20%20S%2033rd%20St,%20Philadelphia,%20PA%2019104,%20United%20States&coordinate=39.954466,-75.189968&name=The%20Study%20at%20University%20City&place-id=IEA68A551A7E6BD3A&map=transit"
   },
   {
@@ -872,6 +950,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍝",
     "mapsUrl": "https://maps.apple.com/place?address=1723%20Locust%20St,%20Philadelphia,%20PA%2019103,%20United%20States&coordinate=39.949017,-75.170217&name=Via%20Locusta&place-id=IFB9CD71164811B6D&map=transit"
   },
   {
@@ -892,6 +971,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🥖",
     "mapsUrl": "https://maps.apple.com/place?address=227%20S%2018th%20St,%20Philadelphia,%20PA%20%2019103,%20United%20States&coordinate=39.949098,-75.170665&name=Parc&place-id=IC29E5A24E32DB135&map=transit"
   },
   {
@@ -910,6 +990,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👟",
     "mapsUrl": "https://maps.apple.com/place?address=40%20E%2014th%20St,%20New%20York,%20NY%2010003,%20United%20States&coordinate=40.734977,-73.991562&name=DSW%20Designer%20Shoe%20Warehouse&place-id=I18372DF86AA89073&map=transit"
   },
   {
@@ -929,6 +1010,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/place?address=3408%20Sansom%20St,%20Philadelphia,%20PA%20%2019104,%20United%20States&coordinate=39.953579,-75.192591&name=New%20Deck%20Tavern&place-id=I1C5A57E7030A996A&map=transit"
   },
   {
@@ -947,6 +1029,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👔",
     "mapsUrl": "https://maps.apple.com/place?address=520%20W%2022nd%20St,%20New%20York,%20NY%20%2010011,%20United%20States&coordinate=40.747287,-74.005527&name=Comme%20des%20Gar%C3%A7ons&place-id=IE4C0A81A9CBCCF63&map=h"
   },
   {
@@ -965,6 +1048,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🎨",
     "mapsUrl": "https://maps.apple.com/place?address=541%20W%2024th%20St,%20New%20York,%20NY%20%2010011,%20United%20States&coordinate=40.749386,-74.005555&name=Gagosian&place-id=I69490916EA68B2D6&map=h"
   },
   {
@@ -985,6 +1069,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/?address=495 Lorimer St, Brooklyn, NY 11211, United States&auid=6844793949261892624&ll=40.711693,-73.949119&lsp=9902&q=Edith’s Sandwich Counter"
   },
   {
@@ -1000,6 +1085,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🍦",
     "mapsUrl": "https://maps.apple.com/place?address=5%20Railroad%20Ave,%20Wolfeboro,%20NH%20%2003894,%20United%20States&coordinate=43.584689,-71.212649&name=Bailey's%20Bubble&place-id=I8403CF52DA2C5240&map=transit"
   },
   {
@@ -1016,6 +1102,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🚤",
     "mapsUrl": "https://maps.apple.com/place?address=21%20S%20Main%20St,%20Wolfeboro,%20NH%20%2003894,%20United%20States&coordinate=43.584327,-71.212588&name=Wake%20Winni&place-id=I478FAA39D9BD852&map=transit"
   },
   {
@@ -1037,6 +1124,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍷",
     "mapsUrl": "https://maps.apple.com/place?address=43%20MacDougal%20St,%20New%20York,%20NY%20%2010012,%20United%20States&coordinate=40.727737,-74.002601&name=Roscioli&place-id=ID2B3581F20422221&map=transit"
   },
   {
@@ -1056,6 +1144,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/place?address=96%20Lehner%20St,%20Wolfeboro,%20NH%20%2003894,%20United%20States&coordinate=43.586215,-71.207994&name=Burnt%20Timber%20Brewing%20%26%20Tavern&place-id=I97F9AB95F99C951C&map=transit"
   },
   {
@@ -1074,6 +1163,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/place?address=202%207th%20Ave,%20New%20York,%20NY%20%2010011,%20United%20States&coordinate=40.743330,-73.996478&name=Pisillo%20Italian%20Panini%20Chelsea&place-id=IF6F6C6D28C006F05&map=transit"
   },
   {
@@ -1091,6 +1181,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "🥐",
     "mapsUrl": "https://maps.apple.com/place?address=298%20Court%20St,%20Brooklyn,%20NY%2011231,%20United%20States&coordinate=40.684052,-73.995353&name=Court%20Pastry%20Shop&place-id=I8C888199193941BA&map=transit"
   },
   {
@@ -1110,6 +1201,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/place?address=387%20Court%20St,%20Brooklyn,%20NY%2011231,%20United%20States&coordinate=40.680042,-73.996829&name=Baby%20Luc%E2%80%99s&place-id=I4E6A89FC0ED5F771&map=transit"
   },
   {
@@ -1129,6 +1221,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍝",
     "mapsUrl": "https://maps.apple.com/place?address=465%20Court%20St,%20Brooklyn,%20NY%20%2011231,%20United%20States&coordinate=40.677157,-73.998178&name=F%26F%20Restaurant%20and%20Bar&place-id=IBCFFBD66C428ED5D&map=transit"
   },
   {
@@ -1148,6 +1241,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🌮",
     "mapsUrl": "https://maps.apple.com/place?address=522%20Court%20St,%20Brooklyn,%20NY%20%2011231,%20United%20States&coordinate=40.676071,-73.999069&name=Mezcal's%20Mexican%20Restaurant-%20Carroll%20Gardens&place-id=IA744724131859B0B&map=transit"
   },
   {
@@ -1166,6 +1260,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👔",
     "mapsUrl": "https://maps.apple.com/place?address=59%20Orchard%20St,%20New%20York,%20NY%20%2010002,%20United%20States&coordinate=40.716896,-73.991125&name=Wythe&place-id=I1D7208F458A6C953&map=transit"
   },
   {
@@ -1184,6 +1279,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👔",
     "mapsUrl": "https://maps.apple.com/place?address=61%20Orchard%20St,%20New%20York,%20NY%20%2010002,%20United%20States&coordinate=40.716864,-73.990987&name=Kartik%20Research&place-id=I736F7B7A9742F390&map=transit"
   },
   {
@@ -1203,6 +1299,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍔",
     "mapsUrl": "https://maps.apple.com/place?address=131%20Essex%20St,%20New%20York,%20NY%20%2010002,%20United%20States&coordinate=40.720038,-73.987601&name=Gotham%20Burger%20Social%20Club&place-id=I8B177DECECB3787D&map=transit"
   },
   {
@@ -1223,6 +1320,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥟",
     "mapsUrl": "https://maps.apple.com/place?address=27%20Essex%20St,%20New%20York,%20NY%2010002,%20United%20States&coordinate=40.715829,-73.989845&name=China%20North%20Dumpling&place-id=I4DFA0218D8FADC81&map=transit"
   },
   {
@@ -1241,6 +1339,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "👖",
     "mapsUrl": "https://maps.apple.com/place?address=150%20W%2036th%20St,%20FL%203,%20New%20York,%20NY%20%2010018,%20United%20States&coordinate=40.751699,-73.988838&name=Denim%20Surgeon&place-id=IFA47AB5356E01D67&map=transit"
   },
   {
@@ -1258,6 +1357,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥩",
     "mapsUrl": "https://maps.apple.com/?address=Via%20della%20Vigna%20Vecchia%2040r%0A50122%20Florence%0AItaly&auid=1037986405805797269&ll=43.770246,11.258823&lsp=9902&q=Acqua%20Al%202&t=r"
   },
   {
@@ -1279,6 +1379,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple.com/?address=312%20Grand%20St,%20Brooklyn,%20NY%20%2011211,%20United%20States&auid=11441624483621496438&ll=40.712727,-73.957089&lsp=9902&q=The%20Quarter%20Club&t=r"
   },
   {
@@ -1296,6 +1397,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🎱",
     "mapsUrl": "https://maps.apple.com/?address=561%20Myrtle%20Ave,%20Brooklyn,%20NY%20%2011205,%20United%20States&auid=5478571243283671265&ll=40.694140,-73.961817&lsp=9902&q=The%20Emerson&t=r"
   },
   {
@@ -1312,6 +1414,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=486%20Metropolitan%20Ave,%20Brooklyn,%20NY%2011211,%20United%20States&auid=7747860666218249302&ll=40.713945,-73.952801&lsp=9902&q=Rocka%20Rolla&t=r"
   },
   {
@@ -1331,6 +1434,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=540 Park Ave, New York, NY 10021, United States&auid=18066894040254917962&ll=40.764563,-73.969162&lsp=9902&q=Sant Ambroeus Coffee Bar at Loews Regency Hotel&t=r"
   },
   {
@@ -1348,6 +1452,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🍦",
     "mapsUrl": "https://maps.apple.com/?address=77 Irving Pl, New York, NY  10003, United States&auid=11676972622472163041&ll=40.736994,-73.986791&lsp=9902&q=Caffè Panna&t=r"
   },
   {
@@ -1369,6 +1474,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👔",
     "mapsUrl": "https://maps.apple/p/Qr6pUdJ5tY3v04"
   },
   {
@@ -1386,6 +1492,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🎭",
     "mapsUrl": "https://maps.apple.com/?address=246%20Tremont%20St,%20Boston,%20MA%2002116,%20United%20States&auid=11477784091572241142&ll=42.350737,-71.064866&lsp=9902&q=Wilbur%20Theater&t=r"
   },
   {
@@ -1404,6 +1511,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=1307%20Stratford%20Ct,%20Del%20Mar,%20CA%20%2092014,%20United%20States&auid=10732857635364135372&ll=32.957522,-117.265266&lsp=9902&q=Stratford%20Court%20Cafe&t=r"
   },
   {
@@ -1421,6 +1529,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "🥐",
     "mapsUrl": "https://maps.apple.com/?address=1080%20Danby%20Rd,%20Ithaca,%20NY%20%2014850,%20United%20States&auid=6875603454930789107&ll=42.408210,-76.503335&lsp=9902&q=Dolce%20Delight&t=r"
   },
   {
@@ -1440,6 +1549,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "🥐",
     "mapsUrl": "https://maps.apple.com/?address=67%20Cooper%20Square,%20New%20York,%20NY%20%2010003,%20United%20States&auid=915282337298529642&ll=40.729141,-73.989937&lsp=9902&q=Hani%E2%80%99s&t=r"
   },
   {
@@ -1458,6 +1568,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/?address=39%20Grove%20St,%20New%20York,%20NY%2010014,%20United%20States&auid=10735738698491014515&ll=40.732915,-74.004522&lsp=9902&q=Emmett's%20on%20Grove&t=r"
   },
   {
@@ -1477,6 +1588,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥙",
     "mapsUrl": "https://maps.apple.com/?address=151%20Atlantic%20Ave,%20Brooklyn,%20NY%20%2011201,%20United%20States&auid=14597705685427646969&ll=40.690655,-73.994944&lsp=9902&q=Al%20Badawi&t=r"
   },
   {
@@ -1493,6 +1605,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=201%20Bleecker%20St,%20New%20York,%20NY%20%2010012,%20United%20States&auid=2091107839309993771&ll=40.729492,-74.001639&lsp=9902&q=Porto%20Rico%20Importing%20Co&t=r"
   },
   {
@@ -1511,6 +1624,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍷",
     "mapsUrl": "https://maps.apple.com/?address=231%20Court%20St,%20Brooklyn,%20NY%2011201,%20United%20States&auid=8449348547809637188&ll=40.686110,-73.993948&lsp=9902&q=June%20Wine%20Bar&t=r"
   },
   {
@@ -1528,6 +1642,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/?address=2750%20Broadway,%20New%20York,%20NY%2010025,%20United%20States&auid=5875421153905271626&ll=40.800849,-73.967609&lsp=9902&q=MAMA'S%20TOO!&t=m"
   },
   {
@@ -1546,6 +1661,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/?address=35%20Orchard%20St,%20New%20York,%20NY%2010002,%20United%20States&auid=17756203544332657888&ll=40.715704,-73.991606&lsp=9902&q=Scarr%E2%80%99s%20Pizza&t=m"
   },
   {
@@ -1562,6 +1678,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🍷",
     "mapsUrl": "https://maps.apple.com/?address=658%20Lake%20Rd,%20King%20Ferry,%20NY%20%2013081,%20United%20States&auid=17799878480578344241&ll=42.650318,-76.634460&lsp=9902&q=Treleaven%20Wines&t=m"
   },
   {
@@ -1577,6 +1694,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🏠",
     "mapsUrl": "https://maps.apple.com/?address=467%20Powers%20Rd,%20King%20Ferry,%20NY%20%2013081,%20United%20States&ll=42.640316,-76.654431&q=467%20Powers%20Rd&t=m"
   },
   {
@@ -1592,6 +1710,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🏖️",
     "mapsUrl": "https://maps.apple.com/?address=Morses%20Pond,%20Wellesley,%20MA,%20United%20States&auid=4313139793969630155&ll=42.299025,-71.318572&lsp=6489&q=Morses%20Pond&t=m"
   },
   {
@@ -1607,6 +1726,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🚚",
     "mapsUrl": "https://maps.apple.com/?address=720%20W%20Green%20St,%20Ithaca,%20NY%20%2014850,%20United%20States&auid=6499664398152137371&ll=42.438543,-76.509615&lsp=9902&q=Circus%20Truck&t=m"
   },
   {
@@ -1628,6 +1748,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🎱",
     "mapsUrl": "https://maps.apple.com/?address=384%20Main%20St,%20Aurora,%20NY%20%2013026,%20United%20States&auid=2126880390716408564&ll=42.754443,-76.702311&lsp=9902&q=Fargo%20Bar%20%26%20Grill&t=m"
   },
   {
@@ -1642,6 +1763,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍜",
     "mapsUrl": "https://maps.apple.com/?address=2024%20Center%20Ave,%20Fort%20Lee,%20NJ%20%2007024,%20United%20States&auid=4907012579979672382&ll=40.852661,-73.971408&lsp=9902&q=Saigon%20Kitchen&t=m"
   },
   {
@@ -1657,6 +1779,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🚚",
     "mapsUrl": "https://maps.apple.com/?address=536%20Thurston%20Ave,%20Ithaca,%20NY%20%2014850,%20United%20States&auid=265183463011477072&ll=42.453422,-76.481098&lsp=9902&q=Louie's%20Lunch&t=m"
   },
   {
@@ -1674,6 +1797,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥞",
     "mapsUrl": "https://maps.apple.com/?address=300%20Washington%20St,%20Wellesley,%20MA%2002481,%20United%20States&auid=15707001009394243030&ll=42.312107,-71.274394&lsp=9902&q=Maugus%20Restaurant&t=m"
   },
   {
@@ -1690,6 +1814,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍔",
     "mapsUrl": "https://maps.apple.com/?address=11%20Forest%20St,%20Wellesley%20Hills,%20MA%20%2002481,%20United%20States&auid=14624976595938390916&ll=42.307306,-71.278823&lsp=9902&q=The%20Local%20-%20Wellesley%20Hills&t=m"
   },
   {
@@ -1705,6 +1830,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍔",
     "mapsUrl": "https://maps.apple.com/?address=74%20Central%20St,%20Wellesley,%20MA%20%2002482,%20United%20States&auid=7631942596026395819&ll=42.295738,-71.297111&lsp=9902&q=Shake%20Shack%20Wellesley&t=m"
   },
   {
@@ -1722,6 +1848,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥟",
     "mapsUrl": "https://maps.apple.com/?address=133%20Chrystie%20St,%20New%20York,%20NY%20%2010002,%20United%20States&auid=16105808995246083781&ll=40.719574,-73.993518&lsp=9902&q=Potluck%20Club&t=m"
   },
   {
@@ -1740,6 +1867,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍣",
     "mapsUrl": "https://maps.apple.com/?address=15%20W%2028th%20St,%20New%20York,%20NY%2010001,%20United%20States&auid=854781196321177585&ll=40.745184,-73.988239&lsp=9902&q=KazuNori&t=m"
   },
   {
@@ -1760,6 +1888,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌮",
     "mapsUrl": "https://maps.apple.com/?address=340%20Lafayette%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=3640782004528911873&ll=40.726242,-73.994698&lsp=9902&q=Los%20Tacos%20No.%201&t=m"
   },
   {
@@ -1780,6 +1909,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌮",
     "mapsUrl": "https://maps.apple.com/?address=125%20Park%20Ave,%20New%20York,%20NY%2010017,%20United%20States&auid=12578472570728013046&ll=40.751562,-73.977426&lsp=9902&q=Los%20Tacos%20No.%201&t=m"
   },
   {
@@ -1793,6 +1923,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=122%20Ithaca%20Beer%20Dr,%20Ithaca,%20NY%2014850,%20United%20States&auid=3983202911156988476&ll=42.416624,-76.535186&lsp=9902&q=Ithaca%20Beer%20Co&t=m"
   },
   {
@@ -1806,6 +1937,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=%E2%80%8B1897%20State%20Route%2090%20N%0AKing%20Ferry,%20NY%20%2013081%0AUnited%20States&auid=1109285200377254715&ll=42.709695,-76.681766&lsp=9902&q=Aurora%20Brewing%20Co&t=m"
   },
   {
@@ -1819,6 +1951,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple.com/?address=391%20Main%20St,%20Aurora,%20NY%20%2013026,%20United%20States&auid=10180096690681640147&ll=42.754497,-76.702900&lsp=9902&q=Aurora%20Inn&t=m"
   },
   {
@@ -1835,6 +1968,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "📚",
     "mapsUrl": "https://maps.apple.com/?address=32%20Adams%20St,%20Brooklyn,%20NY%20%2011201,%20United%20States&auid=17565214513547330976&ll=40.702915,-73.988731&lsp=9902&q=Powerhouse%20Books&t=m"
   },
   {
@@ -1854,6 +1988,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍝",
     "mapsUrl": "https://maps.apple.com/?address=111%20Front%20St,%20Brooklyn,%20NY%2011201,%20United%20States&auid=14356344157806872338&ll=40.702636,-73.989076&lsp=9902&q=AlMar&t=m"
   },
   {
@@ -1871,6 +2006,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥞",
     "mapsUrl": "https://maps.apple.com/?address=120%20Knowlesway%20Ext,%20Narragansett,%20RI%20%2002882,%20United%20States&auid=14845162445450698922&ll=41.387553,-71.486081&lsp=9902&q=Tommy%20D%E2%80%99s&t=m"
   },
   {
@@ -1887,6 +2023,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥙",
     "mapsUrl": "https://maps.apple.com/?address=13%20Central%20St,%20Wellesley,%20MA%20%2002482,%20United%20States&auid=15485090614131092422&ll=42.296509,-71.295036&lsp=9902&q=Juniper&t=m"
   },
   {
@@ -1903,6 +2040,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🎬",
     "mapsUrl": "https://maps.apple.com/?address=181-189%20Second%20Ave,%20New%20York,%20NY%2010003,%20United%20States&auid=17672057693257225311&ll=40.730957,-73.986210&lsp=9902&q=Village%20East%20by%20Angelika&t=m"
   },
   {
@@ -1920,6 +2058,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=203%20West%2019th%20Street,%20New%20York,%20NY%2010011,%20United%20States&auid=18058400434597194589&ll=40.741938,-73.997762&lsp=9902&q=Beer%20Run%20NYC&t=m"
   },
   {
@@ -1937,6 +2076,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=158%20Seventh%20Ave,%20New%20York,%20NY%2010011,%20United%20States&auid=12808089877482565350&ll=40.742039,-73.997511&lsp=9902&q=Craft+Carry&t=m"
   },
   {
@@ -1956,6 +2096,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=116%20St%20Marks%20Pl,%20New%20York,%20NY%20%2010009,%20United%20States&auid=14110949869914164409&ll=40.726891,-73.984176&lsp=9902&q=Craft+Carry&t=m"
   },
   {
@@ -1977,6 +2118,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍷",
     "mapsUrl": "https://maps.apple.com/?address=233%20West%20St,%20New%20York,%20NY%2010013,%20United%20States&auid=12574558530645995954&ll=40.721153,-74.012841&lsp=9902&q=City%20Vineyard&t=m"
   },
   {
@@ -1994,6 +2136,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥙",
     "mapsUrl": "https://maps.apple.com/?address=182%20Eighth%20Ave,%20New%20York,%20NY%2010011,%20United%20States&auid=2890595334483605103&ll=40.742946,-73.999965&lsp=9902&q=ZIZI&t=m"
   },
   {
@@ -2012,6 +2155,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/?address=217%20Commonwealth%20Ave,%20Boston,%20MA%2002116,%20United%20States&auid=8664350490358034842&ll=42.351371,-71.081842&lsp=9902&q=The%20'Quin%20House&t=m"
   },
   {
@@ -2033,6 +2177,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple.com/?address=411%20Third%20Ave,%20New%20York,%20NY%2010016,%20United%20States&auid=14155240247117532309&ll=40.742368,-73.980190&lsp=9902&q=Bella%20Union&t=m"
   },
   {
@@ -2050,6 +2195,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/?address=1102%20Forrest%20Ave,%20Nashville,%20TN%2037206,%20United%20States&auid=5842891921778307766&ll=36.178285,-86.749516&lsp=9902&q=Rosemary%20%26%20Beauty%20Queen&t=m"
   },
   {
@@ -2068,6 +2214,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🌇",
     "mapsUrl": "https://maps.apple.com/?address=215%20Chrystie%20St,%20New%20York,%20NY%2010002,%20United%20States&auid=3569303447551196100&ll=40.723015,-73.991966&lsp=9902&q=Public%20Hotel&t=m"
   },
   {
@@ -2085,6 +2232,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple.com/?address=18%20W%2056th%20St,%20New%20York,%20NY%20%2010019,%20United%20States&auid=10169477570288954680&ll=40.762718,-73.975736&lsp=9902&q=The%20Whitby%20Hotel"
   },
   {
@@ -2101,6 +2249,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple.com/?address=250%20Sand%20Hill%20Cove%20Rd,%20Narragansett,%20RI%20%2002882,%20United%20States&auid=443511297296824655&ll=41.376470,-71.512520&lsp=9902&q=Georges%20of%20Galilee"
   },
   {
@@ -2116,6 +2265,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=250%20Sand%20Hill%20Cove%20Rd,%20Narragansett,%20RI%20%2002882,%20United%20States&auid=443511297296824655&ll=41.376470,-71.512520&lsp=9902&q=Georges%20of%20Galilee"
   },
   {
@@ -2132,6 +2282,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🦞",
     "mapsUrl": "https://maps.apple.com/?address=256%20Great%20Island%20Rd,%20Narragansett,%20RI%20%2002882,%20United%20States&auid=8272084276794468335&ll=41.377201,-71.512781&lsp=9902&q=Champlin's%20Seafood%20Deck"
   },
   {
@@ -2149,6 +2300,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🦞",
     "mapsUrl": "https://maps.apple.com/?address=14%20E%2060th%20St,%20New%20York,%20NY%2010022,%20United%20States&auid=3078599772238151721&ll=40.764227,-73.971731&lsp=9902&q=Avra"
   },
   {
@@ -2165,6 +2317,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🇬🇷",
     "mapsUrl": "https://maps.apple.com/?address=19%20W%2044th%20St,%20New%20York,%20NY%2010036,%20United%20States&auid=14248408021927678160&ll=40.755451,-73.981041&lsp=9902&q=Kellari%20Taverna"
   },
   {
@@ -2180,6 +2333,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🍦",
     "mapsUrl": "https://maps.apple.com/?address=190%20Ocean%20Rd,%20Narragansett,%20RI%20%2002882,%20United%20States&auid=12710753141651901608&ll=41.422228,-71.455853&lsp=9902&q=Monahan%E2%80%99s%20Clam%20Shack%20by%20the%20Sea"
   },
   {
@@ -2197,6 +2351,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🦞",
     "mapsUrl": "https://maps.apple.com/?address=113%20Ocean%20Rd,%20Narragansett,%20RI%20%2002882,%20United%20States&auid=9277982269110730489&ll=41.426506,-71.456375&lsp=9902&q=Sea%20Craft"
   },
   {
@@ -2213,6 +2368,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌊",
     "mapsUrl": "https://maps.apple.com/?address=40%20Ocean%20Rd,%20Narragansett,%20RI%20%2002882,%20United%20States&auid=10404146440322959894&ll=41.430171,-71.455378&lsp=9902&q=Coast%20Guard%20House"
   },
   {
@@ -2230,6 +2386,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple.com/?address=51%20Kent%20Ave,%20Brooklyn,%20NY%2011249,%20United%20States&auid=13344316613014263568&ll=40.722368,-73.959317&lsp=9902&q=The%20Kent%20Ale%20House"
   },
   {
@@ -2247,6 +2404,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/?address=53%20Spring%20St,%20New%20York,%20NY%20%2010012,%20United%20States&auid=4342061074734895994&ll=40.722238,-73.996578&lsp=9902&q=Beyond%20The%20Pale"
   },
   {
@@ -2263,6 +2421,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=169%20E%20Broadway,%20New%20York,%20NY%2010002,%20United%20States&auid=4507862490602204806&ll=40.713870,-73.989728&lsp=9902&q=169%20Bar"
   },
   {
@@ -2280,6 +2439,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=144%20Sullivan%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=16579579237439259712&ll=40.727110,-74.001966&lsp=9902&q=Local"
   },
   {
@@ -2298,6 +2458,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👔",
     "mapsUrl": "https://maps.apple.com/?address=1%20Rivington%20St,%20New%20York,%20NY%20%2010002,%20United%20States&auid=1483402040864645605&ll=40.721432,-73.993210&lsp=9902&q=Antithesis"
   },
   {
@@ -2319,6 +2480,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👔",
     "mapsUrl": "https://maps.apple.com/?address=138%20Sullivan%20St,%20New%20York,%20NY%20%2010012,%20United%20States&auid=14001183336440349351&ll=40.726982,-74.002198&lsp=9902&q=%26%20Son"
   },
   {
@@ -2338,6 +2500,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👔",
     "mapsUrl": "https://maps.apple.com/?address=369%20Court%20St,%20Brooklyn,%20NY%20%2011231,%20United%20States&auid=14492003252203683321&ll=40.680764,-73.996493&lsp=9902&q=Ven.%20Space"
   },
   {
@@ -2355,6 +2518,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/?address=33%20Havemeyer%20St,%20Brooklyn,%20NY%2011211,%20United%20States&auid=18305424197331202852&ll=40.715632,-73.953485&lsp=9902&q=Best%20Pizza"
   },
   {
@@ -2373,6 +2537,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍖",
     "mapsUrl": "https://maps.apple.com/?address=454%20Van%20Brunt%20St,%20Brooklyn,%20NY%2011231,%20United%20States&auid=9761175323088100852&ll=40.674921,-74.016132&lsp=9902&q=Hometown%20Bar-B-Que"
   },
   {
@@ -2390,6 +2555,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍔",
     "mapsUrl": "https://maps.apple.com/?address=329%20Van%20Brunt%20St,%20Brooklyn,%20NY%2011231,%20United%20States&auid=8427991908074135356&ll=40.677879,-74.012094&lsp=9902&q=Red%20Hook%20Tavern"
   },
   {
@@ -2406,6 +2572,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=185%20Van%20Dyke%20St,%20Brooklyn,%20NY%2011231,%20United%20States&auid=6878728245204586038&ll=40.677195,-74.018832&lsp=9902&q=Strong%20Rope%20Brewery"
   },
   {
@@ -2423,6 +2590,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/?address=35%20Canal%20St,%20New%20York,%20NY%2010002,%20United%20States&auid=5842724913338238716&ll=40.714815,-73.990881&lsp=9902&q=Clandestino"
   },
   {
@@ -2438,6 +2606,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/?address=212%20Lafayette%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=11785002340486916529&ll=40.721770,-73.997807&lsp=9902&q=Caf%C3%A9%20Select"
   },
   {
@@ -2455,6 +2624,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🎤",
     "mapsUrl": "https://maps.apple.com/?address=115%20MacDougal%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=6962895407583357731&ll=40.730149,-74.000661&lsp=9902&q=Cafe%20Wha?"
   },
   {
@@ -2472,6 +2642,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple.com/?address=109%20MacDougal%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=10331383468855301483&ll=40.729902,-74.000746&lsp=9902&q=Off%20The%20Wagon"
   },
   {
@@ -2490,6 +2661,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍝",
     "mapsUrl": "https://maps.apple.com/?address=228%20W%2010th%20St,%20New%20York,%20NY%2010014,%20United%20States&auid=17280865865220956473&ll=40.733779,-74.005108&lsp=9902&q=L'Artusi"
   },
   {
@@ -2507,6 +2679,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=15%20E%20Seventh%20St,%20New%20York,%20NY%2010003,%20United%20States&auid=16899197548382341695&ll=40.728751,-73.989711&lsp=9902&q=McSorley%E2%80%99s%20Old%20Ale%20House"
   },
   {
@@ -2523,6 +2696,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏈",
     "mapsUrl": "https://maps.apple.com/?address=43%20E%207th%20St,%20New%20York,%20NY%20%2010003,%20United%20States&auid=7406586740730334701&ll=40.728279,-73.988579&lsp=9902&q=Standings"
   },
   {
@@ -2541,6 +2715,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍖",
     "mapsUrl": "https://maps.apple.com/?address=44%20Berry%20St,%20Brooklyn,%20NY%2011249,%20United%20States&auid=1323871320559900145&ll=40.721234,-73.956860&lsp=9902&q=Mable's%20Smokehouse"
   },
   {
@@ -2560,6 +2735,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥙",
     "mapsUrl": "https://maps.apple.com/?address=184%20Dekalb%20Ave,%20Brooklyn,%20NY%2011205,%20United%20States&auid=16912246226587035525&ll=40.689435,-73.972358&lsp=9902&q=Miss%20Ada"
   },
   {
@@ -2577,6 +2753,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥙",
     "mapsUrl": "https://maps.apple.com/?address=7%20Greene%20Ave,%20Brooklyn,%20NY%20%2011238,%20United%20States&auid=4616838717047778751&ll=40.686099,-73.973055&lsp=9902&q=Theodora"
   },
   {
@@ -2593,6 +2770,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=601%20W%2027th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&auid=14883019982148870155&ll=40.751646,-74.005365&lsp=9902&q=La%20Colombe%20Coffee%20Roasters&t=m"
   },
   {
@@ -2607,6 +2785,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "🚶",
     "mapsUrl": "https://maps.apple.com/?address=53037 San Gimignano SI, Italy&auid=9856527007362194359&ll=43.468473,11.042845&lsp=6489&q=San Gimignano"
   },
   {
@@ -2626,6 +2805,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍇",
     "mapsUrl": "https://maps.apple.com/?address=Mazzorbo 3, Fondamenta Santa Caterina, 30142 Mazzorbo, Venice, Italy&auid=9702307915432345643&ll=45.488583,12.410982&lsp=9902&q=威尼萨住宿加早餐旅馆"
   },
   {
@@ -2645,6 +2825,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple.com/?address=4196 Riva degli Schiavoni, 30122 Venice, Italy&auid=1462940169590230967&ll=45.433918,12.342137&lsp=9902&q=Hotel Danieli"
   },
   {
@@ -2660,6 +2841,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/?address=Corso Giuseppe Garibaldi 24, 42121 Reggio Emilia, Italy&auid=4962469904611985720&ll=44.696617,10.627209&lsp=9902&q=Pizzium - Reggio Emilia"
   },
   {
@@ -2677,6 +2859,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple/p/iJbjX4_W7_QN2P"
   },
   {
@@ -2696,6 +2879,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple.com/?address=Calle Tiepolo 1364\n30125 Venice\nItaly&auid=10219149744126136362&ll=45.436741,12.332129&lsp=9902&q=Aman Hotel Venice"
   },
   {
@@ -2713,6 +2897,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍝",
     "mapsUrl": "https://maps.apple.com/?address=San Marco 1809, Ramo dei Fuseri, 30124 Venice, Italy&auid=17437429313919248972&ll=45.434618,12.335490&lsp=9902&q=Ristorante da Ivo"
   },
   {
@@ -2727,6 +2912,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple.com/?address=Lungarno degli Acciaiuoli 4, 50123 Florence, Italy&auid=8394797979588657737&ll=43.768802,11.252706&lsp=9902&q=Portrait Firenze"
   },
   {
@@ -2746,6 +2932,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍝",
     "mapsUrl": "https://maps.apple.com/?address=314 Bleecker St, New York, NY 10014, United States&auid=2187296566589451376&ll=40.732791,-74.004038&lsp=9902&q=I Sodi"
   },
   {
@@ -2766,6 +2953,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍝",
     "mapsUrl": "https://maps.apple.com/?address=51 Grove St, New York, NY  10014, United States&auid=9447966867050921217&ll=40.733111,-74.003672&lsp=9902&q=Via Carota"
   },
   {
@@ -2783,6 +2971,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=349 E 14th St, New York, NY 10003, United States&auid=8236821760756699827&ll=40.731694,-73.982910&lsp=9902&q=O'Hanlon's Bar NYC"
   },
   {
@@ -2801,6 +2990,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🦜",
     "mapsUrl": "https://maps.apple.com/?address=174 Eighth Ave, New York, NY 10011, United States&auid=15429727626936612198&ll=40.742601,-74.000175&lsp=9902&q=Jungle Bird"
   },
   {
@@ -2823,6 +3013,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🥖",
     "mapsUrl": "https://maps.apple.com/?address=176 Eighth Ave, New York, NY  10011, United States&auid=7185153374651817395&ll=40.742659,-74.000131&lsp=9902&q=Loulou"
   },
   {
@@ -2842,6 +3033,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/?address=604 E 187th St %26 Street Arthur Ave, New York, NY 10458, United States&auid=7749236357872823203&ll=40.855245,-73.887472&lsp=9902&q=Casa Della Mozzarella"
   },
   {
@@ -2859,6 +3051,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/?address=733 Washington St, New York, NY 10014, United States&auid=8134765950454156791&ll=40.736323,-74.008206&lsp=9902&q=Automatic Slims"
   },
   {
@@ -2879,6 +3072,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍳",
     "mapsUrl": "https://maps.apple.com/?address=172%20Waverly%20Pl,%20New%20York,%20NY%2010014,%20United%20States&auid=2686552720119663329&ll=40.733920,-74.001348&lsp=9902&q=Jeffrey's%20Grocery"
   },
   {
@@ -2898,6 +3092,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/?address=165%20Linden%20St,%20Wellesley,%20MA%20%2002482,%20United%20States&auid=17092826919370085397&ll=42.299739,-71.291323&lsp=9902&q=Tatte%20Bakery%20%26%20Cafe"
   },
   {
@@ -2915,6 +3110,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/?address=570%20Washington%20St,%20Wellesley,%20MA%20%2002482,%20United%20States&auid=7520207191016692987&ll=42.296387,-71.292702&lsp=9902&q=Tutto%20Italiano"
   },
   {
@@ -2932,6 +3128,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👕",
     "mapsUrl": "https://maps.apple.com/?address=204 First Ave, New York, NY 10009, United States&auid=15673792248683931679&ll=40.730186,-73.983049&lsp=9902&q=L Train Vintage"
   },
   {
@@ -2951,6 +3148,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/?address=238 Court St, Brooklyn, NY 11201, United States&auid=1444816966678888309&ll=40.685892,-73.994428&lsp=9902&q=Sam's Restaurant and Pizzeria"
   },
   {
@@ -2972,6 +3170,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/?address=60 E 54th St, New York, NY  10022, United States&auid=14216877014744494891&ll=40.759890,-73.973230&lsp=9902&q=Monkey Bar"
   },
   {
@@ -2989,6 +3188,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🇨🇺",
     "mapsUrl": "https://maps.apple.com/?address=2067 Massachusetts Ave, Cambridge, MA 02138, United States&auid=14226301602781781375&ll=42.391394,-71.122852&lsp=9902&q=Gustazo Cuban Kitchen %26 Bar"
   },
   {
@@ -3005,6 +3205,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=5010 14th Ave NW, Seattle, WA  98107, United States&auid=10707259145013169540&ll=47.665412,-122.373240&lsp=9902&q=Reuben's Brews"
   },
   {
@@ -3021,6 +3222,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=1158 Broadway, Seattle, WA  98122, United States&auid=12285464878571385903&ll=47.612735,-122.320474&lsp=9902&q=Stoup Brewing"
   },
   {
@@ -3040,6 +3242,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🌺",
     "mapsUrl": "https://maps.apple.com/?address=305 Harrison St, Seattle, WA 98109, United States&auid=16976341489505700135&ll=47.620553,-122.350461&lsp=9902&q=Chihuly Garden and Glass"
   },
   {
@@ -3056,6 +3259,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🌴",
     "mapsUrl": "https://maps.apple.com/?address=6501 Aurora Ave N, Seattle, WA  98103, United States&auid=11720994484396524217&ll=47.676726,-122.346904&lsp=9902&q=Bongos Cafe"
   },
   {
@@ -3072,6 +3276,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🌳",
     "mapsUrl": "https://maps.apple.com/?address=Seattle, WA, United States&auid=16623216402020841326&ll=47.677189,-122.338891&lsp=9902&q=Green Lake"
   },
   {
@@ -3089,6 +3294,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥞",
     "mapsUrl": "https://maps.apple.com/?address=1410 34th Ave, Seattle, WA  98122, United States&auid=9317687749263165093&ll=47.613324,-122.289087&lsp=9902&q=Hi Spot Cafe"
   },
   {
@@ -3104,6 +3310,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple.com/?address=318 E Mercer St, Seattle, WA  98102, United States&auid=1542761285023015530&ll=47.624447,-122.326966&lsp=9902&q=Harry's Guest House"
   },
   {
@@ -3121,6 +3328,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🏖️",
     "mapsUrl": "https://maps.apple.com/?address=2676 Alki Ave SW, Seattle, WA  98116, United States&auid=9925839812370290358&ll=47.579308,-122.409103&lsp=9902&q=Harry's Beach House"
   },
   {
@@ -3142,6 +3350,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=247 E 81st St, New York, NY 10028, United States&auid=1431923523212566535&ll=40.774862,-73.954292&lsp=9902&q=Hutch and Waldo"
   },
   {
@@ -3159,6 +3368,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=69%20Grand%20St,%20Brooklyn,%20NY%20%2011249,%20United%20States&auid=12496924000123765580&ll=40.715973,-73.964725&lsp=9902&q=Devoci%C3%B3n"
   },
   {
@@ -3176,6 +3386,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=105%20York%20St,%20Brooklyn,%20NY%20%2011201,%20United%20States&auid=18340703680679998117&ll=40.701952,-73.986450&lsp=9902&q=Devoci%C3%B3n"
   },
   {
@@ -3193,6 +3404,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=600%20Lexington%20Ave,%20New%20York,%20NY%20%2010022,%20United%20States&auid=11793727103946193618&ll=40.758060,-73.971581&lsp=9902&q=Devoci%C3%B3n"
   },
   {
@@ -3212,6 +3424,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🎧",
     "mapsUrl": "https://maps.apple.com/?address=127%20MacDougal%20St,%20New%20York,%20NY%2010012,%20United%20States&auid=10581442838781717210&ll=40.730596,-74.000221&lsp=9902&q=Tokyo%20Record%20Bar"
   },
   {
@@ -3232,6 +3445,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍶",
     "mapsUrl": "https://maps.apple.com/?address=202%20E%20Seventh%20St,%20New%20York,%20NY%2010009,%20United%20States&auid=10393213560814497915&ll=40.724446,-73.980378&lsp=9902&q=Sake%20Bar%20Satsko"
   },
   {
@@ -3252,6 +3466,7 @@
       "Cafe",
       "Shopping"
     ],
+    "emoji": "👔",
     "mapsUrl": "https://maps.apple.com/?address=51%20Orchard%20St,%20New%20York,%20NY%20%2010002,%20United%20States&auid=14788471862394896391&ll=40.716555,-73.991150&lsp=9902&q=colbo"
   },
   {
@@ -3273,6 +3488,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍶",
     "mapsUrl": "https://maps.apple.com/?address=240%20E%209th%20St,%20New%20York,%20NY%20%2010003,%20United%20States&auid=11696355955446163880&ll=40.729292,-73.987771&lsp=9902&q=Sake%20Bar%20Decibel"
   },
   {
@@ -3291,6 +3507,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "🥐",
     "mapsUrl": "https://maps.apple.com/?address=35 Cooper Square, New York, NY 10003, United States&auid=977418046949114302&ll=40.728077,-73.990639&lsp=9902&q=Librae Bakery"
   },
   {
@@ -3314,6 +3531,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🦞",
     "mapsUrl": "https://maps.apple.com/?address=43 Canal St, New York, NY  10002, United States&auid=8435367028495241158&ll=40.714903,-73.991320&lsp=9902&q=Cervo's"
   },
   {
@@ -3331,6 +3549,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/?address=94 Avenue B, New York, NY 10009, United States&auid=2226892760355318823&ll=40.724675,-73.981744&lsp=9902&q=Sunny %26 Annie’s"
   },
   {
@@ -3349,6 +3568,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=178 E Seventh St, New York, NY  10009, United States&auid=13232823673987354303&ll=40.725111,-73.981613&lsp=9902&q=C%26B"
   },
   {
@@ -3369,6 +3589,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🌮",
     "mapsUrl": "https://maps.apple.com/?address=372 Lafayette St, New York, NY  10012, United States&auid=11150496598432238252&ll=40.727251,-73.993955&lsp=9902&q=Atla Noho"
   },
   {
@@ -3386,6 +3607,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=482 Sixth Ave, New York, NY 10011, United States&auid=17435230358159921839&ll=40.735843,-73.997687&lsp=9902&q=O Cafe"
   },
   {
@@ -3403,6 +3625,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=136 E 13th St, New York, NY 10003, United States&auid=10067013919956937003&ll=40.732733,-73.988250&lsp=9902&q=Everyman Espresso"
   },
   {
@@ -3421,6 +3644,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥞",
     "mapsUrl": "https://maps.apple.com/?address=1271 Third Ave, New York, NY 10021, United States&auid=17072955711380862690&ll=40.770451,-73.959785&lsp=9902&q=EJ's Luncheonette"
   },
   {
@@ -3439,6 +3663,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍛",
     "mapsUrl": "https://maps.apple.com/?address=472 Myrtle Ave, Brooklyn, NY  11205, United States&auid=11775623212507782503&ll=40.693205,-73.966374&lsp=9902&q=Lula Mae"
   },
   {
@@ -3458,6 +3683,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👖",
     "mapsUrl": "https://maps.apple.com/?address=169 Mercer St, New York, NY 10012, United States&auid=13697266484581750619&ll=40.725615,-73.998070&lsp=9902&q=45R - New York"
   },
   {
@@ -3476,6 +3702,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥞",
     "mapsUrl": "https://maps.apple.com/?address=67 W 44th St, New York, NY 10036, United States&auid=9303833641167069315&ll=40.756065,-73.982684&lsp=9902&q=Red Flame Coffee Shop"
   },
   {
@@ -3495,6 +3722,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/?address=495 Lorimer St, Brooklyn, NY 11211, United States&auid=6844793949261892624&ll=40.711693,-73.949119&lsp=9902&q=Edith’s Sandwich Counter"
   },
   {
@@ -3516,6 +3744,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥐",
     "mapsUrl": "https://maps.apple.com/?address=164 Graham Ave, Brooklyn, NY 11206, United States&auid=14601874938145892961&ll=40.707218,-73.942940&lsp=9902&q=Win Son Bakery"
   },
   {
@@ -3535,6 +3764,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/?address=604 E 187th St %26 Street Arthur Ave, New York, NY 10458, United States&auid=7749236357872823203&ll=40.855245,-73.887472&lsp=9902&q=Casa Della Mozzarella"
   },
   {
@@ -3550,6 +3780,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🏨",
     "mapsUrl": "https://maps.apple.com/?address=45 Seventh St, Garden City, NY 11530, United States&auid=5442190242912767180&ll=40.724485,-73.640529&lsp=9902&q=The Garden City Hotel"
   },
   {
@@ -3568,6 +3799,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "🥐",
     "mapsUrl": "https://maps.apple.com/?address=191 Seventh St, Garden City, NY 11530, United States&auid=16018843946475442483&ll=40.725568,-73.634432&lsp=9902&q=The French Workshop"
   },
   {
@@ -3588,6 +3820,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/?address=278 Bleecker St, New York, NY 10014, United States&auid=1535928768538509042&ll=40.731637,-74.003443&lsp=9902&q=John's of Bleecker Street"
   },
   {
@@ -3607,6 +3840,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/?address=152 2nd Ave, New York, NY 10003, United States&auid=1390060615924806993&ll=40.729397,-73.986821&lsp=9902&q=La Cabra"
   },
   {
@@ -3624,6 +3858,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍺",
     "mapsUrl": "https://maps.apple.com/?address=421 Eighth Ave, New York, NY  10001, United States&auid=863312702219089251&ll=40.751146,-73.995077&lsp=9902&q=The Irish Exit"
   },
   {
@@ -3643,6 +3878,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥪",
     "mapsUrl": "https://maps.apple.com/?address=404 Eighth Ave, New York, NY 10001, United States&auid=9652501442521757534&ll=40.749725,-73.994965&lsp=9902&q=Gardenia Deli"
   },
   {
@@ -3658,6 +3894,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍗",
     "mapsUrl": "https://maps.apple.com/?address=20 Astor Pl, New York, NY  10003, United States&auid=7086690699300992706&ll=40.729796,-73.991999&lsp=9902&q=Raising Cane's"
   },
   {
@@ -3676,6 +3913,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🥙",
     "mapsUrl": "https://maps.apple.com/?address=61 W Eighth St, New York, NY  10011, United States&auid=8374138926142333027&ll=40.733513,-73.999043&lsp=9902&q=Shmoné"
   },
   {
@@ -3696,6 +3934,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=77 Irving Pl, New York, NY 10003, United States&auid=4470870147021778418&ll=40.737007,-73.986853&lsp=9902&q=Hutch + Waldo"
   },
   {
@@ -3714,6 +3953,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=152 2nd Ave, New York, NY 10003, United States&auid=1390060615924806993&ll=40.729397,-73.986821&lsp=9902&q=La Cabra"
   },
   {
@@ -3732,6 +3972,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👗",
     "mapsUrl": "https://maps.apple.com/?address=178 1st Avenue, New York, NY 10009, United States&auid=4340575766222274504&ll=40.729149,-73.983870&lsp=9902&q=REVMPD"
   },
   {
@@ -3750,6 +3991,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/?address=60 W 55th St, New York, NY 10019, United States&auid=14421895422853732207&ll=40.762508,-73.977283&lsp=9902&q=Benoit"
   },
   {
@@ -3765,6 +4007,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍗",
     "mapsUrl": "https://maps.apple.com/?address=949 Commonwealth Ave, Boston, MA  02215, United States&auid=15315921400872712994&ll=42.351869,-71.118733&lsp=9902&q=Raising Cane's"
   },
   {
@@ -3783,6 +4026,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "🛍️",
     "mapsUrl": "https://maps.apple.com/?address=160 Lexington Ave, New York, NY 10016, United States&auid=570135870939797183&ll=40.744124,-73.981762&lsp=9902&q=Dover Street Market"
   },
   {
@@ -3800,6 +4044,7 @@
     "buckets": [
       "Bar"
     ],
+    "emoji": "🎱",
     "mapsUrl": "https://maps.apple.com/?address=335 Smith St, Brooklyn, NY 11231, United States&auid=11076986536842434407&ll=40.680500,-73.994556&lsp=9902&q=Brooklyn Social"
   },
   {
@@ -3818,6 +4063,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=25 E 20th St, New York, NY  10003, United States&auid=10392020385583311291&ll=40.739077,-73.989127&lsp=9902&q=Devoción"
   },
   {
@@ -3836,6 +4082,7 @@
     "buckets": [
       "Cafe"
     ],
+    "emoji": "☕",
     "mapsUrl": "https://maps.apple.com/?address=81 E Seventh St, New York, NY 10003, United States&auid=5452936772443023715&ll=40.727425,-73.986123&lsp=9902&q=Abraço"
   },
   {
@@ -3854,6 +4101,7 @@
     "buckets": [
       "Shopping"
     ],
+    "emoji": "👗",
     "mapsUrl": "https://maps.apple.com/?address=83 E 7th St, New York, NY  10003, United States&auid=3550862174094918250&ll=40.727279,-73.986104&lsp=9902&q=Tokio7"
   },
   {
@@ -3872,6 +4120,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/?address=575 Henry St, Brooklyn, NY 11231, United States&auid=5231570280289323978&ll=40.681818,-74.000360&lsp=9902&q=Lucali"
   },
   {
@@ -3889,6 +4138,7 @@
     "buckets": [
       "Other"
     ],
+    "emoji": "🪩",
     "mapsUrl": "https://maps.apple.com/?address=98 Meserole Ave, Brooklyn, NY 11222, United States&auid=12079861238232834135&ll=40.726885,-73.952832&lsp=9902&q=Good Room"
   },
   {
@@ -3905,6 +4155,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍽️",
     "mapsUrl": "https://maps.apple.com/?address=511 W 18th St, New York, NY 10011, United States&auid=4350042102285915503&ll=40.745079,-74.006959&lsp=9902&q=Cucina Alba"
   },
   {
@@ -3923,6 +4174,7 @@
       "Restaurants",
       "Bar"
     ],
+    "emoji": "🍸",
     "mapsUrl": "https://maps.apple.com/?address=13 First Ave, New York, NY  10003, United States&auid=624401298588406004&ll=40.723452,-73.988551&lsp=9902&q=Superbueno"
   },
   {
@@ -3939,6 +4191,7 @@
     "buckets": [
       "Restaurants"
     ],
+    "emoji": "🍕",
     "mapsUrl": "https://maps.apple.com/?address=132 W Houston St, New York, NY  10012, United States&auid=11814286171068293673&ll=40.727978,-74.001359&lsp=9902&q=Song’E Napule"
   }
 ]
