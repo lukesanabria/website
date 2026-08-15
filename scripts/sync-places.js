@@ -25,7 +25,9 @@ const RESTAURANT_CAFE_OVERRIDES = {
     "Edith's Sandwich Counter ": 'Cafe',
     'Dolce Delight': 'Cafe',
     'Hutch + Waldo': 'Cafe',
-    'Win Son Bakery': 'Restaurants'
+    'Win Son Bakery': 'Restaurants',
+    'The Epicurean': 'Cafe',
+    'Phoenicia Diner': 'Restaurants'
 };
 
 function bucketsForTags(tags, name) {
@@ -52,12 +54,33 @@ function bucketsForTags(tags, name) {
     return buckets.length ? buckets : ['Other'];
 }
 
-function extractLatLng(mapsUrl) {
+// A plain fetch() gets blocked/404s on Apple's short-link redirector without a browser UA.
+const BROWSER_USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15';
+
+async function extractLatLng(mapsUrl) {
     if (!mapsUrl) return { error: 'missing Maps url' };
-    if (!mapsUrl.includes('maps.apple.com')) return { error: 'non-Apple Maps link' };
-    const match = mapsUrl.match(/[?&](?:ll|coordinate)=(-?\d+(?:\.\d+)?)(?:,|%2C)(-?\d+(?:\.\d+)?)/i);
-    if (!match) return { error: 'no ll= or coordinate= param found' };
-    return { lat: parseFloat(match[1]), lng: parseFloat(match[2]) };
+    if (!mapsUrl.includes('maps.apple.com') && !mapsUrl.includes('maps.apple/')) {
+        return { error: 'non-Apple Maps link' };
+    }
+
+    const directMatch = mapsUrl.match(/[?&](?:ll|coordinate)=(-?\d+(?:\.\d+)?)(?:,|%2C)(-?\d+(?:\.\d+)?)/i);
+    if (directMatch) {
+        return { lat: parseFloat(directMatch[1]), lng: parseFloat(directMatch[2]) };
+    }
+
+    // Newer maps.apple/p/... short links carry no coordinates in the URL itself —
+    // resolve the redirect and read the destination page's Open Graph place meta tags.
+    try {
+        const res = await fetch(mapsUrl, { headers: { 'User-Agent': BROWSER_USER_AGENT } });
+        if (!res.ok) return { error: `short-link resolve failed (HTTP ${res.status})` };
+        const html = await res.text();
+        const lat = html.match(/place:location:latitude"\s*content="(-?\d+(?:\.\d+)?)"/);
+        const lng = html.match(/place:location:longitude"\s*content="(-?\d+(?:\.\d+)?)"/);
+        if (!lat || !lng) return { error: 'no coordinates found after resolving short link' };
+        return { lat: parseFloat(lat[1]), lng: parseFloat(lng[1]) };
+    } catch (err) {
+        return { error: `short-link resolve error: ${err.message}` };
+    }
 }
 
 function titleText(page) {
@@ -116,7 +139,7 @@ async function main() {
         const neighborhoods = (page.properties['Neighborhood']?.multi_select || []).map((o) => o.name);
         const tags = (page.properties['Tags']?.multi_select || []).map((o) => o.name);
 
-        const coords = extractLatLng(mapsUrl);
+        const coords = await extractLatLng(mapsUrl);
         if (coords.error) {
             skipped.push({ name, reason: coords.error });
             continue;

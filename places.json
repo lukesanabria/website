@@ -1,5 +1,161 @@
 [
   {
+    "name": "The Village Porch",
+    "lat": 35.6414552,
+    "lng": -82.5762999,
+    "neighborhoods": [],
+    "tags": [
+      "Bar",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple/p/b_XCZgG0PHn~u0"
+  },
+  {
+    "name": "Islamorado Brewery and Distillery",
+    "lat": 24.9241371,
+    "lng": -80.6279655,
+    "neighborhoods": [],
+    "tags": [
+      "Bar",
+      "Cocktail Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple/p/fTPMCbf8JMvatj"
+  },
+  {
+    "name": "Lazy Days Restaurant",
+    "lat": 24.8983437,
+    "lng": -80.6570774,
+    "neighborhoods": [],
+    "tags": [
+      "Restaurants",
+      "Seafood"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/tTTvxQkh~vfiDn"
+  },
+  {
+    "name": "Lorelei Restaurant and Beer Garden",
+    "lat": 24.9216213,
+    "lng": -80.6332092,
+    "neighborhoods": [],
+    "tags": [
+      "Bar",
+      "Restaurants",
+      "Outdoor"
+    ],
+    "buckets": [
+      "Restaurants",
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple/p/7bsesxZLr.p84G"
+  },
+  {
+    "name": "Better Buzz Coffee Shop",
+    "lat": 32.783659,
+    "lng": -117.2524777,
+    "neighborhoods": [
+      "Mission Beach"
+    ],
+    "tags": [
+      "Cafe"
+    ],
+    "buckets": [
+      "Cafe"
+    ],
+    "mapsUrl": "https://maps.apple/p/~mnd3-SnPdI5gw"
+  },
+  {
+    "name": "Miss B’s Coconut Club",
+    "lat": 32.7826795,
+    "lng": -117.2526752,
+    "neighborhoods": [
+      "Mission Beach"
+    ],
+    "tags": [
+      "Restaurants",
+      "Takeout",
+      "Carribean"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/zrsynTqeDoWnDA"
+  },
+  {
+    "name": "Cannonball",
+    "lat": 32.7700226,
+    "lng": -117.2526443,
+    "neighborhoods": [
+      "Mission Beach"
+    ],
+    "tags": [
+      "Restaurants",
+      "Asian Fusion",
+      "Outdoor",
+      "Sushi"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/8HDT1IohpcVuHS"
+  },
+  {
+    "name": "Firehouse",
+    "lat": 32.7947695,
+    "lng": -117.2555029,
+    "neighborhoods": [
+      "Pacific Beach"
+    ],
+    "tags": [
+      "Restaurants",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/S66XMFRk3Lmw8u"
+  },
+  {
+    "name": "Waterbar",
+    "lat": 32.7938856,
+    "lng": -117.2557014,
+    "neighborhoods": [
+      "Pacific Beach"
+    ],
+    "tags": [
+      "Restaurants",
+      "American"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/1LFUbbN0YA~owE"
+  },
+  {
+    "name": "Pacific Beach Shore Club",
+    "lat": 32.7942403,
+    "lng": -117.2558471,
+    "neighborhoods": [
+      "Pacific Beach"
+    ],
+    "tags": [
+      "Bar",
+      "Sports Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "mapsUrl": "https://maps.apple/p/5uC3zJ.q2dce3X"
+  },
+  {
     "name": "Nenes Taqueria",
     "lat": 40.678516,
     "lng": -73.982032,
@@ -71,6 +227,70 @@
       "Restaurants"
     ],
     "mapsUrl": "https://maps.apple.com/place?address=226%207th%20Ave,%20Brooklyn,%20NY%20%2011215,%20United%20States&coordinate=40.670247,-73.979017&name=Vato&place-id=I4509D38DFC8272B7&map=transit"
+  },
+  {
+    "name": "The Emerson Hotel",
+    "lat": 42.0498203,
+    "lng": -74.2873316,
+    "neighborhoods": [],
+    "tags": [
+      "Hotel",
+      "Spa"
+    ],
+    "buckets": [
+      "Other"
+    ],
+    "mapsUrl": "https://maps.apple/p/XG8u~WEf7Fq.3K"
+  },
+  {
+    "name": "The Epicurean",
+    "lat": 41.9197494,
+    "lng": -73.9511884,
+    "neighborhoods": [],
+    "tags": [
+      "Local Grocery",
+      "Breakfast Sandwich",
+      "Breakfast",
+      "Cafe",
+      "Coffee",
+      "Lunch"
+    ],
+    "buckets": [
+      "Cafe"
+    ],
+    "mapsUrl": "https://maps.apple/p/7yAroTV4J7UKx6"
+  },
+  {
+    "name": "Sunrise Bagels",
+    "lat": 41.9423714,
+    "lng": -73.9984042,
+    "neighborhoods": [],
+    "tags": [
+      "Breakfast",
+      "Breakfast Sandwich",
+      "Takeout",
+      "Bagels"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/5ZAFcTYdqir~jm"
+  },
+  {
+    "name": "Phoenicia Diner",
+    "lat": 41.9376503,
+    "lng": -74.0285998,
+    "neighborhoods": [],
+    "tags": [
+      "Diner",
+      "Breakfast",
+      "Lunch",
+      "Coffee"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "mapsUrl": "https://maps.apple/p/gSWSwQqTt-u-~Y"
   },
   {
     "name": "Cubana Cafe",

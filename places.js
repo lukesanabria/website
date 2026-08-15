@@ -62,7 +62,7 @@ function initMap() {
 }
 
 const BUCKET_EMOJI = {
-    Restaurants: '🍽️',
+    Restaurants: '🍴',
     Cafe: '☕',
     Bar: '🍸',
     Shopping: '👔',
