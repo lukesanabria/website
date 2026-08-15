@@ -92,16 +92,24 @@ function glyphForPlace(place) {
     return BUCKET_EMOJI[bucket];
 }
 
+// A custom-element annotation (vs. the built-in MarkerAnnotation balloon)
+// so the badge can be sized larger — these are Luke's picks, not generic
+// map POIs, and should read as more prominent than Apple's own labels.
+function createPlaceMarkerElement(place) {
+    const el = document.createElement('div');
+    el.className = 'place-marker';
+    el.textContent = glyphForPlace(place);
+    return el;
+}
+
 async function loadPlaces() {
     const res = await fetch('places.json');
     const places = await res.json();
 
     allAnnotations = places.map((place) => {
         const coordinate = new mapkit.Coordinate(place.lat, place.lng);
-        const annotation = new mapkit.MarkerAnnotation(coordinate, {
+        const annotation = new mapkit.Annotation(coordinate, () => createPlaceMarkerElement(place), {
             title: place.name,
-            color: '#2C2C2C',
-            glyphText: glyphForPlace(place),
             calloutEnabled: false,
             clusteringIdentifier: 'place'
         });

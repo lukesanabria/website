@@ -310,6 +310,30 @@ button:focus-visible {
 }
 
 /* ============================================
+   PLACES MAP MARKERS
+   ============================================ */
+
+.place-marker {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #2C2C2C;
+    border: 2.5px solid #FAFAF9;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+    font-size: 20px;
+    line-height: 1;
+    cursor: pointer;
+    transition: transform 0.15s ease;
+}
+
+.place-marker:hover {
+    transform: scale(1.12);
+}
+
+/* ============================================
    PRINT STYLES
    ============================================ */
 
