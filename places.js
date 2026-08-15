@@ -61,26 +61,6 @@ function initMap() {
     });
 }
 
-function escapeHtml(str) {
-    const div = document.createElement('div');
-    div.textContent = str;
-    return div.innerHTML;
-}
-
-function buildCallout(place) {
-    const el = document.createElement('div');
-    el.className = 'p-3 max-w-xs';
-    el.innerHTML = `
-        <h3 class="font-semibold text-charcoal dark:text-ivory mb-1">${escapeHtml(place.name)}</h3>
-        <p class="text-xs text-warm-gray mb-2">${place.tags.map(escapeHtml).join(', ')}</p>
-        <a href="${place.mapsUrl}" target="_blank" rel="noopener noreferrer"
-           class="text-sm font-medium underline decoration-warm-gray/40 hover:decoration-current">
-            Open in Apple Maps
-        </a>
-    `;
-    return el;
-}
-
 async function loadPlaces() {
     const res = await fetch('places.json');
     const places = await res.json();
@@ -90,12 +70,13 @@ async function loadPlaces() {
         const annotation = new mapkit.MarkerAnnotation(coordinate, {
             title: place.name,
             color: '#2C2C2C',
-            glyphText: '📍'
+            glyphText: '📍',
+            calloutEnabled: false
         });
         annotation.data = place;
-        annotation.calloutDelegate = {
-            calloutElementForAnnotation: (a) => buildCallout(a.data)
-        };
+        annotation.addEventListener('select', () => {
+            window.open(place.mapsUrl, '_blank', 'noopener,noreferrer');
+        });
         return annotation;
     });
 
