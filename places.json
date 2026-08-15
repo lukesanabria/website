@@ -1,5 +1,75 @@
 [
   {
+    "name": "Cafe Lyria",
+    "lat": 40.7258,
+    "lng": -73.9955,
+    "neighborhoods": [
+      "Noho",
+      "Downtown"
+    ],
+    "tags": [
+      "Cafe"
+    ],
+    "buckets": [
+      "Cafe"
+    ],
+    "emoji": "☕",
+    "mapsUrl": "https://maps.apple/p/Qd8jDcTgYpXqL~"
+  },
+  {
+    "name": "L&B Spumoni Gardens",
+    "lat": 40.5947398,
+    "lng": -73.9813613,
+    "neighborhoods": [
+      "Bensonhurst"
+    ],
+    "tags": [
+      "Pizza",
+      "Restaurants",
+      "Takeout"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "emoji": "🍕",
+    "mapsUrl": "https://maps.apple/p/eYDzYn8pN02U_g"
+  },
+  {
+    "name": "L&B Spumoni Gardens",
+    "lat": 40.7022084,
+    "lng": -73.9932569,
+    "neighborhoods": [
+      "Brooklyn",
+      "DUMBO"
+    ],
+    "tags": [
+      "Pizza",
+      "Restaurants",
+      "Takeout"
+    ],
+    "buckets": [
+      "Restaurants"
+    ],
+    "emoji": "🍕",
+    "mapsUrl": "https://maps.apple.com/place?place-id=IA481A7B2B2DDB2DE&_provider=9902"
+  },
+  {
+    "name": "Harry’s Bar",
+    "lat": 45.4324685,
+    "lng": 12.3372549,
+    "neighborhoods": [
+      "Torchello"
+    ],
+    "tags": [
+      "Cocktail Bar"
+    ],
+    "buckets": [
+      "Bar"
+    ],
+    "emoji": "🍸",
+    "mapsUrl": "https://maps.apple/p/m-pBae3.KI55-9"
+  },
+  {
     "name": "Lucibello’s Italian Pastry Shop",
     "lat": 41.3075317,
     "lng": -72.9190096,
