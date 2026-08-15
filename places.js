@@ -99,6 +99,15 @@ function createPlaceMarkerElement(place) {
     const el = document.createElement('div');
     el.className = 'place-marker';
     el.textContent = glyphForPlace(place);
+
+    // Absolutely positioned so it doesn't grow the wrapper's own box —
+    // MapKit centers the marker on the wrapper's bounds, and the badge
+    // needs to stay pinned exactly on the coordinate, label or not.
+    const label = document.createElement('span');
+    label.className = 'place-marker-label';
+    label.textContent = place.name;
+    el.appendChild(label);
+
     return el;
 }
 
