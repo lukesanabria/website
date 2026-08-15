@@ -67,6 +67,7 @@ function initMap() {
     map.annotationForCluster = (clusterAnnotation) => {
         const count = clusterAnnotation.memberAnnotations.length;
         clusterAnnotation.title = `${count} places`;
+        clusterAnnotation.subtitle = ''; // clear MapKit's default "+N more" subtitle
         clusterAnnotation.color = '#2C2C2C';
         clusterAnnotation.glyphText = String(count);
         clusterAnnotation.calloutEnabled = false;
