@@ -59,6 +59,21 @@ function initMap() {
             : mapkit.Map.ColorSchemes.Light,
         showsMapTypeControl: false
     });
+
+    // MapKit auto-clusters any annotations sharing a clusteringIdentifier once
+    // they'd overlap on screen, and re-clusters live as the map zooms/pans —
+    // no manual bucketing by zoom level needed. This callback only styles the
+    // cluster marker MapKit builds for us.
+    map.annotationForCluster = (clusterAnnotation) => {
+        const count = clusterAnnotation.memberAnnotations.length;
+        clusterAnnotation.title = `${count} places`;
+        clusterAnnotation.color = '#2C2C2C';
+        clusterAnnotation.glyphText = String(count);
+        clusterAnnotation.calloutEnabled = false;
+        clusterAnnotation.addEventListener('select', () => {
+            map.showItems(clusterAnnotation.memberAnnotations, { animate: true });
+        });
+    };
 }
 
 const BUCKET_EMOJI = {
@@ -86,7 +101,8 @@ async function loadPlaces() {
             title: place.name,
             color: '#2C2C2C',
             glyphText: glyphForPlace(place),
-            calloutEnabled: false
+            calloutEnabled: false,
+            clusteringIdentifier: 'place'
         });
         annotation.data = place;
         annotation.addEventListener('select', () => {
@@ -113,9 +129,13 @@ function chipClasses(active) {
 }
 
 function applyFilters() {
-    allAnnotations.forEach((a) => {
-        a.visible = activeBuckets.size === 0 || a.data.buckets.some((b) => activeBuckets.has(b));
-    });
+    // Annotations are added/removed from the map (not just toggled via
+    // `.visible`) because MapKit's clustering counts hidden-but-still-added
+    // annotations too — leaving a filtered-out place invisible but still
+    // padding a nearby cluster's number.
+    const isMatch = (a) => activeBuckets.size === 0 || a.data.buckets.some((b) => activeBuckets.has(b));
+    map.removeAnnotations(allAnnotations.filter((a) => !isMatch(a)));
+    map.addAnnotations(allAnnotations.filter(isMatch));
 }
 
 function renderChips(places) {
