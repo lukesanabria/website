@@ -61,6 +61,20 @@ function initMap() {
     });
 }
 
+const BUCKET_EMOJI = {
+    Restaurants: '🍽️',
+    Cafe: '☕',
+    Bar: '🍸',
+    Shopping: '👔',
+    Other: '📍'
+};
+const BUCKET_PRIORITY = ['Restaurants', 'Cafe', 'Bar', 'Shopping', 'Other'];
+
+function glyphForPlace(place) {
+    const bucket = BUCKET_PRIORITY.find((b) => place.buckets.includes(b)) || 'Other';
+    return BUCKET_EMOJI[bucket];
+}
+
 async function loadPlaces() {
     const res = await fetch('places.json');
     const places = await res.json();
@@ -70,7 +84,7 @@ async function loadPlaces() {
         const annotation = new mapkit.MarkerAnnotation(coordinate, {
             title: place.name,
             color: '#2C2C2C',
-            glyphText: '📍',
+            glyphText: glyphForPlace(place),
             calloutEnabled: false
         });
         annotation.data = place;

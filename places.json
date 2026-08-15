@@ -182,8 +182,7 @@
       "Quick food"
     ],
     "buckets": [
-      "Restaurants",
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/place?place-id=IF30BE25E6EC5371A&address=169+Thompson+St%2C+Ste+B%2C+New+York%2C+NY++10012%2C+United+States&coordinate=40.7276965%2C-74.0004375&name=Leon%27s+Bagels&_provider=9902"
   },
@@ -654,8 +653,7 @@
       "Quick food"
     ],
     "buckets": [
-      "Restaurants",
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=495 Lorimer St, Brooklyn, NY 11211, United States&auid=6844793949261892624&ll=40.711693,-73.949119&lsp=9902&q=Edith’s Sandwich Counter"
   },
@@ -761,7 +759,7 @@
       "Bakery"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/place?address=298%20Court%20St,%20Brooklyn,%20NY%2011231,%20United%20States&coordinate=40.684052,-73.995353&name=Court%20Pastry%20Shop&place-id=I8C888199193941BA&map=transit"
   },
@@ -1001,7 +999,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=540 Park Ave, New York, NY 10021, United States&auid=18066894040254917962&ll=40.764563,-73.969162&lsp=9902&q=Sant Ambroeus Coffee Bar at Loews Regency Hotel&t=r"
   },
@@ -1053,8 +1051,7 @@
       "American"
     ],
     "buckets": [
-      "Restaurants",
-      "Coffee/Cafe"
+      "Restaurants"
     ],
     "mapsUrl": "https://maps.apple.com/?address=1307%20Stratford%20Ct,%20Del%20Mar,%20CA%20%2092014,%20United%20States&auid=10732857635364135372&ll=32.957522,-117.265266&lsp=9902&q=Stratford%20Court%20Cafe&t=r"
   },
@@ -1071,8 +1068,7 @@
       "Pastries"
     ],
     "buckets": [
-      "Restaurants",
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=1080%20Danby%20Rd,%20Ithaca,%20NY%20%2014850,%20United%20States&auid=6875603454930789107&ll=42.408210,-76.503335&lsp=9902&q=Dolce%20Delight&t=r"
   },
@@ -1091,7 +1087,7 @@
       "Coffee"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=67%20Cooper%20Square,%20New%20York,%20NY%20%2010003,%20United%20States&auid=915282337298529642&ll=40.729141,-73.989937&lsp=9902&q=Hani%E2%80%99s&t=r"
   },
@@ -1144,7 +1140,7 @@
       "Coffee"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=201%20Bleecker%20St,%20New%20York,%20NY%20%2010012,%20United%20States&auid=2091107839309993771&ll=40.729492,-74.001639&lsp=9902&q=Porto%20Rico%20Importing%20Co&t=r"
   },
@@ -2244,7 +2240,7 @@
       "Coffee"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=601%20W%2027th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&auid=14883019982148870155&ll=40.751646,-74.005365&lsp=9902&q=La%20Colombe%20Coffee%20Roasters&t=m"
   },
@@ -2778,8 +2774,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Restaurants",
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=247 E 81st St, New York, NY 10028, United States&auid=1431923523212566535&ll=40.774862,-73.954292&lsp=9902&q=Hutch and Waldo"
   },
@@ -2796,7 +2791,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=69%20Grand%20St,%20Brooklyn,%20NY%20%2011249,%20United%20States&auid=12496924000123765580&ll=40.715973,-73.964725&lsp=9902&q=Devoci%C3%B3n"
   },
@@ -2813,7 +2808,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=105%20York%20St,%20Brooklyn,%20NY%20%2011201,%20United%20States&auid=18340703680679998117&ll=40.701952,-73.986450&lsp=9902&q=Devoci%C3%B3n"
   },
@@ -2830,7 +2825,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=600%20Lexington%20Ave,%20New%20York,%20NY%20%2010022,%20United%20States&auid=11793727103946193618&ll=40.758060,-73.971581&lsp=9902&q=Devoci%C3%B3n"
   },
@@ -2888,7 +2883,7 @@
       "Coffee"
     ],
     "buckets": [
-      "Coffee/Cafe",
+      "Cafe",
       "Shopping"
     ],
     "mapsUrl": "https://maps.apple.com/?address=51%20Orchard%20St,%20New%20York,%20NY%20%2010002,%20United%20States&auid=14788471862394896391&ll=40.716555,-73.991150&lsp=9902&q=colbo"
@@ -2928,7 +2923,7 @@
       "Coffee"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=35 Cooper Square, New York, NY 10003, United States&auid=977418046949114302&ll=40.728077,-73.990639&lsp=9902&q=Librae Bakery"
   },
@@ -2986,7 +2981,7 @@
       "Breakfast Sandwich"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=178 E Seventh St, New York, NY  10009, United States&auid=13232823673987354303&ll=40.725111,-73.981613&lsp=9902&q=C%26B"
   },
@@ -3023,7 +3018,7 @@
       "Coffee"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=482 Sixth Ave, New York, NY 10011, United States&auid=17435230358159921839&ll=40.735843,-73.997687&lsp=9902&q=O Cafe"
   },
@@ -3040,7 +3035,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=136 E 13th St, New York, NY 10003, United States&auid=10067013919956937003&ll=40.732733,-73.988250&lsp=9902&q=Everyman Espresso"
   },
@@ -3132,8 +3127,7 @@
       "Quick food"
     ],
     "buckets": [
-      "Restaurants",
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=495 Lorimer St, Brooklyn, NY 11211, United States&auid=6844793949261892624&ll=40.711693,-73.949119&lsp=9902&q=Edith’s Sandwich Counter"
   },
@@ -3154,8 +3148,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Restaurants",
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=164 Graham Ave, Brooklyn, NY 11206, United States&auid=14601874938145892961&ll=40.707218,-73.942940&lsp=9902&q=Win Son Bakery"
   },
@@ -3207,7 +3200,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=191 Seventh St, Garden City, NY 11530, United States&auid=16018843946475442483&ll=40.725568,-73.634432&lsp=9902&q=The French Workshop"
   },
@@ -3335,8 +3328,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Restaurants",
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=77 Irving Pl, New York, NY 10003, United States&auid=4470870147021778418&ll=40.737007,-73.986853&lsp=9902&q=Hutch + Waldo"
   },
@@ -3354,7 +3346,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=152 2nd Ave, New York, NY 10003, United States&auid=1390060615924806993&ll=40.729397,-73.986821&lsp=9902&q=La Cabra"
   },
@@ -3458,7 +3450,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=25 E 20th St, New York, NY  10003, United States&auid=10392020385583311291&ll=40.739077,-73.989127&lsp=9902&q=Devoción"
   },
@@ -3476,7 +3468,7 @@
       "Cafe"
     ],
     "buckets": [
-      "Coffee/Cafe"
+      "Cafe"
     ],
     "mapsUrl": "https://maps.apple.com/?address=81 E Seventh St, New York, NY 10003, United States&auid=5452936772443023715&ll=40.727425,-73.986123&lsp=9902&q=Abraço"
   },

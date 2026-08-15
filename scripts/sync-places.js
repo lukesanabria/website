@@ -9,17 +9,46 @@ const path = require('path');
 const DATA_SOURCE_ID = '1babd595-22bc-4d1e-88e7-28c98cf2f0ca';
 const NOTION_VERSION = '2025-09-03';
 
-const CATEGORY_RULES = {
-    Restaurants: ['Restaurants', 'Dinner', 'Lunch', 'Breakfast', 'Pizza', 'Italian', 'Mexican', 'Japanese', 'American', 'Quick food', 'Takeout'],
-    Bar: ['Bar', 'Cocktail Bar', 'Sports Bar', 'Wine Bar', 'Drinks'],
-    'Coffee/Cafe': ['Coffee', 'Cafe', 'Pastries'],
-    Shopping: ['Shopping', 'Fashion', 'Menswear', 'Multi-brand']
+const RESTAURANT_TAGS = ['Restaurants', 'Dinner', 'Lunch', 'Breakfast', 'Pizza', 'Italian', 'Mexican', 'Japanese', 'American', 'Quick food', 'Takeout'];
+const CAFE_TAGS = ['Coffee', 'Cafe', 'Pastries'];
+const BAR_TAGS = ['Bar', 'Cocktail Bar', 'Sports Bar', 'Wine Bar', 'Drinks'];
+const SHOPPING_TAGS = ['Shopping', 'Fashion', 'Menswear', 'Multi-brand'];
+
+// Restaurants and Cafe are mutually exclusive (Luke's call). A handful of places
+// are tagged with signals for both — resolved here by name pending his confirmation;
+// anything not listed defaults to Cafe and gets a console warning so new ambiguous
+// places surface on future syncs instead of silently picking a side.
+const RESTAURANT_CAFE_OVERRIDES = {
+    'Stratford Court Cafe': 'Restaurants',
+    'Leon’s Bagels': 'Cafe',
+    "Edith's Sandwich Counter": 'Cafe',
+    "Edith's Sandwich Counter ": 'Cafe',
+    'Dolce Delight': 'Cafe',
+    'Hutch + Waldo': 'Cafe',
+    'Win Son Bakery': 'Cafe'
 };
 
-function bucketsForTags(tags) {
-    const buckets = Object.entries(CATEGORY_RULES)
-        .filter(([, tagList]) => tagList.some((t) => tags.includes(t)))
-        .map(([bucket]) => bucket);
+function bucketsForTags(tags, name) {
+    const buckets = [];
+
+    const isCafe = CAFE_TAGS.some((t) => tags.includes(t));
+    const isRestaurant = RESTAURANT_TAGS.some((t) => tags.includes(t));
+
+    if (isCafe && isRestaurant) {
+        const resolved = RESTAURANT_CAFE_OVERRIDES[name];
+        if (!resolved) {
+            console.warn(`  ⚠ "${name}" is tagged as both Restaurant and Cafe signals — defaulting to Cafe. Add it to RESTAURANT_CAFE_OVERRIDES to change.`);
+        }
+        buckets.push(resolved || 'Cafe');
+    } else if (isCafe) {
+        buckets.push('Cafe');
+    } else if (isRestaurant) {
+        buckets.push('Restaurants');
+    }
+
+    if (BAR_TAGS.some((t) => tags.includes(t))) buckets.push('Bar');
+    if (SHOPPING_TAGS.some((t) => tags.includes(t))) buckets.push('Shopping');
+
     return buckets.length ? buckets : ['Other'];
 }
 
@@ -101,7 +130,7 @@ async function main() {
             lng: coords.lng,
             neighborhoods,
             tags,
-            buckets: bucketsForTags(tags),
+            buckets: bucketsForTags(tags, name),
             mapsUrl
         });
     }
